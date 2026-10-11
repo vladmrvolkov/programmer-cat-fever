@@ -1,0 +1,11 @@
+<!--Mode: Opus 5.5 Extra-->
+
+It's a visual retelling of a classic old joke, painted in the style of a 15th-century Flemish master.
+
+**The joke.** The traditional version goes something like this: a horse (or dog, or some other animal) walks into a bar and orders a drink. The amazed bartender says, "You know, the circus is in town, they'd love to have you!" The animal replies, "Why would a circus need a bricklayer?" The humor is that the animal is completely unaware of what makes it remarkable. It sees itself in terms of its profession, while everyone else just sees a talking animal. Here it's updated for today: a tabby cat is working on code at a café table, the waiter excitedly offers his uncle's circus business card, and the cat, paw raised in polite puzzlement, asks what they'd need a programmer for.
+
+**The art-historical reference.** The setting is a clear nod to Jan van Eyck's *Arnolfini Portrait* (1434). You can see it in the round convex mirror on the back wall, the bullseye-glass leaded windows, the wooden ceiling beams, and the crisp, angular folds of the waiter's apron, a hallmark of early Netherlandish drapery. The painter even added craquelure (fine cracking) to the wall to suggest an old panel painting. The modern intrusions are played for comedy: an espresso machine, a laptop, parked cars, and a circus tent visible through the window.
+
+**The mirror is the cleverest part.** In the original van Eyck, the mirror reveals two figures standing in the doorway, roughly where the viewer would be, possibly including the painter himself. Here, the mirror shows the uncle, a mustachioed ringmaster in a top hat holding a cage and a whip, standing in the doorway and waiting. He doesn't appear in the main scene, which means he's standing exactly where *we* are. The viewer is cast as the ringmaster, which adds a slightly sinister undertone to the waiter's cheerful offer of "any terms you like."
+
+There's another sly echo too. The *Arnolfini Portrait* is often read as a marriage or betrothal scene, and here the waiter is down on one knee, holding out a card the way someone might hold out a ring. It's a proposal of sorts, just not one the cat seems interested in. And where van Eyck included a little dog as a symbol of fidelity, this version gives the cat center stage.
