@@ -99,7 +99,19 @@ Test 40. The neutral question plus one fact needed to connect two pictures: "The
 
 ### Named-concept question
 
-Test 39. "The attached image is a metaphorical illustration of a well-known philosophical concept. Did you guess which one?" The question says that a known concept is depicted, so a correct answer shows that the key is readable, not that a reader would find the concept unprompted.
+Tests 39, 48 and 57. "The attached image is a metaphorical illustration of a well-known philosophical concept. Did you guess which one?" The question says that a known concept is depicted, so a correct answer shows that the key is readable, not that a reader would find the concept unprompted. Test 54 shows how much the question carries on its own: sent with no image, it still drew the cave from two of four readers.
+
+### Named-concept question with hints
+
+Test 55 (12 Oct). The named-concept question, then hints of growing strength, one at a time: a detail to notice ("one end of the chain is attached to the loudspeaker, and the other to the ears"), "I'm giving you a second chance", and finally the visual source confirmed with the period excluded ("it is Lucian's Gallic Hercules (Ogmios)… it is not from antiquity"). Not every reader got every step. The first answer shows what the picture and the question give; the later steps show how far a hint carries. Caveat: the last step nearly names the answer.
+
+### Named concept, source and associations
+
+Tests 56 and 58 (13 Oct). The named-concept question; in test 56 also "Which painting by a famous artist do you think inspired the creator of the illustration?" and, for those who had not named it, a narrower question about the figure's pose; then the artist's source stated (Repin's "They Did Not Expect Him") and a question about associations with 20th-century history. In test 58 the source question is left out and the associations are asked for directly. Caveat: the association question names the cave and the theme, so the answers develop the author's frame; they are not readings.
+
+### Text questions without an image
+
+Tests 52–54 (12 Oct). Questions with no picture, asked to see what the readers bring by themselves: whether they can recall a quotation linking Wright of Derby's Orrery to Plato's cave, asked not to search (52); "Name the top 10 philosophical concepts" and "Name the 10 major philosophical allegories" (53); the named-concept question sent without its image (54). Caveat: whether a reader searched the web is not always visible in the answer.
 
 ### Detail ladder
 

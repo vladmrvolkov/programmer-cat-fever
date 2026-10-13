@@ -194,4 +194,4 @@ All the answers in full: the [test pages](../../tests/README.md).
 
 ---
 
-*© 2026 V.Volkov. Licensed under [CC BY-NC 4.0](../../LICENSE).*
+*© 2026 V. Volkov. Licensed under [CC BY-NC 4.0](../../LICENSE).*

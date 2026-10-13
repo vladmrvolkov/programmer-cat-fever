@@ -87,7 +87,7 @@ Gemini's version was not planned as a weakened one: the generator departed from 
 | Hogarth: bulldog instead of pug (`32`, 3 Oct) | not recognised | not recognised | not recognised | not recognised |
 | Hogarth: pug, book spines, "line of beauty" (`34`, 3 Oct) | the artist, not the painting | **the painting** | **the painting** | the artist, not the painting |
 | Cave, dark, ChatGPT (`41`, 6 Oct) | on the second try | **recognised** | **recognised** | **recognised** |
-| Cave, light, Gemini (`54`, 9 Oct; ChatGPT — GPT-6) | not recognised (Nietzsche's perspectivism) | not recognised ("the Enlightenment" via Wright; rejected the cave) | on the second try | **recognised** |
+| Cave, light, Gemini (`54`, 9 Oct; ChatGPT — GPT-6) | not recognised (Nietzsche's perspectivism) | not recognised ("the Enlightenment" via Wright; the cave only as a passing alternative) | on the second try | **recognised** |
 
 From this, the patterns referred to later on.
 
@@ -362,7 +362,7 @@ The generalisation also explains the results of the context tests. **A frame wor
 
 **The check of 9 October came from two sides.**
 - **The manga with a verbal frame.** The frame named xenophobia and a Japanese reader — and the fork became a particular case of a known trope: "gaijin fork", "Nihongo jouzu". Claude made the inference at once, ChatGPT and Gemini at the question about the fork. Exactly what the generalisation predicts: the frame gave a formula, and the detail follows from it.
-- **The cave in Gemini's light version.** The cave's key ("the sun shut outside") weakened, while the key of Wright's painting remained. Only DeepSeek named the cave on the first try. Claude recognised Wright and answered "the Enlightenment", rejecting the cave: "people are looking at the light source itself, not at shadows". The readers did not stop looking for a formula; they took another ready one — the meaning of the source painting itself (K2, K3).
+- **The cave in Gemini's light version.** The cave's key ("the sun shut outside") weakened, while the key of Wright's painting remained. Only DeepSeek named the cave on the first try. Claude recognised Wright and answered "the Enlightenment"; it considered the cave and found the Enlightenment a better fit — "people are looking at the light source itself, not at shadows" — adding "or maybe even the moment in Plato when the freed prisoner first turns toward the fire". The readers did not stop looking for a formula; they took another ready one — the meaning of the source painting itself (K2, K3).
 
 ## Thoughts on the default
 
@@ -721,4 +721,4 @@ ChatGPT's two reviews of the tests and my comparison with them remain in the pro
 
 ---
 
-*© 2026 V.Volkov. Licensed under [CC BY-NC 4.0](../../LICENSE).*
+*© 2026 V. Volkov. Licensed under [CC BY-NC 4.0](../../LICENSE).*

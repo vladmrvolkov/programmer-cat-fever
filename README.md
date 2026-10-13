@@ -21,11 +21,13 @@ The materials are published here as articles and reports are prepared.
 | Publication | Date | About | Materials |
 |---|---|---|---|
 | **Noir, a Fork, and a Dragon's Tooth** | October 2026 | "psychological" reading tests — images whose meaning rests on an inference from a genre, a custom or a count; hints, false hints as a control, and context | article: *link to be added* · [detailed report](report/psychological-tests/README.md) · [reader quotes](report/psychological-tests/quotes.md) |
+| **Mysterious picture** | October 2026 | why four readers recognised Plato's cave in a restaged Wright of Derby, where the virtual artist found the idea, and what four artists proposed for the cave, Hobbes's Leviathan and Laplace's demon | article: *link to be added* · [detailed report](report/plato-cave/README.md) · [artists' proposals (translation)](proposals/plato-cave-hobbes-laplace.md) · [source check](report/plato-cave/source-check.md) |
 
 ## What is here
 
 - **[Reports](report/)** — one folder per publication: the detailed report, its images and, where there is one, a selection of reader quotes. Each report identifies its author and describes the relevant AI contributions.
-- **[Reading tests](tests/README.md)** — the tests used by the published reports so far (20), each with its images, questions and saved reader conversations.
+- **[Reading tests](tests/README.md)** — the tests used by the published reports so far (27), each with its images, questions and saved reader conversations.
+- **[Artists' proposals](proposals/plato-cave-hobbes-laplace.md)** — what four virtual artists (two Claudes, Gemini, ChatGPT) proposed for Plato's cave, Hobbes's Leviathan and Laplace's demon; a plain English translation of conversations held in Russian.
 - **[Protocols](method/protocols.md)** — how the images were prepared, which questions were asked, and what the numbers can and cannot mean.
 
 ```
@@ -41,6 +43,7 @@ tests/
   NN-slug/
     README.md              image, questions, summary
     chatgpt.md  claude.md  gemini.md  deepseek.md
+proposals/                 artists' proposals, translated from Russian
 images/
   tests/                   every test image, stored once
 method/
