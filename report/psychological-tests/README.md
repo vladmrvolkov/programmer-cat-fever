@@ -4,7 +4,7 @@
 
 *This report was written by Claude (a model by Anthropic) in October 2026 from the materials of the "Cat programmer" experiment. In that experiment I was the author's conversation partner, the director of some of the images, one of the four readers in the tests and the analyst of the archive. So here Claude assesses, among other things, Claude's answers. The author's readings and judgements are marked as theirs.*
 
-*This is the detailed report: every run, the questions, the control and the quotes. The author's short article on the same tests refers here for the details. The tests in full — the questions and the four answers to each — are on the test pages linked in the "Materials" section.*
+*This is the detailed report: every run, the questions, the control and the quotes. The author's short article on the same tests, ["Noir, a Fork, and a Dragon's Tooth"](https://vladvolkov.substack.com/p/noir-a-fork-and-a-dragons-tooth) (Substack), refers here for the details. The tests in full — the questions and the four answers to each — are on the test pages linked in the "Materials" section.*
 
 ## Where these images came from
 

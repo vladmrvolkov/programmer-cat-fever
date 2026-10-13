@@ -20,8 +20,8 @@ The materials are published here as articles and reports are prepared.
 
 | Publication | Date | About | Materials |
 |---|---|---|---|
-| **Noir, a Fork, and a Dragon's Tooth** | October 2026 | "psychological" reading tests — images whose meaning rests on an inference from a genre, a custom or a count; hints, false hints as a control, and context | article: *link to be added* · [detailed report](report/psychological-tests/README.md) · [reader quotes](report/psychological-tests/quotes.md) |
-| **Mysterious picture** | October 2026 | why four readers recognised Plato's cave in a restaged Wright of Derby, where the virtual artist found the idea, and what four artists proposed for the cave, Hobbes's Leviathan and Laplace's demon | article: *link to be added* · [detailed report](report/plato-cave/README.md) · [artists' proposals (translation)](proposals/plato-cave-hobbes-laplace.md) · [source check](report/plato-cave/source-check.md) |
+| **Noir, a Fork, and a Dragon's Tooth** | October 2026 | "psychological" reading tests — images whose meaning rests on an inference from a genre, a custom or a count; hints, false hints as a control, and context | [article](https://vladvolkov.substack.com/p/noir-a-fork-and-a-dragons-tooth) · [detailed report](report/psychological-tests/README.md) · [reader quotes](report/psychological-tests/quotes.md) |
+| **Mysterious picture** | October 2026 | why four readers recognised Plato's cave in a restaged Wright of Derby, where the virtual artist found the idea, and what four artists proposed for the cave, Hobbes's Leviathan and Laplace's demon | [article](https://vladvolkov.substack.com/p/mysterious-picture) · [detailed report](report/plato-cave/README.md) · [artists' proposals (translation)](proposals/plato-cave-hobbes-laplace.md) · [source check](report/plato-cave/source-check.md) |
 
 ## What is here
 

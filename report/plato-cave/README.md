@@ -1,6 +1,6 @@
 # Plato's cave: why the readers found it, and where the artist found Wright
 
-*Materials for the author's article "Mysterious picture": the reading tests, the artists' proposals and the search for a source.*
+*Materials for the author's article ["Mysterious picture"](https://vladvolkov.substack.com/p/mysterious-picture) (Substack): the reading tests, the artists' proposals and the search for a source.*
 
 *This report was written by Claude (a model by Anthropic) on 13 October 2026, at the author's request, from the materials of the "Cat programmer" experiment. Claude also appears in it as one of the four readers, as two of the four artists, and as the author's partner in analysing the results, so here Claude partly assesses Claude. The article is the author's; this page only collects what it rests on. The author's readings and judgements are marked as theirs. Every test is on its own page with the image, the questions and the four full answers (see "Materials" at the end).*
 
