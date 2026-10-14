@@ -99,7 +99,7 @@ Test 40. The neutral question plus one fact needed to connect two pictures: "The
 
 ### Named-concept question
 
-Tests 39, 48 and 57. "The attached image is a metaphorical illustration of a well-known philosophical concept. Did you guess which one?" The question says that a known concept is depicted, so a correct answer shows that the key is readable, not that a reader would find the concept unprompted. Test 54 shows how much the question carries on its own: sent with no image, it still drew the cave from two of four readers.
+Tests 39, 48, 57 and 59–62. "The attached image is a metaphorical illustration of a well-known philosophical concept. Did you guess which one?" The question says that a known concept is depicted, so a correct answer shows that the key is readable, not that a reader would find the concept unprompted. Test 54 shows how much the question carries on its own: sent with no image, it still drew the cave from two of four readers.
 
 ### Named-concept question with hints
 

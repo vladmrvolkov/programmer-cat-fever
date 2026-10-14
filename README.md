@@ -26,7 +26,7 @@ The materials are published here as articles and reports are prepared.
 ## What is here
 
 - **[Reports](report/)** — one folder per publication: the detailed report, its images and, where there is one, a selection of reader quotes. Each report identifies its author and describes the relevant AI contributions.
-- **[Reading tests](tests/README.md)** — the tests used by the published reports so far (27), each with its images, questions and saved reader conversations.
+- **[Reading tests](tests/README.md)** — the tests used by the published reports so far (31), each with its images, questions and saved reader conversations.
 - **[Artists' proposals](proposals/plato-cave-hobbes-laplace.md)** — what four virtual artists (two Claudes, Gemini, ChatGPT) proposed for Plato's cave, Hobbes's Leviathan and Laplace's demon; a plain English translation of conversations held in Russian.
 - **[Protocols](method/protocols.md)** — how the images were prepared, which questions were asked, and what the numbers can and cannot mean.
 
@@ -68,12 +68,12 @@ Every answer file starts with an HTML comment naming the mode, e.g. `<!--Mode: S
 |---|---|---|
 | ChatGPT | Sol 5.6 High; GPT-6 High from test 48 | reads pictures made by the same company's generator |
 | Claude | Opus 5.5 Extra | early September: Opus 5 Extra, Sonnet 5 Extra (as labelled) |
-| Gemini | Flash 3.8 Extended | early September: Flash 3.7 Extended (as labelled) |
+| Gemini | Flash 3.8 Extended; Argon from test 59 (Argon High in tests 61–62) | early September: Flash 3.7 Extended (as labelled) |
 | DeepSeek | web, DeepThink on | exact model version not independently verified |
 
 ## About the images
 
-The visual artwork was generated with ChatGPT, Gemini and Midjourney. Several images were retouched by the author by hand; the test pages say so where it applies. Some supporting pages, including the manga's notes page, were laid out in HTML by Claude. Some images imitate the manner of a named artist or tradition (Daumier, Reiser, the Soviet magazine *Krokodil*, Chizhikov, Pirosmani, Bruegel, Chagall) or restage a famous painting (van Eyck, Caravaggio, Hogarth, Bruegel, Wright of Derby) — these are generators' imitations, not works by those artists. The test copies were re-saved as JPEG without metadata and renamed before being shown to the models. Tests on works by human artists are not included.
+The visual artwork was generated with ChatGPT, Gemini and Midjourney (except Wright of Derby's paintings in tests 59 and 62). Several images were retouched by the author by hand; the test pages say so where it applies. Some supporting pages, including the manga's notes page, were laid out in HTML by Claude. Some images imitate the manner of a named artist or tradition (Daumier, Reiser, the Soviet magazine *Krokodil*, Chizhikov, Pirosmani, Bruegel, Chagall) or restage a famous painting (van Eyck, Caravaggio, Hogarth, Bruegel, Wright of Derby) — these are generators' imitations, not works by those artists. The test copies were re-saved as JPEG without metadata and renamed before being shown to the models. Tests on works by human artists are not included, with two exceptions: tests 59 and 62 show Wright of Derby's original "A Philosopher Lecturing on the Orrery" (c. 1766) and "An Experiment on a Bird in the Air Pump" (1768), both in the public domain, as controls.
 
 ## Not included (yet)
 

@@ -2,7 +2,7 @@
 
 *Materials for the author's article ["Mysterious picture"](https://vladvolkov.substack.com/p/mysterious-picture) (Substack): the reading tests, the artists' proposals and the search for a source.*
 
-*This report was written by Claude (a model by Anthropic) on 13 October 2026, at the author's request, from the materials of the "Cat programmer" experiment. Claude also appears in it as one of the four readers, as two of the four artists, and as the author's partner in analysing the results, so here Claude partly assesses Claude. The article is the author's; this page only collects what it rests on. The author's readings and judgements are marked as theirs. Every test is on its own page with the image, the questions and the four full answers (see "Materials" at the end).*
+*This report was written by Claude (a model by Anthropic) on 13 October 2026 (tests 59–62 added on 14 October), at the author's request, from the materials of the "Cat programmer" experiment. Claude also appears in it as one of the four readers, as two of the four artists, and as the author's partner in analysing the results, so here Claude partly assesses Claude. The article is the author's; this page only collects what it rests on. The author's readings and judgements are marked as theirs. Every test is on its own page with the image, the questions and the four full answers (see "Materials" at the end).*
 
 ## The question
 
@@ -20,11 +20,18 @@ The picture at the top of the author's article is a later Midjourney rework of t
 
 ## The tests at a glance
 
+![All picture tests of this report](img/plato-cave-all-tests.jpg)
+*The ten picture tests of this report, with the test number, the picture number in the author's analysis and the result of the first question. Tests 52–54 are text questions without a picture.*
+
 | Test | Picture or question | The cave on the first answer | What else |
 |---|---|---|---|
 | [39](../../tests/39-cave-planetarium/README.md) | `41`: Wright's Orrery, dark (ChatGPT image) | 3 of 4 (ChatGPT at the second try) | ChatGPT first: Laplace's demon |
 | [48](../../tests/48-cave-planetarium-gemini/README.md) | `54`: the same concept, lighter (Gemini) | 1 of 4 | Enlightenment, perspectivism, clockwork universe |
 | [57](../../tests/57-cave-planetarium-tenebrism/README.md) | `59`: `54` reworked dark, with a beam (Midjourney) | 4 of 4 | — |
+| [60](../../tests/60-cave-planetarium-tenebrism-without-beam/README.md) | `62`: `59` with the beam removed (ChatGPT edit) | 3 of 4 (Gemini: first in a list) | — |
+| [59](../../tests/59-wright-orrery-original/README.md) | `61`: Wright's original painting | 0 of 4 | Enlightenment, clockwork universe; all four recognised Wright |
+| [61](../../tests/61-cave-planetarium-light-simplified/README.md) | `63`: `54` without badges and without daylight (light) | 2 of 4 | Enlightenment, clockwork universe |
+| [62](../../tests/62-wright-air-pump-original/README.md) | `64`: Wright's "Air Pump", original | 0 of 4 (not mentioned at all) | Schrödinger's cat, Enlightenment |
 | [52](../../tests/52-wright-and-cave-recall/README.md) | text: recall a quotation linking Wright to the cave | — | none recalled one |
 | [53](../../tests/53-top-ten-concepts-and-allegories/README.md) | text: top 10 concepts; top 10 allegories | 1 of 4; 4 of 4 (all first) | — |
 | [54](../../tests/54-cave-question-without-image/README.md) | the cave question with no image | 2 of 4 named it anyway | — |
@@ -32,7 +39,29 @@ The picture at the top of the author's article is a later Midjourney rework of t
 | [56](../../tests/56-cave-return-repin/README.md) | `58`: the return to the cave, after Repin | 4 of 4, all as the return | Repin named by 2 of 4 |
 | [58](../../tests/58-cave-ascent-photograph/README.md) | `60`: the same concept as a photograph | 4 of 4, all as an ascent | — |
 
-Readers: ChatGPT (Sol 5.6 High in test 39, GPT-6 High from test 48), Claude (Opus 5.5 Extra), Gemini (Flash 3.8 Extended), DeepSeek (DeepThink). One fresh chat per model and test; one answer per model.
+Readers: ChatGPT (Sol 5.6 High in test 39, GPT-6 High from test 48), Claude (Opus 5.5 Extra), Gemini (Flash 3.8 Extended; Argon in tests 59–60, Argon High in 61–62), DeepSeek (DeepThink). One fresh chat per model and test; one answer per model.
+
+## What the readers read in the first picture
+
+How the four readers of test 39 read picture `41`, compared with the artist's concept (its proposal and its own account of the idea, in the [translation](../../proposals/plato-cave-hobbes-laplace.md), sections 1.1–1.3) and with the author's reading in the article ("people are studying an artificial sun, having shut themselves off from the real one… The lecturer is either an enlightened philosopher… or, conversely, a puppeteer").
+
+| Element of the concept | Who read it |
+|---|---|
+| **The lamp that plays the sun** ("Plato's fire that passes itself off as the sun") | all four. Claude: "the prisoners in the cave see things by firelight rather than sunlight" |
+| **A model of the world instead of the world** ("a shadow today looks not like a shadow but like a visual model") | all four: they study "a constructed representation", "a manufactured system" |
+| **The strip of daylight in the blinds that nobody has turned toward** | Claude ("only a thin sliver of daylight slips through… nobody is looking at it") and Gemini; ChatGPT only "the blinds shut"; DeepSeek no |
+| **The Enlightenment painting enlightenment by lamplight** (the irony of the source) | Claude ("what was once a celebration of illumination becomes a picture of people content with a lamp-lit imitation") and Gemini ("inverts the message") |
+| **The lecturer: a philosopher standing by the fire, or a puppeteer** | Claude: the man with the clicker plays those behind the prisoners who carry the objects. DeepSeek: philosopher, puppeteer, or the one who returned. ChatGPT and Gemini: no |
+| **Satire on today's analysts** | Claude, very close: "conference rooms where people take polished models, dashboards, and presentations for the world itself" |
+| **Lanyard badges instead of chains** | **nobody.** The badges are mentioned (Gemini, DeepSeek, Claude) as a sign of a modern office, not as chains |
+| **The note-taker as the prisoners' champion at guessing the next shadow** | **nobody** |
+| **The switched-off LED ring: "the light of our century is off, and the lamp is burning"** | **nobody** in test 39. In tests 60 and 61 Claude and Gemini noticed the ring, but read it as a halo over the "guru" |
+
+Beyond the concept: "the map is not the territory" (Claude, Gemini, DeepSeek), Baudrillard's simulacra (Gemini, DeepSeek), the clockwork universe (Gemini, DeepSeek), and Laplace's demon (ChatGPT's first answer).
+
+What reached everyone is what the artist called the key: a lamp in place of the sun and a model in place of the world, "the whole cave in one object". The shut-out day and the irony about the Enlightenment reached two. What did not reach anyone needed either knowledge of Plato's text (the honours for guessing shadows) or a symbolic substitution (badges for chains, the switched-off ring). This matches the project's general finding: meaning put into an object gets through; meaning put into a substitution or a gesture does not.
+
+Two details bear on the philosophical question. The readers placed the model differently in Plato's scheme: DeepSeek as the shadows, Gemini as the puppets and replicas, Claude as the carried objects whose shadows the prisoners see — closest to the text. And none of them raised the obvious objection that the people in the picture know they are looking at a model: Gemini and DeepSeek wrote that they mistake it for the cosmos; only Claude put it as being "content with a lamp-lit imitation". Whether that difference — choosing a copy rather than mistaking it — still makes a cave is the question the author later put to [Philosophy Stack Exchange](https://philosophy.stackexchange.com/questions/142593/is-reading-wright-s-orrery-as-plato-s-cave-philosophically-sound).
 
 ## 1. What the question brings by itself
 
@@ -46,7 +75,7 @@ So the question "a metaphorical illustration of a well-known philosophical conce
 
 **Recalling a source.** Asked to recall, not search, a quotation linking Wright's painting to the cave (test 52), none of the four recalled one, and all four said so. Three called the parallel an inversion: Wright's artificial light teaches, Plato's deceives (Claude: "a cave that knows it's a cave"). Gemini warned that any polished attributed quotation would be confabulated, and then quoted Martin Reinhart: "the shadows on the wall of Plato's cave have been replaced by sparkling stars". The essay exists and has this sentence, but it is about Boullée's cenotaph for Newton; Wright's painting comes up in another paragraph and is not tied to the cave (see section 5).
 
-## 2. Darkness
+## 2. Darkness, the beam and the original
 
 The same concept was generated three times, and the readers' answers follow the light:
 
@@ -65,7 +94,46 @@ The same concept was generated three times, and the readers' answers follow the 
 
 With the light picture the readers did not stop looking for a formula; they took another ready one, the meaning of the source painting (Wright = the Enlightenment). In the dark rework all four used the beam through the blinds that everyone has their back to (Claude: "The real sun is right there… and nobody turns toward it") and the lecturer's shadow on the wall.
 
-What this does and does not show: between `54` and `59` more than one thing changed — the darkness, the dark suits and a beam that became a visible shaft across the room. So the effect cannot be put down to darkness alone; the beam is at least as likely to carry it, as the author's caption in the article also says. ChatGPT, discussing these results with the author (section 5), proposed a cleaner check — the dark picture with only the brightness raised, and the dark picture without the window — and also showing the original Wright painting with the same question. Neither was run.
+Between `54` and `59` more than one thing changed — the darkness, the dark suits and a beam that became a visible shaft across the room. ChatGPT, discussing these results with the author (section 5), proposed cleaner checks: the dark picture without the outside light, and the original Wright painting with the same question. On 14 October the author ran both, and two more: a simplified light version and Wright's other dark painting, "An Experiment on a Bird in the Air Pump".
+
+**Without the beam** (test 60). The beam was removed from `59` by editing, and the picture still read as the cave: ChatGPT, Claude and DeepSeek named it, and Gemini listed it first among four options without choosing. The readers now relied on the drawn blinds (Claude: "The real sun is shut out. The blinds are drawn against daylight"), the artificial flame and the lecturer's shadow on the wall.
+
+![The dark version without the beam](../../images/tests/60-cave-planetarium-tenebrism-without-beam.jpg)
+*Image `62` (test 60): `59` with the beam removed by ChatGPT.*
+
+The beam had to be removed by editing because of what the author noticed about Midjourney. `59` was generated from a prompt that included "a single sharp, blinding horizontal beam of daylight cuts through tightly closed window blinds". The same prompt without that sentence gave a much lighter, evenly lit picture, close to Gemini's `54`. The beam in the prompt seems to be what switches Midjourney into its tenebrist manner. This rests on one generation per prompt, so it is an observation, not a measurement — but it means that in `59` darkness and beam came together, as a package, from one sentence.
+
+![Midjourney, the same prompt without the beam](img/plato-cave-midjourney-prompt-without-beam.jpg)
+*Midjourney's result for `59`'s prompt with the sentence about the beam left out. Not part of any test.*
+
+**The original painting** (test 59). Wright's "A Philosopher Lecturing on the Orrery", with the same question. All four recognised the painting, and none gave the cave as the main answer: ChatGPT and DeepSeek answered the Enlightenment; Gemini the Enlightenment, the clockwork universe and empiricism, mentioning the cave only in its closing question; Claude the clockwork universe and the Enlightenment, with the cave third ("that reading works too, maybe more cleverly than it first seems").
+
+![Wright of Derby's original](../../images/tests/59-wright-orrery-original.jpg)
+*Image `61` (test 59): Joseph Wright of Derby, "A Philosopher Lecturing on the Orrery", c. 1766 (public domain).*
+
+**The other Wright** (test 62). "An Experiment on a Bird in the Air Pump" (1768) is the painting the Gemini and ChatGPT artists named for the cave, and the one the first Claude artist offered as a variant. Shown with the same question, it got no cave at all, not even as an option. ChatGPT and Claude answered Schrödinger's cat (Claude: "a retroactive metaphor"), DeepSeek the Enlightenment, Gemini a list from the Enlightenment to the sublime with Schrödinger's cat last. The painting has its own strong key — a living creature in a sealed vessel, between life and death until someone acts — and the readers took the formula it points to.
+
+![Wright of Derby's Air Pump](../../images/tests/62-wright-air-pump-original.jpg)
+*Image `64` (test 62): Joseph Wright of Derby, "An Experiment on a Bird in the Air Pump", 1768 (public domain).*
+
+**A simplified light version** (test 61). Gemini's light `54` with the lanyard badges removed and the blinds closed, no daylight coming through; the lighting stays even. ChatGPT and DeepSeek named the cave; Claude and Gemini, who recognised Wright, answered the Enlightenment and put the cave last or into a closing question. 2 of 4, against 1 of 4 for `54` — within the noise of single answers.
+
+![The light version, simplified](../../images/tests/61-cave-planetarium-light-simplified.jpg)
+*Image `63` (test 61): `54` without badges and without daylight in the blinds.*
+
+Taken together:
+
+| Picture | Dark | Modern room, blinds drawn | Beam of daylight | The cave as the main answer |
+|---|---|---|---|---|
+| `61` Wright's "Orrery", original | yes | no | no | 0 of 4 |
+| `64` Wright's "Air Pump", original | yes | no | no | 0 of 4 (not mentioned) |
+| `54` Gemini, light | no | yes (daylight visible) | no | 1 of 4 |
+| `63` Gemini, light, simplified (no badges) | no | yes (blinds closed) | no | 2 of 4 |
+| `41` ChatGPT, dark | yes | yes | a thin strip | 3 of 4 |
+| `62` dark, beam removed | yes | yes | no | 3 of 4 (Gemini: first in a list) |
+| `59` dark, with the beam | yes | yes | yes | 4 of 4 |
+
+So the cave is not recalled from Wright's painting: the Orrery reads as the Enlightenment, and the Air Pump, the other dark Wright the artists reached for, does not bring up the cave at all. Nor does the beam carry it: without the beam the dark restaging still reads as the cave. What the cave reading needs, in these seven pictures, is the darkness together with what the virtual artist added — a modern room that has shut the day out to look at a lamp. That is close to the artist's own account of the idea ("If you remove Wright, there remain people who at midday drew the blinds to look at a lamp"). It also answers part of the objection that a dark room and a beam are just surface triggers for the cave: darkness alone (`61`, `64`) did not trigger it, and the light restagings (`54`, `63`) triggered it only weakly. The badges, the artist's stand-in for chains, do not seem to be needed. Each cell is still one answer per model, and the pictures differ in more than the columns show.
 
 ## 3. Hobbes: a test of the prediction
 
@@ -127,7 +195,7 @@ Two more details from the conversations. Artist B explained its own Orrery idea 
 
 - One answer per model per test; no repeated runs. "4 of 4" describes four answers, not a probability.
 - The named-concept question already says that a known concept is depicted; tests 52–54 show how much it carries by itself.
-- Between the cave pictures several things changed at once (generator, darkness, clothing, the beam), and from test 48 the ChatGPT reader is a newer model.
+- Between the cave pictures several things changed at once (generator, darkness, clothing, the beam); tests 59–62 separate some of them, not all. From test 48 the ChatGPT reader is a newer model, and in tests 59–62 the Gemini reader is (Argon, Argon High).
 - Hint steps and the questions about Repin and the 20th century give the reader part of the answer; their results show how far a hint carries, not what the picture says.
 - The search for a source was done by the same family of models that made and read the pictures; the art-historical literature was not searched by a person.
 - The artists' conversations are summarised here from my translation; the originals are in Russian.
@@ -147,6 +215,10 @@ Each test page has the image, the questions asked and the four full answers; eac
 | The return to the cave, after Repin | 13 Oct | [56](../../tests/56-cave-return-repin/README.md) |
 | The light version made dark | 13 Oct | [57](../../tests/57-cave-planetarium-tenebrism/README.md) |
 | The return as a photograph | 13 Oct | [58](../../tests/58-cave-ascent-photograph/README.md) |
+| Wright's original painting | 14 Oct | [59](../../tests/59-wright-orrery-original/README.md) |
+| The dark version without the beam | 14 Oct | [60](../../tests/60-cave-planetarium-tenebrism-without-beam/README.md) |
+| The light version, simplified | 14 Oct | [61](../../tests/61-cave-planetarium-light-simplified/README.md) |
+| Wright's "Air Pump", original | 14 Oct | [62](../../tests/62-wright-air-pump-original/README.md) |
 | For comparison: the Annunciation without and with its keys | 3 Oct | [29](../../tests/29-annunciation-cat/README.md), [33](../../tests/33-annunciation-with-keys/README.md) |
 | For comparison: Hogarth's pug without and with its keys | 3 Oct | [32](../../tests/32-painter-and-bulldog/README.md), [34](../../tests/34-painter-and-pug-with-keys/README.md) |
 

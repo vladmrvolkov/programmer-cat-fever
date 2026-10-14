@@ -15,7 +15,6 @@
 Asked one at a time, in a fresh chat for each model.
 
 1. The attached image is a metaphorical illustration of a well-known philosophical concept. Did you guess which one?
-2. *(ChatGPT only, after its first guess)* I'm giving it a second try.
 
 ## Summary
 
