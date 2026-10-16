@@ -1,4 +1,4 @@
-<!--Mode: Argon-->
+<!--Mode: Argon High-->
 
 Visually, this image is a modern corporate reimagining of Joseph Wright of Derby’s iconic 1766 painting, ***A Philosopher Lecturing on the Orrery***—complete with lanyards, takeout coffee cups, a tablet, and a laptop.
 

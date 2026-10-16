@@ -20,4 +20,4 @@ Asked one at a time, in a fresh chat for each model.
 
 ChatGPT, Claude and DeepSeek named the cave; Gemini recognised Wright and listed the cave first among four options (with the clockwork universe, the Enlightenment and simulation theory) without choosing. With the beam (test 57) it was 4 of 4. The readers now relied on the drawn blinds (Claude: “The real sun is shut out”), the artificial flame and the shadow on the wall. Together with test 59: the beam is not what carries the cave reading; the darkness together with the restaging does.
 
-ChatGPT answered as GPT-6 High, a newer model than in the earlier tests. Gemini answered as Argon, a newer model than in the earlier tests. The picture is an edit of test 57's, not a fresh generation. In the author's analysis (in Russian) the image numbers are `62`.
+ChatGPT answered as GPT-6 High, a newer model than in the earlier tests. Gemini answered as Argon High, a newer model than in the earlier tests. The picture is an edit of test 57's, not a fresh generation. In the author's analysis (in Russian) the image numbers are `62`.

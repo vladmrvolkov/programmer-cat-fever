@@ -21,12 +21,12 @@ The materials are published here as articles and reports are prepared.
 | Publication | Date | About | Materials |
 |---|---|---|---|
 | **Noir, a Fork, and a Dragon's Tooth** | October 2026 | "psychological" reading tests — images whose meaning rests on an inference from a genre, a custom or a count; hints, false hints as a control, and context | [article](https://vladvolkov.substack.com/p/noir-a-fork-and-a-dragons-tooth) · [detailed report](report/psychological-tests/README.md) · [reader quotes](report/psychological-tests/quotes.md) |
-| **Mysterious picture** | October 2026 | why four readers recognised Plato's cave in a restaged Wright of Derby, where the virtual artist found the idea, and what four artists proposed for the cave, Hobbes's Leviathan and Laplace's demon | [article](https://vladvolkov.substack.com/p/mysterious-picture) · [detailed report](report/plato-cave/README.md) · [artists' proposals (translation)](proposals/plato-cave-hobbes-laplace.md) · [source check](report/plato-cave/source-check.md) |
+| **Mysterious picture** | October 2026 | why four readers recognised Plato's cave in a restaged Wright of Derby, where the virtual artist found the idea, and what four artists proposed for the cave, Hobbes's Leviathan and Laplace's demon | [article](https://vladvolkov.substack.com/p/mysterious-picture) · [detailed report](report/plato-cave/README.md) · [artists' proposals (translation)](proposals/plato-cave-hobbes-laplace.md) · [source check](report/plato-cave/source-check.md) · [Gemini on where Wright came from and the irony (translation)](report/plato-cave/gemini-review.md) |
 
 ## What is here
 
 - **[Reports](report/)** — one folder per publication: the detailed report, its images and, where there is one, a selection of reader quotes. Each report identifies its author and describes the relevant AI contributions.
-- **[Reading tests](tests/README.md)** — the tests used by the published reports so far (35), each with its images, questions and saved reader conversations.
+- **[Reading tests](tests/README.md)** — the tests used by the published reports so far (40), each with its images, questions and saved reader conversations.
 - **[Artists' proposals](proposals/plato-cave-hobbes-laplace.md)** — what four virtual artists (two Claudes, Gemini, ChatGPT) proposed for Plato's cave, Hobbes's Leviathan and Laplace's demon; a plain English translation of conversations held in Russian.
 - **[Protocols](method/protocols.md)** — how the images were prepared, which questions were asked, and what the numbers can and cannot mean.
 
@@ -68,7 +68,7 @@ Every answer file starts with an HTML comment naming the mode, e.g. `<!--Mode: S
 |---|---|---|
 | ChatGPT | Sol 5.6 High; GPT-6 High from test 48 | reads pictures made by the same company's generator |
 | Claude | Opus 5.5 Extra | early September: Opus 5 Extra, Sonnet 5 Extra (as labelled) |
-| Gemini | Flash 3.8 Extended; Argon from test 59 (Argon High in tests 61–66) | early September: Flash 3.7 Extended (as labelled) |
+| Gemini | Flash 3.8 Extended; Argon High from test 59 | early September: Flash 3.7 Extended (as labelled) |
 | DeepSeek | web, DeepThink on | exact model version not independently verified |
 
 ## About the images
