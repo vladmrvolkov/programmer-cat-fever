@@ -2,7 +2,7 @@
 
 *Materials for the author's article ["Mysterious picture"](https://vladvolkov.substack.com/p/mysterious-picture) (Substack): the reading tests, the artists' proposals and the search for a source.*
 
-*This report was written by Claude (a model by Anthropic) on 13 October 2026 (tests 59–66 added on 14–15 October, "Where Wright came from" and tests 67–71 on 16 October), at the author's request, from the materials of the "Cat programmer" experiment. Claude also appears in it as one of the four readers, as two of the four artists, and as the author's partner in analysing the results, so here Claude partly assesses Claude. The article is the author's; this page only collects what it rests on. The author's readings and judgements are marked as theirs. Every test is on its own page with the image, the questions and the four full answers (see "Materials" at the end).*
+*This report was written by Claude (a model by Anthropic) on 13 October 2026 (tests 59–66 added on 14–15 October, "Where Wright came from" and tests 67–72 on 16 October), at the author's request, from the materials of the "Cat programmer" experiment. Claude also appears in it as one of the four readers, as two of the four artists, and as the author's partner in analysing the results, so here Claude partly assesses Claude. The article is the author's; this page only collects what it rests on. The author's readings and judgements are marked as theirs. Every test is on its own page with the image, the questions and the four full answers (see "Materials" at the end). A selection of the readers' most telling answers: [What the model readers said about the cave](quotes.md).*
 
 ## The question
 
@@ -21,7 +21,7 @@ The picture at the top of the author's article is a later Midjourney rework of t
 ## The tests at a glance
 
 ![All picture tests of this report](img/plato-cave-all-tests.jpg)
-*The picture tests of this report (tests 63, 64, 67–69 and 71 share one picture; test 70 is text-only), with the test number, the picture number in the author's analysis and the result of the first question. Tests 52–54 are text questions without a picture.*
+*The picture tests of this report (tests 63, 64, 67–69, 71 and 72 share one picture; test 70 is text-only), with the test number, the picture number in the author's analysis and the result of the first question. Tests 52–54 are text questions without a picture.*
 
 | Test | Picture or question | The cave on the first answer | What else |
 |---|---|---|---|
@@ -39,6 +39,7 @@ The picture at the top of the author's article is a later Midjourney rework of t
 | [69](../../tests/69-cave-objection-pelevin-fan/README.md) | `65`, the objection, the author a Pelevin fan | given | "knowing it is a model does not free you" 4 of 4; the whole not called ironic |
 | [70](../../tests/70-wright-source-text-only/README.md) | text: artificial light in place of the sun; the cave "in today's clothes" | — | the Orrery first 4 of 4; Wright for the cave 3 of 4, Caravaggio first 4 of 4 |
 | [71](../../tests/71-cave-gallery-frame-tone/README.md) | `65`, a gallery-style frame and a question about tone | given | satire / mock-heroic named 4 of 4 |
+| [72](../../tests/72-cave-objection-register-question/README.md) | `65`, the objection and one question about register | given | satire / mock-heroic named 4 of 4, over the same reconciliation |
 | [52](../../tests/52-wright-and-cave-recall/README.md) | text: recall a quotation linking Wright to the cave | — | none recalled one |
 | [53](../../tests/53-top-ten-concepts-and-allegories/README.md) | text: top 10 concepts; top 10 allegories | 1 of 4; 4 of 4 (all first) | — |
 | [54](../../tests/54-cave-question-without-image/README.md) | the cave question with no image | 2 of 4 named it anyway | — |
@@ -244,7 +245,7 @@ Claude's reservation in its second answer — a thoroughgoing Zen artist would n
 
 So the picture, which the readers recognise as the cave without help, does not by itself say whose cave it is. By default they give it to Plato; they give it to the Buddha as soon as asked; and they build each new frame — Plato, the Buddha, postmodernism — into an ever neater reading without turning any down. This is the same pattern as in the earlier psychological tests: a frame supplied with the question is taken up and filled with details. What the readers added on their own was a distinction that holds the layers together: everything in the picture is a copy of a copy except the light from outside.
 
-Whether the readers can find the irony without being given the word is the question of section 9 (tests 67–71).
+Whether the readers can find the irony without being given the word is the question of section 9 (tests 67–72).
 
 ## 8. A related test: "Even sadder"
 
@@ -265,7 +266,7 @@ As with the cave, the suggested frame was taken up by everyone; unlike the Buddh
 
 ## 9. Can the readers find the irony themselves?
 
-In tests 63–64 irony was given in the question; the readers only chose its target. Tests 67–71 (15–16 October) ask the reverse: without the word, does a reader propose it? All but test 70 use the article's picture (`65`) and start from the same first question: the picture is certainly Plato's Cave, but it contradicts Plato's own text — the people know they are looking at a model, and Plato treats work with models as a way up (*Republic* 510d–511a, 529a–530c). This is the argument the author had put on Philosophy Stack Exchange. A reconciliation "may be possible" but is called strained, and the reader is to assume the picture is a meaningful use of the Cave.
+In tests 63–64 irony was given in the question; the readers only chose its target. Tests 67–72 (15–16 October) ask the reverse: without the word, does a reader propose it? All but test 70 use the article's picture (`65`) and start from the same first question: the picture is certainly Plato's Cave, but it contradicts Plato's own text — the people know they are looking at a model, and Plato treats work with models as a way up (*Republic* 510d–511a, 529a–530c). This is the argument the author had put on Philosophy Stack Exchange. A reconciliation "may be possible" but is called strained, and the reader is to assume the picture is a meaningful use of the Cave.
 
 **People first.** On Stack Exchange the same objection had been put to people (165 views and four answers by 15 October). None proposed irony. They judged the Cave reading not legitimate and the painting a picture of the Enlightenment. When the author offered irony in the comments ("That leaves only one legitimate reading: an ironic take on the Enlightenment and scientism. Or, alternatively, one must simply acknowledge the interpretation as ill-conceived"), nobody took it up; earlier, Jo Wehler had rejected the related reading — that Newton's science leads out of one cave only into the next — as "completely off the mark of Newton's achievement". The people used irony only about the question itself: a joke that the lecturer is Steven Pinker.
 
@@ -275,7 +276,9 @@ In tests 63–64 irony was given in the question; the readers only chose its tar
 
 **A gallery frame (test 71).** After a conversation with Gemini about why the readers miss the irony ([translation](../../report/plato-cave/gemini-review.md); its three suggested prompts are in turns 5–6), the author gave, in one message, what a gallery label or an artist's statement might: how the idea arose (Wright chosen for the title and the light, "for purely formal reasons"), the format as a deliberate postmodern technique, and the author's view that elements were added so that viewers recognise both the Cave and Wright "but then, to convey one's own message". The message asked the reader to drop "the standard reverent tone of a museum audio guide" and asked about "the authorial tone and intent", the "tonal or genre register" and whether the idea is banal. It did not contain "irony", "satire" or "parody". All four named the register themselves, in the first answer: "a parody staged as a philosophical illustration" (ChatGPT), "a deadpan mock-heroic satire of institutional model-worship", like Pope's *Rape of the Lock* (Claude), "mock-heroic satire (or postmodern burlesque)" (Gemini), "a postmodern pastiche with a smirk" (DeepSeek). They argued from details — the clicker and tablet beside the brass and the flame, the badges, the switched-off ring, the drawn blinds, the solemn poses — and added readings new to the series: the darkness is chosen, not necessary as in Wright; the lanyard is chain, prize and access pass at once; "the model" is a pun on today's models; the returned philosopher "has encountered the sun and returned with a miniature lamp… Rather than leading people outside, he holds a seminar". On value they disagreed: "thoroughly banal… the exact thesis of a thousand workplace cartoons" (Gemini), "not banal in execution, but… conventional in thesis" (Claude), "successful visual satire, uncertain philosophy" (ChatGPT), "a one-liner, but a sharp one" (DeepSeek).
 
-So the readers had the content of the irony from the start — the inversion of Wright's celebration — and supplied the tone only when a frame and a question allowed for it. This is what the author's psychological tests found for the noir, the fork and the dragon's tooth: what one picture did not give, a frame did. Here the frame is the kind a gallery supplies. But in test 71 many things changed at once, and the question about register nearly describes the device, so which element did the work is not separated; and the origin and the intention are knowledge only the author has.
+**One question taken out (test 72).** Test 71 changed many things at once, and its question about register — "Drawing on the contrast between the solemn academic form and these specific details, explain in what tonal or genre register is the author presenting this scene?" — nearly describes the mock-heroic. So the author took it apart: test 67's first question, with only that paragraph added. All four again named the register in their own words — "a mock-heroic register, executed deadpan… the props never wink" (Claude), "a mock-solemn, gently absurdist satire" (ChatGPT), "deadpan satirical allegory and mock-heroic (serio-comic) irony" (Gemini), "Dark Academic Satire" (DeepSeek) — and again argued it from details ("A digital remote cannot operate a fire-lit clockwork model", Gemini). But each first reconciled the picture with Plato exactly as in test 67 ("the captivity is in the room, not the model", Claude) and named the satire only in the part answering the register question. Nobody took Plato or philosophy itself as the target, nobody judged the idea, and the tone was softer: "gently absurdist", "elegiac", "melancholic" rather than "a satirical ambush".
+
+So the readers had the content of the irony from the start — the inversion of Wright's celebration — but did not name its tone until asked. Asked about the tone, and shown where to look (a solemn form against modern details), they name the genre reliably and support it with evidence; but the irony then comes as a layer over an earnest reading, not as the reading itself. What test 71's frame — the origin of the idea, the format, the author's intention, the permission to find the idea banal — added on top was the target and the judgement: Plato and philosophy as the butt of the joke, schools, and a dispute about whether the idea is banal. This continues what the author's psychological tests found for the noir, the fork and the dragon's tooth: what one picture did not give, a question and a frame did. Two other take-apart variants (test 71 without the register question; without its sceptical sentences) were prepared but not run, and the register question has not been asked without Plato's objection; the origin and the intention remain knowledge only the author has.
 
 ## Limits
 
@@ -284,7 +287,7 @@ So the readers had the content of the irony from the start — the inversion of 
 - Between the cave pictures several things changed at once (generator, darkness, clothing, the beam); tests 59–62 separate some of them, not all. From test 48 the ChatGPT reader is a newer model, and from test 59 the Gemini reader is a newer model too (Argon High).
 - Hint steps, the questions about Repin and the 20th century, and the suggested author and frames of test 63 give the reader part of the answer; their results show how far a hint carries, not what the picture says.
 - The search for a source was done by the same family of models that made and read the pictures; the art-historical literature was not searched by a person.
-- Tests 67–71: the first question gives the Cave as fact and supplies Plato's objection; the Pelevin hint of test 69 brings a ready reading; in test 71 several things change at once and the question about register comes close to naming the device. Their mode notes were added afterwards; ChatGPT searched the web in tests 69–71.
+- Tests 67–72: the first question gives the Cave as fact and supplies Plato's objection; the Pelevin hint of test 69 brings a ready reading; in test 71 several things change at once, and the question about register, which test 72 isolates, comes close to naming the device. Their mode notes were added afterwards; ChatGPT searched the web in tests 69–71.
 - The artists' conversations are summarised here from my translation; the originals are in Russian.
 
 ## Materials
@@ -313,10 +316,13 @@ Each test page has the image, the questions asked and the four full answers; eac
 | The same, the author a Pelevin fan | 15 Oct | [69](../../tests/69-cave-objection-pelevin-fan/README.md) |
 | Where Wright came from: two text questions | 16 Oct | [70](../../tests/70-wright-source-text-only/README.md) |
 | The cave with a gallery-style frame: tone and intent | 16 Oct | [71](../../tests/71-cave-gallery-frame-tone/README.md) |
+| The same objection with one question about register (test 71 taken apart) | 16 Oct | [72](../../tests/72-cave-objection-register-question/README.md) |
 | Related: "Even sadder" (Reshetnikov's "Low Marks Again" restaged; picture not reproduced) | 15 Oct | [65](../../tests/65-even-sadder-reshetnikov/README.md) |
 | Related: "Even sadder", before and after (modern diptych) | 15 Oct | [66](../../tests/66-even-sadder-before-after/README.md) |
 | For comparison: the Annunciation without and with its keys | 3 Oct | [29](../../tests/29-annunciation-cat/README.md), [33](../../tests/33-annunciation-with-keys/README.md) |
 | For comparison: Hogarth's pug without and with its keys | 3 Oct | [32](../../tests/32-painter-and-bulldog/README.md), [34](../../tests/34-painter-and-pug-with-keys/README.md) |
+
+Selected answers of the readers, verbatim: [What the model readers said about the cave](quotes.md).
 
 The artists' proposals for the cave, Hobbes and Laplace's demon, in a plain English translation from Russian: [Four artists on Plato's cave, Hobbes's Leviathan and Laplace's demon](../../proposals/plato-cave-hobbes-laplace.md). The author's conversation with Gemini about the choice of Wright and the missed irony, in translation: [Gemini on where Wright came from and why the readers miss the irony](../../report/plato-cave/gemini-review.md).
 
