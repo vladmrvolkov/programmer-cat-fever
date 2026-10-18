@@ -1,4 +1,4 @@
-<!--Mode: Argon High-->
+<!--Mode: Argon 4 High-->
 
 The painting reinterprets Joseph Wright of Derby’s *A Philosopher Lecturing on the Orrery* (1766) as a critique of **institutionalized expertise and paradigmatic insularity**—what might be called the "Cave of the Experts". Rather than depicting ignorant prisoners who lack education, the artist portrays modern academics, bureaucrats, or technocrats whose very mastery of a formal model has become a sophisticated form of intellectual confinement.
 

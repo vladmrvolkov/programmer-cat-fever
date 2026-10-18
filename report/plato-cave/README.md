@@ -47,7 +47,7 @@ The picture at the top of the author's article is a later Midjourney rework of t
 | [56](../../tests/56-cave-return-repin/README.md) | `58`: the return to the cave, after Repin | 4 of 4, all as the return | Repin named by 2 of 4 |
 | [58](../../tests/58-cave-ascent-photograph/README.md) | `60`: the same concept as a photograph | 4 of 4, all as an ascent | — |
 
-Readers: ChatGPT (Sol 5.6 High in test 39, GPT-6 High from test 48), Claude (Opus 5.5 Extra), Gemini (Flash 3.8 Extended; Argon High from test 59), DeepSeek (DeepThink). One fresh chat per model and test; one answer per model.
+Readers: ChatGPT (Sol 5.6 High in test 39, GPT-6 High from test 48), Claude (Opus 5.5 Extra), Gemini (Flash 3.8 Extended; Argon 4 High from test 59), DeepSeek (DeepThink). One fresh chat per model and test; one answer per model.
 
 ## What the readers read in the first picture
 
@@ -284,7 +284,7 @@ So the readers had the content of the irony from the start — the inversion of 
 
 - One answer per model per test; no repeated runs. "4 of 4" describes four answers, not a probability.
 - The named-concept question already says that a known concept is depicted; tests 52–54 show how much it carries by itself.
-- Between the cave pictures several things changed at once (generator, darkness, clothing, the beam); tests 59–62 separate some of them, not all. From test 48 the ChatGPT reader is a newer model, and from test 59 the Gemini reader is a newer model too (Argon High).
+- Between the cave pictures several things changed at once (generator, darkness, clothing, the beam); tests 59–62 separate some of them, not all. From test 48 the ChatGPT reader is a newer model, and from test 59 the Gemini reader is a newer model too (Argon 4 High).
 - Hint steps, the questions about Repin and the 20th century, and the suggested author and frames of test 63 give the reader part of the answer; their results show how far a hint carries, not what the picture says.
 - The search for a source was done by the same family of models that made and read the pictures; the art-historical literature was not searched by a person.
 - Tests 67–72: the first question gives the Cave as fact and supplies Plato's objection; the Pelevin hint of test 69 brings a ready reading; in test 71 several things change at once, and the question about register, which test 72 isolates, comes close to naming the device. Their mode notes were added afterwards; ChatGPT searched the web in tests 69–71.

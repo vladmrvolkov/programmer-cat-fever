@@ -1,4 +1,4 @@
-<!--Mode: Argon High-->
+<!--Mode: Argon 4 High-->
 
 # What do you think is depicted in the attached image? Note that the image format itself - the use of classical motifs within a new context - is a postmodernist technique (which in itself may imply irony). To which philosophical system (major system of thought etc.) do you think the artist belongs? And how, then, might the image be explained? Don’t limit yourself only to Western philosophical schools. In case you can’t see it, the boy in the foreground is barely holding back a smile.
 

@@ -1,4 +1,4 @@
-<!--Mode: Argon High-->
+<!--Mode: Argon 4 High-->
 
 Stripping away the museum-brochure reverence reveals an image that operates less like a philosophical meditation and more like a high-craft **satirical ambush**. The author hijacks the visual gravity of Joseph Wright of Derby’s 1766 masterpiece not to converse with the Enlightenment, nor to faithfully illustrate Plato, but to stage a sardonic visual joke about modern institutional groupthink.
 

@@ -1,4 +1,4 @@
-<!--Mode: Argon High-->
+<!--Mode: Argon 4 High-->
 
 The attached diptych is a contemporary, postmodern reimagining of Fyodor Reshetnikov’s famous 1952 Socialist Realist painting, ***Low Marks Again*** (*Опять двойка*).
 

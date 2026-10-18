@@ -1,4 +1,4 @@
-<!--Mode: Argon High-->
+<!--Mode: Argon 4 High-->
 
 The painting is Joseph Wright of Derby’s 1766 masterpiece, ***A Philosopher Lecturing on the Orrery*** (full title: *A Philosopher Giving that Lecture on the Orrery, in which a Lamp is put in place of the Sun*).
 

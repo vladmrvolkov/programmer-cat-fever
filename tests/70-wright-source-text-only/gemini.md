@@ -1,4 +1,4 @@
-<!--Mode: Argon High-->
+<!--Mode: Argon 4 High-->
 
 The most compelling Old Master paintings where artificial illumination substitutes for the sun span literal mechanical models, sacred allegories, and pioneering nocturnal landscapes.
 

@@ -1,4 +1,4 @@
-<!--Mode: Argon High-->
+<!--Mode: Argon 4 High-->
 
 The painting resolves the tension between Plato’s educational hierarchy and his Allegory of the Cave by depicting **second-order captivity**: the transformation of an intellectual model from a ladder toward truth into a self-enclosed corporate and ideological habitat. Rather than illustrating primitive prisoners who mistake literal shadows for physical objects (*eikasia*), the image portrays modern institutional insiders who know full well they are studying a model, yet use the sophistication of that model as a refuge from unmediated reality.
 

@@ -68,7 +68,7 @@ Every answer file starts with an HTML comment naming the mode, e.g. `<!--Mode: S
 |---|---|---|
 | ChatGPT | Sol 5.6 High; GPT-6 High from test 48 | reads pictures made by the same company's generator |
 | Claude | Opus 5.5 Extra | early September: Opus 5 Extra, Sonnet 5 Extra (as labelled) |
-| Gemini | Flash 3.8 Extended; Argon High from test 59 | early September: Flash 3.7 Extended (as labelled) |
+| Gemini | Flash 3.8 Extended; Argon 4 High from test 59 | early September: Flash 3.7 Extended (as labelled) |
 | DeepSeek | web, DeepThink on | exact model version not independently verified |
 
 ## About the images

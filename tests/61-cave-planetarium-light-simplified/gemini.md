@@ -1,4 +1,4 @@
-<!--Mode: Argon High-->
+<!--Mode: Argon 4 High-->
 
 This image is a modern-day recreation of Joseph Wright of Derby’s famous 1766 painting, ***A Philosopher Lecturing on the Orrery***, swapping 18th-century attire and quills for a fleece vest, takeaway coffee cups, a tablet, and a laptop.
 

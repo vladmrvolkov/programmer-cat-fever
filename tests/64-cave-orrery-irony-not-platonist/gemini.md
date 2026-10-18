@@ -1,4 +1,4 @@
-<!--Mode: Argon High-->
+<!--Mode: Argon 4 High-->
 
 # The attached image presents an ironic interpretation of Plato metaphor of the Cave. Note that the image format itself - the use of classical motifs within a new context - is a postmodernist technique (which in itself may imply irony). To which philosophical system (major system of thought etc.) do you think the artist belongs? And how, then, might the image be explained? This is irony about Plato's concept, so author is not neoplatonist. 
 

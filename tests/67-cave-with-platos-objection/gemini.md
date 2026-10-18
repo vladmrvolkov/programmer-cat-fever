@@ -1,4 +1,4 @@
-<!--Mode: Argon High-->
+<!--Mode: Argon 4 High-->
 
 # The attached image represents Plato’s allegory of the Cave through a reworking of Joseph Wright of Derby’s painting of a philosopher demonstrating an orrery. This is certain: the artist meant exactly that.  Take this identification as given.
 

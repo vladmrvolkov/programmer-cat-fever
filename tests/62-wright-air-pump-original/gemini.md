@@ -1,4 +1,4 @@
-<!--Mode: Argon High-->
+<!--Mode: Argon 4 High-->
 
 Joseph Wright of Derby’s 1768 painting, *An Experiment on a Bird in the Air Pump*, depicts a natural philosopher depriving a white cockatoo of air inside a glass bell jar—a dramatic scene that serves as a metaphor for several major philosophical concepts depending on how you look at the table:
 

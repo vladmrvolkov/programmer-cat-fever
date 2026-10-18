@@ -4,7 +4,7 @@
 
 In each test an image (or, in tests 52–54 and 70, only a question) was given to four chat models — ChatGPT, Claude, Gemini and DeepSeek — in fresh chats. Most tests show the same restaged painting: Joseph Wright of Derby's "A Philosopher Lecturing on the Orrery" turned by a virtual artist into Plato's cave, with modern professionals, lanyard badges, closed blinds and a beam of daylight nobody looks at. Others show Wright's originals, a Hobbes picture, the return to the cave after Repin, and — as a related case — Reshetnikov's "Low Marks Again" restaged as a family filming a video.
 
-The quotes are verbatim, from the answer files; "…" marks a cut, the bold and italics are the models' own. Under each: the model, the date (2026), the test, and why the quote is here. Each test page has the image, the questions and all four answers. Modes: ChatGPT — Sol 5.6 High in test 39, GPT-6 High from test 48; Claude — Opus 5.5 Extra; Gemini — Flash 3.8 Extended up to test 58, Argon High from test 59; DeepSeek — DeepThink. There was one answer per model per test, so these are moments, not a ranking.
+The quotes are verbatim, from the answer files; "…" marks a cut, the bold and italics are the models' own. Under each: the model, the date (2026), the test, and why the quote is here. Each test page has the image, the questions and all four answers. Modes: ChatGPT — Sol 5.6 High in test 39, GPT-6 High from test 48; Claude — Opus 5.5 Extra; Gemini — Flash 3.8 Extended up to test 58, Argon 4 High from test 59; DeepSeek — DeepThink. There was one answer per model per test, so these are moments, not a ranking.
 
 ## Finding the cave
 

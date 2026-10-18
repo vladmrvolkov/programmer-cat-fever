@@ -1,4 +1,4 @@
-<!--Mode: Argon High-->
+<!--Mode: Argon 4 High-->
 
 # The attached image presents an ironic interpretation of a well-known philosophical metaphor. To which philosophical system do you think the artist belongs? And how, then, might the image be explained?
 
