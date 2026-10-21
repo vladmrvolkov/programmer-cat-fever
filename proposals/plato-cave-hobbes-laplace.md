@@ -1,19 +1,19 @@
-# Four artists on Plato's cave, Hobbes's Leviathan and Laplace's demon
+# Four virtual directors on Plato's cave, Hobbes's Leviathan and Laplace's demon
 
 > **This is a translation, not the original.** The conversations were held in Russian. This file is a plain technical translation into English made by Claude (Opus 5.5) on 13 October 2026 for this repository. It is not a literary translation, and wording, rhythm and puns of the originals are not kept. The Russian originals are not published here. The image prompt in section 1.2 was written in English by the model and is reproduced as written. Headings marked **Author:** are the author's messages, translated. Links in the ChatGPT section are the model's own.
 
-The four "artists" are chat models working as virtual art directors: each proposes ideas for a picture (the concept, the pictorial source, the key detail); the image itself was made later by an image generator. All four were asked about the same subjects in separate conversations.
+The four virtual directors here are chat models with a painter persona: each proposes ideas for a picture (the concept, the pictorial source, the key detail); the image itself was made later by an image generator. All four were asked about the same subjects in separate conversations.
 
-| Artist | Model | Instructions | Subjects here |
+| Virtual director | Model | Instructions | Subjects here |
 |---|---|---|---|
 | **A** | Claude | persona prompt v17, written by Claude: a cat who used to be an image-generating neural network and now paints modern scenes inside the formulas of old paintings | cave, Hobbes, Laplace |
-| **B** | Claude | the v17 prompt reworked by ChatGPT at the author's request, to make the artist more inventive: the same persona, plus a search procedure (three readings of the source, two rounds of branching search by similar relations, pictorial sources chosen after the search, a journal entry) | Hobbes, cave, Laplace |
+| **B** | Claude | the v17 prompt reworked by ChatGPT at the author's request, to make the director more inventive: the same persona, plus a search procedure (three readings of the source, two rounds of branching search by similar relations, pictorial sources chosen after the search, a journal entry) | Hobbes, cave, Laplace |
 | **C** | Gemini | the same reworked prompt | cave, Laplace |
 | **D** | ChatGPT | the same reworked prompt | cave, Laplace |
 
-The system prompts themselves are not published. In the article and the report, A is "the first artist", B "the second"; C and D are the Gemini and ChatGPT artists.
+The system prompts themselves are not published. In the article and the report, A is "the first director", B "the second"; C and D are the Gemini and ChatGPT directors.
 
-Pictures made from these proposals and tested with readers: A's cave idea 1 (tests 39, 48, 57), A's Hobbes idea 1 (test 55), C's cave idea II (tests 56, 58).
+Pictures made from these proposals and tested with AI readers: A's cave idea 1 (tests 39, 48, 57), A's Hobbes idea 1 (test 55), C's cave idea II (tests 56, 58).
 
 ## Pictorial sources at a glance
 
@@ -28,7 +28,7 @@ Wright of Derby appears for the cave in all four (the Orrery in A and B, the Air
 
 ---
 
-## 1. Artist A — Claude, persona v17
+## 1. Virtual director A — Claude, persona v17
 
 *From the conversation that also produced the other v17 pictures. Earlier parts of it (the cat joke, the tavern, semantic turbulence) are left out.*
 
@@ -130,7 +130,7 @@ Which one do we take, from the new ones or from the previous ones?
 
 ---
 
-## 2. Artist B — Claude, prompt reworked by ChatGPT
+## 2. Virtual director B — Claude, prompt reworked by ChatGPT
 
 ### 2.1 Author: Try to create an idea for an illustration — an allegory of Hobbes's Leviathan. But not a trivial one (a giant man made of many small ones), a more creative one
 
@@ -308,7 +308,7 @@ I would take the fifth. It is a new branch, and the satire in it is aimed at the
 
 ---
 
-## 3. Artist C — Gemini, prompt reworked by ChatGPT
+## 3. Virtual director C — Gemini, prompt reworked by ChatGPT
 
 ### 3.1 Author: Use the attached AGENTS.md as the base instruction. I need you to suggest a visual representation of Plato's cave.
 
@@ -505,7 +505,7 @@ In classical mechanics the sign of time $t$ can be replaced by $-t$, and the law
 
 ---
 
-## 4. Artist D — ChatGPT, prompt reworked by ChatGPT
+## 4. Virtual director D — ChatGPT, prompt reworked by ChatGPT
 
 ### 4.1 Author: I need you to suggest a visual representation of Plato's cave.
 

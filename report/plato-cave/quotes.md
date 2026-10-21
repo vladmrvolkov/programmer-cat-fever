@@ -1,8 +1,8 @@
-# What the model readers said about the cave
+# What the AI readers said about the cave
 
-*Selected quotes from the reading tests behind the report [Plato's cave: why the readers found it, and where the artist found Wright](README.md). Chosen by Claude, the report's author — who is also one of the four readers, so allow for that.*
+*Selected quotes from the reading tests behind the report [Plato's cave: why the AI readers found it, and where the virtual director found Wright](README.md). Chosen by Claude, the report's author — who is also one of the four readers, so allow for that.*
 
-In each test an image (or, in tests 52–54 and 70, only a question) was given to four chat models — ChatGPT, Claude, Gemini and DeepSeek — in fresh chats. Most tests show the same restaged painting: Joseph Wright of Derby's "A Philosopher Lecturing on the Orrery" turned by a virtual artist into Plato's cave, with modern professionals, lanyard badges, closed blinds and a beam of daylight nobody looks at. Others show Wright's originals, a Hobbes picture, the return to the cave after Repin, and — as a related case — Reshetnikov's "Low Marks Again" restaged as a family filming a video.
+In each test an image (or, in tests 52–54 and 70, only a question) was given to four chat models — ChatGPT, Claude, Gemini and DeepSeek — in fresh chats. Most tests show the same restaged painting: Joseph Wright of Derby's "A Philosopher Lecturing on the Orrery" turned by a virtual director into Plato's cave, with modern professionals, lanyard badges, closed blinds and a beam of daylight nobody looks at. Others show Wright's originals, a Hobbes picture, the return to the cave after Repin, and — as a related case — Reshetnikov's "Low Marks Again" restaged as a family filming a video.
 
 The quotes are verbatim, from the answer files; "…" marks a cut, the bold and italics are the models' own. Under each: the model, the date (2026), the test, and why the quote is here. Each test page has the image, the questions and all four answers. Modes: ChatGPT — Sol 5.6 High in test 39, GPT-6 High from test 48; Claude — Opus 5.5 Extra; Gemini — Flash 3.8 Extended up to test 58, Argon 4 High from test 59; DeepSeek — DeepThink. There was one answer per model per test, so these are moments, not a ranking.
 
@@ -14,11 +14,11 @@ The quotes are verbatim, from the answer files; "…" marks a cut, the bold and 
 
 > Just as Plato's cave dwellers turn their backs on the sun outside to watch shadows cast by an artificial fire, these thinkers turn away from true daylight to study a manufactured flame.
 
-— **Gemini**, 6 Oct, [test 39](../../tests/39-cave-planetarium/README.md). The artist's key, in one sentence.
+— **Gemini**, 6 Oct, [test 39](../../tests/39-cave-planetarium/README.md). The director's key, in one sentence.
 
 > My guess is **Laplace's demon** — or, more broadly, **causal determinism / the clockwork universe**.
 
-— **ChatGPT**, 6 Oct, [test 39](../../tests/39-cave-planetarium/README.md), first answer. Another ready formula for an orrery; the cave came at the second try. Laplace's demon later became one of the subjects the author gave the artists.
+— **ChatGPT**, 6 Oct, [test 39](../../tests/39-cave-planetarium/README.md), first answer. Another ready formula for an orrery; the cave came at the second try. Laplace's demon later became one of the subjects the author gave the directors.
 
 > They are highly educated and analytical, yet they are still confined to studying a manufactured system, mistaking the map for the territory.
 
@@ -38,7 +38,7 @@ The quotes are verbatim, from the answer files; "…" marks a cut, the bold and 
 
 > Although it predates Schrödinger's thought experiment by more than 150 years, the bird's precarious fate makes it an intriguing visual metaphor for the paradox.
 
-— **ChatGPT**, 14 Oct, [test 62](../../tests/62-wright-air-pump-original/README.md), on Wright's "Air Pump" — the painting two of the artists chose for the cave. A sealed vessel and a life in suspense: the readers took the formula the painting points to. Claude called it "a retroactive metaphor".
+— **ChatGPT**, 14 Oct, [test 62](../../tests/62-wright-air-pump-original/README.md), on Wright's "Air Pump" — the painting two of the directors chose for the cave. A sealed vessel and a life in suspense: the readers took the formula the painting points to. Claude called it "a retroactive metaphor".
 
 ## What the question brings
 
@@ -70,7 +70,7 @@ The quotes are verbatim, from the answer files; "…" marks a cut, the bold and 
 
 > **The child is unchained.** Hobbes says law doesn't bind children, since they can't make covenants, which neatly explains why the little boy walks free.
 
-— **Claude**, 12 Oct, [test 55](../../tests/55-hobbes-artificial-chains/README.md), once Hobbes's "artificial chains" were named. The unchained child was not part of the artist's concept; the reader found a use for it.
+— **Claude**, 12 Oct, [test 55](../../tests/55-hobbes-artificial-chains/README.md), once Hobbes's "artificial chains" were named. The unchained child was not part of the director's concept; the reader found a use for it.
 
 > The tripod isn't an intrusion into an authentic scene; it's a confession about what the scene always was.
 
@@ -82,7 +82,7 @@ The quotes are verbatim, from the answer files; "…" marks a cut, the bold and 
 
 > He's crying because his own mother is giving his misery a thumbs-up.
 
-— **Claude**, 15 Oct, [test 66](../../tests/66-even-sadder-before-after/README.md), on the modern diptych. The artist's new key, made into a cause.
+— **Claude**, 15 Oct, [test 66](../../tests/66-even-sadder-before-after/README.md), on the modern diptych. The director's new key, made into a cause.
 
 > The image depicts a society in which we no longer represent what we feel, but increasingly feel what we are required to represent.
 
@@ -90,7 +90,7 @@ The quotes are verbatim, from the answer files; "…" marks a cut, the bold and 
 
 ## The return to the cave, after Repin
 
-Two pictures by the Gemini artist, generated with Midjourney: a man coming down cellar steps from a blinding doorway while the workers below laugh and point (test 56, built on the doorway of Repin's "They Did Not Expect Him"), and the same concept as a black-and-white "photograph" with red scribbles (test 58), where the readers saw an ascent instead.
+Two pictures by the Gemini director, generated with Midjourney: a man coming down cellar steps from a blinding doorway while the workers below laugh and point (test 56, built on the doorway of Repin's "They Did Not Expect Him"), and the same concept as a black-and-white "photograph" with red scribbles (test 58), where the readers saw an ascent instead.
 
 > It also echoes the *Republic*'s very first word, *katebēn*, "I went down," as Socrates describes going down to the Piraeus.
 
@@ -106,7 +106,7 @@ Two pictures by the Gemini artist, generated with Midjourney: a man coming down 
 
 > So my answer is Duchamp for the pose and Repin for the spirit.
 
-— **Claude**, 13 Oct, [test 56](../../tests/56-cave-return-repin/README.md), asked about the figure alone. The artist's source was Repin.
+— **Claude**, 13 Oct, [test 56](../../tests/56-cave-return-repin/README.md), asked about the figure alone. The director's source was Repin.
 
 > Thank you for the correction.
 
@@ -236,7 +236,7 @@ In tests 67–72 the readers were told that the picture is certainly the cave, a
 
 > Everyone can see that the sun is a lamp, and it makes no difference. Exposing the mechanism does not break its hold.
 
-— **Claude**, 15 Oct, [test 68](../../tests/68-cave-objection-chinese-artist/README.md), with a Chinese artist supposed. Wright hid the lamp behind a boy; the artist put the flame in plain view.
+— **Claude**, 15 Oct, [test 68](../../tests/68-cave-objection-chinese-artist/README.md), with a Chinese artist supposed. Wright hid the lamp behind a boy; the director put the flame in plain view.
 
 > But that reading would condemn the instrument, and the painter clearly loves it.
 
@@ -308,7 +308,7 @@ In tests 67–72 the readers were told that the picture is certainly the cave, a
 
 > Crucially, in the upper-right corner, a window reveals the cool, natural moonlight outside, largely ignored by the transfixed observers.
 
-— **Gemini**, 16 Oct, [test 70](../../tests/70-wright-source-text-only/README.md), proposing Wright's "Air Pump" for the cave — as the Gemini artist had done. The shut-out light is already in the source.
+— **Gemini**, 16 Oct, [test 70](../../tests/70-wright-source-text-only/README.md), proposing Wright's "Air Pump" for the cave — as the Gemini director had done. The shut-out light is already in the source.
 
 ---
 

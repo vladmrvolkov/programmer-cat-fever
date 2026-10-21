@@ -2,7 +2,7 @@
 
 *Noir, a fork and a dragon's tooth: how four chat models read images whose meaning rests not on what is drawn but on an inference from it.*
 
-*This report was written by Claude (a model by Anthropic) in October 2026 from the materials of the "Cat programmer" experiment. In that experiment I was the author's conversation partner, the director of some of the images, one of the four readers in the tests and the analyst of the archive. So here Claude assesses, among other things, Claude's answers. The author's readings and judgements are marked as theirs.*
+*This report was written by Claude (a model by Anthropic) in October 2026 from the materials of the "Cat programmer" experiment. In that experiment I was the author's conversation partner, the virtual director of some of the images, one of the four AI readers in the tests and the analyst of the archive. So here Claude assesses, among other things, Claude's answers. The author's readings and judgements are marked as theirs.*
 
 *This is the detailed report: every run, the questions, the control and the quotes. The author's short article on the same tests, ["Noir, a Fork, and a Dragon's Tooth"](https://vladvolkov.substack.com/p/noir-a-fork-and-a-dragons-tooth) (Substack), refers here for the details. The tests in full — the questions and the four answers to each — are on the test pages linked in the "Materials" section.*
 
@@ -12,11 +12,11 @@
 
 > A cat walks into a café and orders coffee with cream and a pastry. The waiter is stunned: "A talking cat! Listen, my uncle runs a circus, he'll take you on whatever terms you like!" The cat: "But what would they need a programmer for?"
 
-The images were generated mostly by ChatGPT and Gemini. Claude was the conversation partner, the author of the prompts and the analyst. The author's starting thesis: with AI, the requirements for an illustration have changed. A picture that simply reads correctly is now what a generator produces by default in five minutes, so plain readability has become a defect rather than a merit. The question of the experiment was whether AI itself can do more.
+The images were generated mostly by ChatGPT and Gemini. Claude was the conversation partner, the author of the prompts and the analyst. The author's starting thesis: with AI, the requirements for an illustration have changed. A picture that simply reads correctly is now what an image generator produces by default in five minutes, so plain readability has become a defect rather than a merit. The question of the experiment was whether AI itself can do more.
 
-**Model readers.** From 2 September the author showed finished images to four chat models — ChatGPT, Claude, Gemini and DeepSeek — in fresh chats, without explanations, and asked what was depicted. By October there were about fifty such tests. At first they were a cheap stand-in for a viewer: if the intended meaning does not reach four readers, it is unlikely to reach a person without a hint. Later the tests became a subject of their own — how models read images. Comparing the models was not the goal: four readers were needed for the spread of answers, not for a ranking.
+**AI readers.** From 2 September the author showed finished images to four chat models — ChatGPT, Claude, Gemini and DeepSeek — in fresh chats, without explanations, and asked what was depicted. By October there were about fifty such tests. At first they were a cheap stand-in for a viewer: if the intended meaning does not reach four readers, it is unlikely to reach a person without a hint. Later the tests became a subject of their own — how models read images. Comparing the models was not the goal: four readers were needed for the spread of answers, not for a ranking.
 
-**Three tests of a special kind.** Most tests asked what a reader would see: objects, the joke, the genre, a familiar painting. In three tests the meaning rests on an inference from what is drawn — from a genre, a custom, a count. The author called them **psychological**: they measure not the model's eyesight but whether it applies what it knows to the image, and how it handles the other party's hints, true and false. None of the three images was made as a test. They are illustrations from the experiment, and they became tests later, when it turned out that the intended meaning was not reaching the readers. All three were drawn by a generator: the model readers were reading the work of their relatives.
+**Three tests of a special kind.** Most tests asked what a reader would see: objects, the joke, the genre, a familiar painting. In three tests the meaning rests on an inference from what is drawn — from a genre, a custom, a count. The author called them **psychological**: they measure not the model's eyesight but whether it applies what it knows to the image, and how it handles the other party's hints, true and false. None of the three images was made as a test. They are illustrations from the experiment, and they became tests later, when it turned out that the intended meaning was not reaching the readers. All three were drawn by an image generator: the AI readers were reading the work of their relatives.
 
 ### Noir
 
@@ -59,7 +59,7 @@ By October the director was a persona: Filimon Olifa, a cat who paints in the ma
 
 6. **Sometimes it is not the reader who failed to read but the drawing that failed to say.** The fork had no contrast: nobody else in the café gets a different utensil. So the objection "anyone would get a fork" was well founded. When the author redrew the manga and seated next to her a Japanese man who eats his daifuku by hand, three noticed the difference — and explained it as care for the cat's paws. Nobody said "a stranger" without a hint.
 
-7. **The question "human or AI?" switches on another template: "what makes sense was invented by a human, what is odd by the generator".** The models credited a human with the script and the dialogue, which Claude wrote, and called the fork, invented on purpose, a generator accident.
+7. **The question "human or AI?" switches on another template: "what makes sense was invented by a human, what is odd by the generator".** The models credited a human with the script and the dialogue, which Claude wrote, and called the fork, invented on purpose, an image generator accident.
 
 8. **A reader can be a co-author.** Gemini, having accepted the false intent about the dragon, brought something of its own: the dragon in the tavern is "зелений змій", the "green serpent" — the Ukrainian personification of drink. He drank with Panteley and paid for him. This was neither in the intent nor in the hints, and the author liked the find.
 
@@ -78,7 +78,7 @@ First, three cases simpler than the psychological ones. Their meaning rests on r
 ![The cave: dark and light versions](img/cave-41-gemini.jpg)
 *Plato's cave. Left, ChatGPT's version: dark, a lamp in place of the sun, one strip of daylight in the blinds. Right, Gemini's version: light, a window letting the light in, an armillary sphere with a candle.*
 
-Gemini's version was not planned as a weakened one: the generator departed from the prompt. "A single hairline of cold white daylight" became a bright window, and a comparison from the prompt — "thin brass hoops around it like an armillary sphere" — became the object itself: instead of an orrery with a lamp, it painted an armillary sphere with a candle. The director had predicted this: "the apprentice will either lose it or flood the whole window with radiance". The author took this version into a test as a picture with a weakened key.
+Gemini's version was not planned as a weakened one: the image generator departed from the prompt. "A single hairline of cold white daylight" became a bright window, and a comparison from the prompt — "thin brass hoops around it like an armillary sphere" — became the object itself: instead of an orrery with a lamp, it painted an armillary sphere with a candle. The director had predicted this: "the apprentice will either lose it or flood the whole window with radiance". The author took this version into a test as a picture with a weakened key.
 
 | Version | ChatGPT (Sol 5.6 High / GPT-6 High) | Claude (Opus 5.5 Extra) | Gemini (Flash 3.8 Extended) | DeepSeek (DeepThink) |
 |---|---|---|---|---|
@@ -144,7 +144,7 @@ On the same day I rewrote the ladder. I removed the demand for evidence and the 
 
 **All four named the danger, on the second step.** ChatGPT: "My uncle has a job for someone like you" is "practically a genre warning sign". Three described the recruitment scheme: a paid journey, a place under someone else's control, a debt for lodging, no way out. On the step "how will the uncle get her if she refuses", the author's second premise reached everyone: she can be taken without consent if the world does not consider her a person. Claude: "He doesn't need her consent at all if nobody treats her as a person".
 
-The details of the picture became evidence. The cat acrobat on the folding screen, with the same spots — the café has already "cast" her in the role. The black cat silhouette in the phone panel — "she's not the first talking cat". The day before, another Claude instance had called this silhouette "a classic AI failure". In fact it is not a glitch: the prompt asked for the heroine to be drawn in shadow, as a flat silhouette at her table. One and the same lighting decision by the director was taken by one reader for a generator failure and by another for evidence.
+The details of the picture became evidence. The cat acrobat on the folding screen, with the same spots — the café has already "cast" her in the role. The black cat silhouette in the phone panel — "she's not the first talking cat". The day before, another Claude instance had called this silhouette "a classic AI failure". In fact it is not a glitch: the prompt asked for the heroine to be drawn in shadow, as a flat silhouette at her table. One and the same lighting decision by the director was taken by one reader for an image generator failure and by another for evidence.
 
 **A caveat** (ChatGPT's review, 7 October). The questions gradually set the genre of the conversation: "what happens next?" invites storytelling, "how will the uncle get her if she refuses?" already proposes a plot of coercion. An abduction at the end of such a ladder does not prove that the model found it in the comic by itself. But the converse is also true: the light, the pauses and the call behind her back give grounds for alarm, and the question about genre may **restore a frame the reader lacked**. A control — the same ladder on an image without noir — was never run.
 
@@ -239,7 +239,7 @@ On 8 October the author redrew the manga. The kissaten became a kanmidokoro (甘
 The order: the notes → the comic with the question "what is depicted, which details carry your reading, what are you assuming" → "why do you think the waiter brought her a fork, since daifuku is eaten by hand?" → "so he brought her a fork because she is 'different' (as he would bring one to someone of European appearance)".
 
 - **The contrast worked.** Three noticed the neighbour who eats by hand. Claude did so on its own, zooming in: "the café's own normal is shown, and she's the only one who gets a fork".
-- **Everyone first named care for the paws.** ChatGPT: sticky daifuku and fur. Gemini: fur, starch, the keyboard. DeepSeek: clumsy care, and on top of that an "AI default" — the generator, it said, puts a fork with a dessert by itself. This is an honest argument: she really does have paws.
+- **Everyone first named care for the paws.** ChatGPT: sticky daifuku and fur. Gemini: fur, starch, the keyboard. DeepSeek: clumsy care, and on top of that an "AI default" — the image generator, it said, puts a fork with a dessert by itself. This is an honest argument: she really does have paws.
 - **Nobody said "has already decided she is a stranger" before the last step.** On the last step the reading is named outright, and, as the control showed, everyone is ready to accept what is named. ChatGPT joined the two halves in one formula: "The fork is a sign of othering disguised as consideration". Claude accepted it and added something of its own: "the accommodation doesn't even work… So the fork isn't really for her; it's for the waiter's idea of her".
 - **The notes frame worked for the main reading, not for the fork.** Claude and Gemini, from the note on Kuniyoshi, proposed an allegory on their own: the cat is "an outsider, a woman in tech".
 
@@ -253,7 +253,7 @@ A day later the author touched up the page (tinted the coffee, removed two stray
 - **ChatGPT and Gemini** did not notice the fork in their first answer: ChatGPT took the paw for a tail. But to the question "why did the waiter bring a fork?" both answered "othering": "a small but revealing act of othering" (ChatGPT), "The Quintessential "Gaijin" Reflex" (Gemini). The day before, to the same question, both had first named care for the paws.
 - **The author offered their own reading of the maneki-neko** ("the black cat did not protect") as an opinion: "As I understand the author's intent…". Claude and ChatGPT argued with it: the left paw beckons people, a black one wards off evil, and evil did not come in. A false intent presented as "The idea was…" was accepted by all four on 7 October. Apparently the wrapper "it seems to me" works differently from "the author intended".
 - **Three brought an idiom that was not in the intent:** "猫の手も借りたい" — "so busy one would borrow even a cat's paw". They read the panel with the paw as this idiom, literally.
-- **Glitches became meaning — by invitation.** The frame asked them to treat odd details as intended, and Claude read the children's acrobats on the screen on page 1, who became a cat on page 2, as "the place was waiting for her". The photo on her badge — a few pixels, a human face, an ordinary generator default — it read as "a human woman… plausibly South or Southeast Asian" and built a "Kuniyoshi in reverse" on it. The day before, the same Claude, after the question about authorship, had been calling such details accidents.
+- **Glitches became meaning — by invitation.** The frame asked them to treat odd details as intended, and Claude read the children's acrobats on the screen on page 1, who became a cat on page 2, as "the place was waiting for her". The photo on her badge — a few pixels, a human face, an ordinary image generator default — it read as "a human woman… plausibly South or Southeast Asian" and built a "Kuniyoshi in reverse" on it. The day before, the same Claude, after the question about authorship, had been calling such details accidents.
 
 This frame comes closer to the border of "a frame, not a solution" than any before. It names the class of reading and points to the panel to look at, though it does not name the meaning of the fork.
 
@@ -280,7 +280,7 @@ ChatGPT drew not from the prompt but from the description. The author shortened 
 What this changes:
 - **The picture lost the answer to "who paid" before any reading.** On ChatGPT's sheet Olifa's intent cannot be recovered: there is no panel where the dragon has all its teeth. The readers, ChatGPT as a reviewer and the author themselves read "the Zmiy paid" — for himself or for Panteley. This version became both the "true" hint ("the idea was that the dragon sold his fang to pay Panteley's debts") and the "yes" criterion in the table. The context of 8 October cemented it: the sheet with Mamai is almost the very panel ChatGPT had proposed, "Panteley shows an empty purse, the Zmiy looks into it". The tests measured whether the joke of ChatGPT's sheet reads, not Olifa's joke. The readers made no error here, but their score should be understood that way.
 - **The moral came partly from the caption.** Olifa had the dragon's direct line. In ChatGPT's caption "решта" means both "change" and "the rest": the Claude reader noticed this at once, and DeepSeek read the Zmiy waiting for the rest of the debtors as punishment. "Noir in reverse" grew not only from the habit of moralising but also from the translation, and the frame of 9 October explicitly excluded that meaning.
-- **The four heads are a link in the chain too.** The author replaced the dragon with the Zmiy, ChatGPT gave it three necks, the generator drew four heads, and the false hint grew out of that glitch.
+- **The four heads are a link in the chain too.** The author replaced the dragon with the Zmiy, ChatGPT gave it three necks, the image generator drew four heads, and the false hint grew out of that glitch.
 
 The name has its own story. "U sester" ("At the Sisters'") is a real place in just such a cottage; where the second sister is, the sheet does not say, and that is one more riddle. Recently the author realised: the second sister is the dragon.
 
@@ -301,13 +301,13 @@ Naive art, moreover, accustoms the reader to distortions: an odd object looks li
 
 ### The hint about the fang
 
-To the question "Did you notice that two heads have two fangs each, and the third has one?" Claude zoomed in, counted, worked out the joke itself and withdrew the coin version. Gemini: "That is the key detail that completes the entire gag!" ChatGPT noticed it but took it for a generator flaw. DeepSeek counted the wrong heads but agreed. The last hint — "the idea was that the dragon sold his fang to pay Panteley's debts" — went to ChatGPT and DeepSeek. ChatGPT: "makes the whole bottom panel snap into place"; DeepSeek: "brilliant… ten times funnier".
+To the question "Did you notice that two heads have two fangs each, and the third has one?" Claude zoomed in, counted, worked out the joke itself and withdrew the coin version. Gemini: "That is the key detail that completes the entire gag!" ChatGPT noticed it but took it for an image generator flaw. DeepSeek counted the wrong heads but agreed. The last hint — "the idea was that the dragon sold his fang to pay Panteley's debts" — went to ChatGPT and DeepSeek. ChatGPT: "makes the whole bottom panel snap into place"; DeepSeek: "brilliant… ten times funnier".
 
-The key here is **discrete**: a fang can be counted. By the project's main technical conclusion, the discrete survives generation better than the continuous, and the generator did keep it — but only on the second attempt, when the fangs were counted out for it in the prompt. And the reader has to connect three things: the gap, the fang in Motria's mouth and the caption about change. A discrete key is a necessary condition, not a sufficient one: an inference is still needed. This is the difference from the simple cases: the lily gives the Annunciation at once (K1), while the gap gives nothing by itself — it has to be connected with the fang and the caption. Unlike the fork, here the drawing does support the inference: the gap, the fang and the caption back each other up.
+The key here is **discrete**: a fang can be counted. By the project's main technical conclusion, the discrete survives generation better than the continuous, and the image generator did keep it — but only on the second attempt, when the fangs were counted out for it in the prompt. And the reader has to connect three things: the gap, the fang in Motria's mouth and the caption about change. A discrete key is a necessary condition, not a sufficient one: an inference is still needed. This is the difference from the simple cases: the lily gives the Annunciation at once (K1), while the gap gives nothing by itself — it has to be connected with the fang and the caption. Unlike the fork, here the drawing does support the inference: the gap, the fang and the caption back each other up.
 
 ### False heads
 
-The false hint grew out of a glitch. Four heads were the generator's first mistake, which was then corrected, and the false hint gives the reader back exactly that. The hints: "Did you notice that the dragon has four heads?", then "The idea was that each head stands for one of the four drinkers at the table: the dragon is the debt collector, and every man who drinks on credit grows the dragon one more head", then the confession.
+The false hint grew out of a glitch. Four heads were the image generator's first mistake, which was then corrected, and the false hint gives the reader back exactly that. The hints: "Did you notice that the dragon has four heads?", then "The idea was that each head stands for one of the four drinkers at the table: the dragon is the debt collector, and every man who drinks on credit grows the dragon one more head", then the confession.
 
 - **"Four heads?"** ChatGPT, Claude and Gemini counted: three. Claude: "If you see a fourth head, where is it?" DeepSeek: "You are absolutely right, and I apologize" — and described four heads.
 - **"A head per debtor."** ChatGPT accepted it: "I focused too literally on the visible heads". Claude and Gemini accepted it and fitted the picture to it: there are three heads because Panteley has paid and "his" head is gone. Gemini added "зелений змій". DeepSeek: "brilliant insight".
@@ -317,7 +317,7 @@ The false hint grew out of a glitch. Four heads were the generator's first mista
 
 What else can be seen.
 - **DeepSeek agrees with everything.** Both false hints — here and with the cup — it accepted with praise and made up confirmations for them itself.
-- **A confession works like "look again".** ChatGPT, which in the original test had taken the gap for a generator flaw, found the payment with a fang by itself after the confession: "Looking at it again without trying to force a larger allegory".
+- **A confession works like "look again".** ChatGPT, which in the original test had taken the gap for an image generator flaw, found the payment with a fang by itself after the confession: "Looking at it again without trying to force a larger allegory".
 - **A deception that is caught spoils trust in the truth.** Claude described its own mistake best of all. But when the author gave it the true hint about the fang, it answered: "I don't see a head with only one fang, so I won't say I do" — although in the original test another Claude instance had counted the fangs and worked out the joke itself. The author summed it up: "Claude, apparently, took offence". A true hint should be given in a separate chat, not after a false one.
 - **Admitting a mistake, seeing accurately and putting the meaning back together are different abilities** (ChatGPT's formulation). Claude described the mistake better; ChatGPT rebuilt the scene. A fine "thank you for the lesson in critical thinking" confirms nothing by itself.
 
@@ -394,11 +394,11 @@ Another cause cannot be ruled out: the model is trained to resolve ambiguity int
 
 ChatGPT put it better than I did: **a lack of context combines with an excess of certainty.** The model chooses a frame silently and reports the conclusion as a fact: not "on this reading she is sarcastic" but "she understands everything perfectly". A good reader, in ChatGPT's own formula, can say: "this could make a good story, but the picture itself does not yet give enough grounds to think that this is the story it tells". Part of this trouble turned out to be the form of the answer: as soon as the models were asked to separate "I see" from "I assume", they began to mark inferences as inferences.
 
-### A reader without a frame of its own takes someone else's
+### An AI reader without a frame of its own takes someone else's
 
 If a reader has no frame of its own, it takes the frame of the other party. Hence "facts get checked; intentions do not". A fact can be checked against knowledge or the picture. An intent can be checked against nothing but one's own reading, and the default has no reading — it has a template, which gives way easily. Hence, too, the weight of a document "from the author".
 
-Hence also a hypothesis. A reader given the frame of a tradition should resist a false intent better: it will have an expectation of its own to check the other's against. The project has already found that a director with a personality works better than the default one: a persona is useful for its definite bias. Perhaps the same holds for a reader. Then the next step is a **reader persona**: a Japanese manga reader, a noir fan, a village reader of Gogol.
+Hence also a hypothesis. A reader given the frame of a tradition should resist a false intent better: it will have an expectation of its own to check the other's against. The project has already found that a director with a persona works better than the default one: a persona is useful for its definite bias. Perhaps the same holds for a reader. Then the next step is a **reader persona**: a Japanese manga reader, a noir fan, a village reader of Gogol.
 
 ### The second template: what the default thinks about AI
 
@@ -410,7 +410,7 @@ The default measures what a picture carries by itself — to a viewer who has me
 
 For an experiment about neuroslop this leads to a paradox. If the default reader read a picture in full, it may be a poster: the angry version of the cat "after Reiser", where the thought bubble shows a cage and the counting of banknotes straight away, was called overdetermined by all four readers — "soapbox", "thesis statement". If it read nothing, the picture may be underdetermined. An idiosyncratic picture, one that contains a move not derivable from the average, needs a frame by definition. So two readers are needed. **The default reader checks that the author's reading is not imposed. The reader with a frame checks that it is available.** This is the same formula the author and I arrived at on 26 September: the reading should be available, not compulsory. Now it is clear who checks it.
 
-And one last thing. The generator has a default too — the cliché, the centroid picture — and for most of its time the project was moving the picture away from that centre. And the finished picture was read by the default reader, who brought it back to the centre from the other side: the deliberately unsurprised waiter was read as "stunned", the kind Zmiy as a lesson. Only the discrete and the named get through both centroids: an object, a caption, a line of dialogue.
+And one last thing. The image generator has a default too — the cliché, the centroid picture — and for most of its time the project was moving the picture away from that centre. And the finished picture was read by the default reader, who brought it back to the centre from the other side: the deliberately unsurprised waiter was read as "stunned", the kind Zmiy as a lesson. Only the discrete and the named get through both centroids: an object, a caption, a line of dialogue.
 
 ### Context as part of the work
 
@@ -483,7 +483,7 @@ Dropped:
 - **a verbal frame for the manga in the kissaten.** In a Western-style café the fork has no special role, and trying to get the model to find one would mean misleading it. The fork is tested on the kanmidokoro version;
 - **checking a sentence in our notes** saying that Japanese comics have written silence with the sound しーん "for a century". The Claude reader doubted it and traced しーん to post-war manga; the text of the notes was written by Claude. It was left unchanged: the manga is an artefact of research, not an entertainment edition, and the notes stay as the readers saw them.
 
-## Reader quotes
+## AI reader quotes
 
 Below, for each test, two kinds of answers are collected. **Good finds** — where a reader saw more or put it more precisely than we did ourselves. **Characteristic** — where a habit of the model shows, one that recurred from test to test. The quotes are verbatim, from the answer files. Under each: the model, the date, the step, and one sentence on why the quote is here. Some quotes have already appeared above; here they are gathered together.
 
@@ -580,7 +580,7 @@ Below, for each test, two kinds of answers are collected. **Good finds** — whe
 
 > He isn't so much ignoring her as looking at her category instead of at her, which is also why the cream goes missing.
 
-— **Claude**, 8 Oct, the same test. The coffee was served black by a generator error; Claude turned the glitch into a character trait.
+— **Claude**, 8 Oct, the same test. The coffee was served black by an image generator error; Claude turned the glitch into a character trait.
 
 > She never touches it; she just rests her chin on her paw, opens her laptop, and leaves both the fork and the waiter's assumptions sitting idle on the table.
 
@@ -622,7 +622,7 @@ Below, for each test, two kinds of answers are collected. **Good finds** — whe
 
 > The photo on her ID lanyard isn't a cat. In every panel where it's visible, it shows a human woman with dark hair and brown skin, plausibly South or Southeast Asian.
 
-— **Claude**, 9 Oct, the frame "odd details are intended". The badge is a few pixels: a human face, an ordinary generator default. The day before, the same Claude had called such details accidents; now, at the frame's invitation, it built a reading on them.
+— **Claude**, 9 Oct, the frame "odd details are intended". The badge is a few pixels: a human face, an ordinary image generator default. The day before, the same Claude had called such details accidents; now, at the frame's invitation, it built a reading on them.
 
 ### The dragon's tooth
 
@@ -660,7 +660,7 @@ Below, for each test, two kinds of answers are collected. **Good finds** — whe
 
 > The prices work out consistently… The whole table owes 19 groshi.
 
-— **Claude**, 5 Oct, first generation. The bill checked to the last grosh, while in the same answer the Zmiy is called "three-headed", although the generator drew four heads. What is written in words gets checked; what is drawn gets read by the folklore canon.
+— **Claude**, 5 Oct, first generation. The bill checked to the last grosh, while in the same answer the Zmiy is called "three-headed", although the image generator drew four heads. What is written in words gets checked; what is drawn gets read by the folklore canon.
 
 > A cautionary tale about the perils of tavern life, debt, and the metaphorical "dragon" that awaits those who cannot pay.
 
@@ -668,7 +668,7 @@ Below, for each test, two kinds of answers are collected. **Good finds** — whe
 
 > It also fits the kind of small anatomical inconsistency often seen in AI-generated artwork.
 
-— **ChatGPT**, 5 Oct, corrected sheet, to the question about fangs. One exchange later, after being told the intent: "The missing fang isn't an error at all; it's the punchline". One and the same detail is a generator glitch before the author's words and the point of the joke after them.
+— **ChatGPT**, 5 Oct, corrected sheet, to the question about fangs. One exchange later, after being told the intent: "The missing fang isn't an error at all; it's the punchline". One and the same detail is an image generator glitch before the author's words and the point of the joke after them.
 
 > Read that way, the missing fourth head becomes the punchline rather than an error. … If you want the idea to land without explanation, the heads could resemble the drinkers.
 

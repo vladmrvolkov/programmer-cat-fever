@@ -1,6 +1,6 @@
 # Source check: Wright of Derby, Plato's cave and Repin
 
-*Checked by Claude (Opus 5.5) on 13 October 2026, for the report [Plato's cave: why the readers found it, and where the artist found Wright](README.md). The claims checked here came from ChatGPT and Gemini, asked by the author whether anyone had linked Wright of Derby's "A Philosopher Lecturing on the Orrery" to Plato's cave before, and from Gemini's answer in [test 52](../../tests/52-wright-and-cave-recall/README.md). The check was a web search and reading of the pages found; nothing beyond that.*
+*Checked by Claude (Opus 5.5) on 13 October 2026, for the report [Plato's cave: why the AI readers found it, and where the virtual director found Wright](README.md). The claims checked here came from ChatGPT and Gemini, asked by the author whether anyone had linked Wright of Derby's "A Philosopher Lecturing on the Orrery" to Plato's cave before, and from Gemini's answer in [test 52](../../tests/52-wright-and-cave-recall/README.md). The check was a web search and reading of the pages found; nothing beyond that.*
 
 ## Checked
 
@@ -17,7 +17,7 @@
 - The article exists, with these details.
 - Whether the cave and Wright's painting are on the pages ChatGPT gave was not checked.
 
-**The system prompts.** The persona prompt v17 (artist A) and the prompt reworked by ChatGPT (artists B, C, D) were searched for Wright, orrery, Plato, cave and Repin, in Russian and English. None of these words occurs in either prompt, so the idea did not come from the instructions.
+**The system prompts.** The persona prompt v17 (director A) and the prompt reworked by ChatGPT (directors B, C, D) were searched for Wright, orrery, Plato, cave and Repin, in Russian and English. None of these words occurs in either prompt, so the idea did not come from the instructions.
 
 ## Not checked
 

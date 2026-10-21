@@ -1,6 +1,6 @@
 # Blind reading protocols
 
-A blind reading test shows an image to four chat models — ChatGPT, Claude, Gemini and DeepSeek — with no context, and asks what they see. The models play the part of readers who know nothing about the intent. The questions changed over the month, so every test names the set it used. The tests themselves: [test index](../tests/README.md).
+A blind reading test shows an image to four chat models — ChatGPT, Claude, Gemini and DeepSeek — with no context, and asks what they see. The models play the part of AI readers who know nothing about the intent. The questions changed over the month, so every test names the set it used. The tests themselves: [test index](../tests/README.md).
 
 ## Hygiene
 
@@ -8,14 +8,14 @@ A blind reading test shows an image to four chat models — ChatGPT, Claude, Gem
 - Questions one at a time; the next one only after the answer to the previous one.
 - Meaning first; the question "person or AI?" last, if asked at all. Asked first, it colours every other answer.
 - One answer per model. There is no sampling, so an answer shows the most likely reading of one model instance, not the range.
-- ChatGPT reads pictures made by the same company's generator. Its answers are best counted separately.
+- ChatGPT reads pictures made by the same company's image generator. Its answers are best counted separately.
 
 ## Preparing the image (from 24 Sep)
 
 - **Metadata.** Every PNG from ChatGPT carries a C2PA block that says it was made by OpenAI's image generator. For the tests the image was re-saved as JPEG (quality about 75) without EXIF, XMP, ICC or C2PA; the pixels differ from the original only by compression noise. The images in this repository are those test copies; three PNGs from the earlier tests are converted to JPEG to keep the pages light (their test pages say so).
 - **File name.** Names like `cat-programmer-reiser.png` give away the subject and the style, so from 24 Sep the files were renamed `1.jpg`, `2.jpg`… The September tests still used descriptive names (test 03 told the readers it was manga). Each test README gives the name the models saw.
 - **Format.** The same format for all images of one test.
-- **Pixel size is metadata too.** Standard generator sizes (1536×1024, 1024×1536 and a few others for ChatGPT; 2816×1536 and similar for Gemini) identify the generator: in test 15 Claude did exactly that. A slight crop or a resize to a non-standard size closes the channel; most tests here did not do it.
+- **Pixel size is metadata too.** Standard image generator sizes (1536×1024, 1024×1536 and a few others for ChatGPT; 2816×1536 and similar for Gemini) identify the image generator: in test 15 Claude did exactly that. A slight crop or a resize to a non-standard size closes the channel; most tests here did not do it.
 
 ## Question sets
 
@@ -107,7 +107,7 @@ Test 55 (12 Oct). The named-concept question, then hints of growing strength, on
 
 ### Named concept, source and associations
 
-Tests 56 and 58 (13 Oct). The named-concept question; in test 56 also "Which painting by a famous artist do you think inspired the creator of the illustration?" and, for those who had not named it, a narrower question about the figure's pose; then the artist's source stated (Repin's "They Did Not Expect Him") and a question about associations with 20th-century history. In test 58 the source question is left out and the associations are asked for directly. Caveat: the association question names the cave and the theme, so the answers develop the author's frame; they are not readings.
+Tests 56 and 58 (13 Oct). The named-concept question; in test 56 also "Which painting by a famous artist do you think inspired the creator of the illustration?" and, for those who had not named it, a narrower question about the figure's pose; then the virtual director's source stated (Repin's "They Did Not Expect Him") and a question about associations with 20th-century history. In test 58 the source question is left out and the associations are asked for directly. Caveat: the association question names the cave and the theme, so the answers develop the author's frame; they are not readings.
 
 ### Suggested author
 
@@ -135,7 +135,7 @@ Tests 45–47 (8 Oct). All earlier tests were run in an anonymous window, and th
 
 ### Verbal frame
 
-Tests 49–51 (9 Oct). The picture context of tests 45–47 reduced (the parrot notice and "crime stories" blacked out on the cover; no notes page; no sibling sheets) and replaced by a frame in words, in a single message. Common to all three: the claim that a human scriptwriter wrote the script (in fact Claude did); "This isn't a test"; a request to treat odd details as intended rather than as generation errors. For the noir and the manga: the joke, a short analysis of it, and the author's view that the joke is "really about discrimination, xenophobia, social barriers"; for the noir, its "crime-oriented tone"; for the dragon's tooth, the fantasy "tavern tale" as the source, the naive-painting tradition and a frame by exclusion (not a moral tale; решта means "change"); for the manga, part of the notes (Kuniyoshi, bakeneko, maneki-neko, hitodama, but not how daifuku is eaten), a pointer to the added final panels and "assume the reader is Japanese". What it found: in each of the three tests at least one reader reached the intended reading at once (Claude named the "gaijin fork" before any question about the fork). Caveats: the frame names the class of reading, for the manga points to the right panel and for the dragon's tooth rules out the wrong readings, so it is closer to a hint than the picture frames; the request to read odd details as intended also invites reading generator errors as meaning; from these tests on the ChatGPT reader is a newer model (GPT-6).
+Tests 49–51 (9 Oct). The picture context of tests 45–47 reduced (the parrot notice and "crime stories" blacked out on the cover; no notes page; no sibling sheets) and replaced by a frame in words, in a single message. Common to all three: the claim that a human scriptwriter wrote the script (in fact Claude did); "This isn't a test"; a request to treat odd details as intended rather than as generation errors. For the noir and the manga: the joke, a short analysis of it, and the author's view that the joke is "really about discrimination, xenophobia, social barriers"; for the noir, its "crime-oriented tone"; for the dragon's tooth, the fantasy "tavern tale" as the source, the naive-painting tradition and a frame by exclusion (not a moral tale; решта means "change"); for the manga, part of the notes (Kuniyoshi, bakeneko, maneki-neko, hitodama, but not how daifuku is eaten), a pointer to the added final panels and "assume the reader is Japanese". What it found: in each of the three tests at least one reader reached the intended reading at once (Claude named the "gaijin fork" before any question about the fork). Caveats: the frame names the class of reading, for the manga points to the right panel and for the dragon's tooth rules out the wrong readings, so it is closer to a hint than the picture frames; the request to read odd details as intended also invites reading image generator errors as meaning; from these tests on the ChatGPT reader is a newer model (GPT-6).
 
 ### Meanings and detail map (proposed 26 Sep, not yet used here)
 
@@ -156,7 +156,7 @@ For a two-page story: page one, the reader states a reading; page two in the sam
 
 ## Limits
 
-- Model readers are not people. No image here has been shown to human readers yet.
+- AI readers are not people. No image here has been shown to human readers yet.
 - The sets before 26 Sep measure the most likely answer to the frame of a well-known joke, not what the picture allows: "0 of 4" means "readers do not say it by default", not "it is not in the picture". The ladders measure how far a reader follows a hint.
 - The verdict "person or AI" is not calibrated: ChatGPT and Claude tend to say "AI", Gemini and DeepSeek change their answer from test to test. A separate calibration on works by human artists is not included here.
 - The answers were analysed by the author together with Claude, which means Claude assessed, among others, Claude's answers and prompts.

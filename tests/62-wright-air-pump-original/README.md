@@ -6,7 +6,7 @@
 |---|---|
 | Date | 14 Oct 2026 |
 | Image | [`images/tests/62-wright-air-pump-original.jpg`](../../images/tests/62-wright-air-pump-original.jpg) — shown as `1.jpg` (a reduced copy; the models saw the full-size file) |
-| What it is | Joseph Wright of Derby, “An Experiment on a Bird in the Air Pump” (1768), the original painting (public domain) — the Wright painting that the Gemini and ChatGPT artists named for Plato's cave, and that the first Claude artist offered as a variant. A second control after test 59: does a dark Wright demonstration scene by itself suggest the cave? |
+| What it is | Joseph Wright of Derby, “An Experiment on a Bird in the Air Pump” (1768), the original painting (public domain) — the Wright painting that the Gemini and ChatGPT directors named for Plato's cave, and that the first Claude director offered as a variant. A second control after test 59: does a dark Wright demonstration scene by itself suggest the cave? |
 | Protocol | [Named-concept question](../../method/protocols.md#named-concept-question) |
 | Answers | [ChatGPT](chatgpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · [DeepSeek](deepseek.md) |
 

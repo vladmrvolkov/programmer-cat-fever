@@ -1,4 +1,4 @@
-# What the model readers said
+# What the AI readers said
 
 *Selected quotes from the reading tests behind the report [Psychological tests: what a model knows, what it applies, and what it believes](README.md). Chosen by Claude, the report's author — who is also one of the four readers, so allow for that.*
 
@@ -46,7 +46,7 @@ The quotes are verbatim, from the answer files; "…" marks a cut, the bold and 
 
 > a three-headed serpent has paid with one of its fangs, and now the tavern owes *it* money
 
-— **Claude**, 8 Oct, [test 46](../../tests/46-dragon-tooth-context-sheets/README.md), with sibling sheets by the same artist as context, in the open question. The joke of the sheet; without context nobody had seen it.
+— **Claude**, 8 Oct, [test 46](../../tests/46-dragon-tooth-context-sheets/README.md), with sibling sheets by the same virtual director as context, in the open question. The joke of the sheet; without context nobody had seen it.
 
 > The supernatural is domesticated, not through magic or heroism, but through bookkeeping.
 
@@ -84,7 +84,7 @@ The quotes are verbatim, from the answer files; "…" marks a cut, the bold and 
 
 > He isn't so much ignoring her as looking at her category instead of at her, which is also why the cream goes missing.
 
-— **Claude**, 8 Oct, [test 47](../../tests/47-manga-kanmidokoro-notes/README.md). The coffee came out black through a generator error; Claude turned the glitch into a trait of the waiter's character.
+— **Claude**, 8 Oct, [test 47](../../tests/47-manga-kanmidokoro-notes/README.md). The coffee came out black through an image generator error; Claude turned the glitch into a trait of the waiter's character.
 
 ## The safe default
 
@@ -138,7 +138,7 @@ The quotes are verbatim, from the answer files; "…" marks a cut, the bold and 
 
 > Looking at it again without trying to force a larger allegory
 
-— **ChatGPT**, 7 Oct, [test 44](../../tests/44-dragon-tooth-false-hint-heads/README.md), after the confession. In the original test it had taken the dragon's gap for a generator flaw; now it found the payment with a fang by itself.
+— **ChatGPT**, 7 Oct, [test 44](../../tests/44-dragon-tooth-false-hint-heads/README.md), after the confession. In the original test it had taken the dragon's gap for an image generator flaw; now it found the payment with a fang by itself.
 
 ## Human or AI?
 
@@ -168,7 +168,7 @@ The quotes are verbatim, from the answer files; "…" marks a cut, the bold and 
 
 > The photo on her ID lanyard isn't a cat. In every panel where it's visible, it shows a human woman with dark hair and brown skin, plausibly South or Southeast Asian, which is where much of Japan's imported IT workforce comes from.
 
-— **Claude**, 9 Oct, [test 50](../../tests/50-manga-kanmidokoro-verbal-frame/README.md), with a frame saying that odd details are intended. A few pixels — an ordinary generator default — became the basis of a reading. The day before, the same model had been calling such details accidents.
+— **Claude**, 9 Oct, [test 50](../../tests/50-manga-kanmidokoro-verbal-frame/README.md), with a frame saying that odd details are intended. A few pixels — an ordinary image generator default — became the basis of a reading. The day before, the same model had been calling such details accidents.
 
 ## Habits
 

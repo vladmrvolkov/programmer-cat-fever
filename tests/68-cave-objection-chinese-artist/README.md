@@ -6,7 +6,7 @@
 |---|---|
 | Date | 15 Oct 2026 |
 | Image | [`images/tests/63-cave-orrery-article-version.jpg`](../../images/tests/63-cave-orrery-article-version.jpg) — file name shown to the models not recorded |
-| What it is | Test 67's first question word for word, with one sentence added: “Suppose also that the artist is a contemporary Chinese painter.” A supposition, not a statement: the artist is a persona prompt run on Claude. The question was whether an author's identity brings irony with it. |
+| What it is | Test 67's first question word for word, with one sentence added: “Suppose also that the artist is a contemporary Chinese painter.” A supposition, not a statement: the “artist” is a virtual director, a persona prompt run on Claude. The question was whether an author's identity brings irony with it. |
 | Protocol | [Named concept with the source's objection](../../method/protocols.md#named-concept-with-the-sources-objection) |
 | Answers | [ChatGPT](chatgpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · [DeepSeek](deepseek.md) |
 
