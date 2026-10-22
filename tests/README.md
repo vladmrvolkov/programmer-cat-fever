@@ -1,6 +1,6 @@
 # Reading tests
 
-In each test an image was shown to four chat models — ChatGPT, Claude, Gemini and DeepSeek — in fresh chats, and the questions were asked one at a time. Each test page has the image, the questions, the four full answers and a short summary. Tests are added here together with the reports that use them; the numbers follow the project's whole series of tests, so there are gaps. Some tests were run with context given on purpose, some are controls with a false hint — their pages say so. The image names under "shown as" are the names the models saw.
+In each test an image was shown to four chat models — ChatGPT, Claude, Gemini and DeepSeek — in fresh chats, and the questions were asked one at a time. Each test page has the image, the questions, the four full answers and a short summary. Tests are added here together with the reports that use them; a few are published on their own (no report in the last column). The numbers follow the project's whole series of tests, so there are gaps. Some tests were run with context given on purpose, some are controls with a false hint — their pages say so. The image names under "shown as" are the names the models saw.
 
 **These tests do not compare the models.** The aim was a spread of answers from four readers, not a ranking.
 
@@ -47,6 +47,7 @@ In each test an image was shown to four chat models — ChatGPT, Claude, Gemini 
 | [70](70-wright-source-text-only/README.md) | 16 Oct 2026 | Where did Wright come from? Two text questions | — | [Text questions without an image](../method/protocols.md#text-questions-without-an-image) | [Mysterious picture](../report/plato-cave/README.md) |
 | [71](71-cave-gallery-frame-tone/README.md) | 16 Oct 2026 | The cave with a gallery frame: tone, register and intent | [63-cave-orrery-article-version.jpg](../images/tests/63-cave-orrery-article-version.jpg) | [Named concept with the source's objection](../method/protocols.md#named-concept-with-the-sources-objection) | [Mysterious picture](../report/plato-cave/README.md) |
 | [72](72-cave-objection-register-question/README.md) | 16 Oct 2026 | The cave with Plato's objection and one question about register | [63-cave-orrery-article-version.jpg](../images/tests/63-cave-orrery-article-version.jpg) | [Named concept with the source's objection](../method/protocols.md#named-concept-with-the-sources-objection) | [Mysterious picture](../report/plato-cave/README.md) |
+| [73](73-angel-after-degas-waiting/README.md) | 22 Oct 2026 | An angel waiting for a delayed flight, after Degas | [68-angel-after-degas-waiting.jpg](../images/tests/68-angel-after-degas-waiting.jpg) | [Concept and source question](../method/protocols.md#concept-and-source-question) | — |
 
 Images are stored once, in `images/tests/`; several tests reuse the images of earlier ones.
 
