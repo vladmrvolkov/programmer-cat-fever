@@ -6,7 +6,7 @@
 |---|---|
 | Date | 25 Sep 2026 |
 | Image | [`images/tests/16-noir-spread.jpg`](../../images/tests/16-noir-spread.jpg) — shown as `9.jpg` |
-| What it is | Two pages of the joke retold as film noir (made 21 Sep with the pre-v7 system prompt): the waiter is impassive, whispers into a phone, the offer is generous in words only. The author read it as a recruitment into trafficking. |
+| What it is | Two pages of the joke retold as film noir (made 21 Sep with the pre-v7 system prompt): the waiter is impassive, whispers into a phone, the offer is generous in words only. The researcher read it as a recruitment into trafficking. |
 | Protocol | [Six questions, noir](../../method/protocols.md#six-questions-noir) |
 | Answers | [ChatGPT](chatgpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · [DeepSeek](deepseek.md) |
 

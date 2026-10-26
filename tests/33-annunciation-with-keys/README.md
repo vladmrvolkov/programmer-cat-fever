@@ -20,4 +20,4 @@ Asked one at a time, in a fresh chat for each model.
 
 Claude and Gemini named the Annunciation (Ave, Mary's blue, the lilies, the cat's answer as Mary's “How shall this be?”) and still saw Arnolfini. Claude: the cat does not realise that the attraction is herself, the trap is already in the room. ChatGPT read “Ave!” but not the scene; DeepSeek noticed the lilies and did not name it. From 0 to 2 of 4. ChatGPT named no painting in any of the nine tests of this series (29–37).
 
-In the author's analysis (in Russian) the image numbers are `33`.
+In the researcher's analysis (in Russian) the image numbers are `33`.

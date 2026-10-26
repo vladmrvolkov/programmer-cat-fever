@@ -1,6 +1,6 @@
 # Cat programmer: an experiment with AI and visual creativity
 
-An experiment in AI illustration, run from late August 2026 by a person who does not draw. The question: can AI turn a source — a joke, a poem, a scene from a novel, a historical episode — into an illustration that is not "neuroslop" (AI slop), with the models inventing the idea of the picture themselves and nobody writing the image prompt by hand? Behind it is a wider interest: how AI handles complex social context, creative tasks, genres and cultural detail, and how far the work can be handed over to models acting as "virtual directors" with personas of their own.
+An experiment in AI illustration, run from late August 2026 by a person who does not draw. The question: can AI turn a source — a joke, a poem, a scene from a novel, a historical episode — into an illustration that is not AI slop, with the models inventing the idea of the picture themselves and nobody writing the image prompt by hand? Behind it is a wider interest: how AI handles complex social context, creative tasks, genres and cultural detail, and how far the work can be handed over to models acting as "virtual directors" with personas of their own.
 
 The work was shared between several models:
 
@@ -57,8 +57,8 @@ method/
 - The questions and contextual information changed over time (see the [protocols](method/protocols.md)). Some tests also used revised images, so changes in responses cannot always be attributed to context alone.
 - The tests were intended to explore a range of readings, rather than rank the models.
 - A few images were shown to people informally; no systematic study of human readers was conducted.
-- The transcripts are reproduced as saved by the author, with mode labels added where needed.
-- The summaries on the test pages come from the author's analysis, done together with Claude.
+- The transcripts are reproduced as saved by the human researcher, with mode labels added where needed.
+- The summaries on the test pages come from the researcher's analysis, done together with Claude.
 
 ## Models
 
@@ -73,7 +73,7 @@ Every answer file starts with an HTML comment naming the mode, e.g. `<!--Mode: S
 
 ## About the images
 
-The visual artwork was generated with ChatGPT, Gemini and Midjourney (except Wright of Derby's paintings in tests 59 and 62). Several images were retouched by the author by hand; the test pages say so where it applies. Some supporting pages, including the manga's notes page, were laid out in HTML by Claude. Some images imitate the manner of a named artist or tradition (Daumier, Reiser, the Soviet magazine *Krokodil*, Chizhikov, Pirosmani, Bruegel, Chagall) or restage a famous painting (van Eyck, Caravaggio, Hogarth, Bruegel, Wright of Derby, Degas) — these are image generators' imitations, not works by those artists. The test copies were re-saved as JPEG without metadata and renamed before being shown to the models. Tests on works by human artists are not included, with two exceptions: tests 59 and 62 show Wright of Derby's original "A Philosopher Lecturing on the Orrery" (c. 1766) and "An Experiment on a Bird in the Air Pump" (1768), both in the public domain, as controls. Test 65 concerns an edit of a painting still under copyright (Reshetnikov, 1952); the picture is not reproduced, only described. Test 66 shows a new contemporary painting that keeps only the arrangement of roles of that painting.
+The visual artwork was generated with ChatGPT, Gemini and Midjourney (except Wright of Derby's paintings in tests 59 and 62). Several images were retouched by the researcher by hand; the test pages say so where it applies. Some supporting pages, including the manga's notes page, were laid out in HTML by Claude. Some images imitate the manner of a named artist or tradition (Daumier, Reiser, the Soviet magazine *Krokodil*, Chizhikov, Pirosmani, Bruegel, Chagall) or restage a famous painting (van Eyck, Caravaggio, Hogarth, Bruegel, Wright of Derby, Degas) — these are image generators' imitations, not works by those artists. The test copies were re-saved as JPEG without metadata and renamed before being shown to the models. Tests on works by human artists are not included, with two exceptions: tests 59 and 62 show Wright of Derby's original "A Philosopher Lecturing on the Orrery" (c. 1766) and "An Experiment on a Bird in the Air Pump" (1768), both in the public domain, as controls. Test 65 concerns an edit of a painting still under copyright (Reshetnikov, 1952); the picture is not reproduced, only described. Test 66 shows a new contemporary painting that keeps only the arrangement of roles of that painting.
 
 ## Not included (yet)
 

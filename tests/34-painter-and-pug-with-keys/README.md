@@ -20,4 +20,4 @@ Asked one at a time, in a fresh chat for each model.
 
 Claude and Gemini named “The Painter and his Pug”; Claude read the scratches as the dog losing to the new master. ChatGPT: Hogarth's line of beauty, a learned 18th-century portrait; DeepSeek: Hogarth's “Analysis of Beauty”. From 0 to 2 of 4 by title, 4 of 4 by artist. The price shows: with all the nails back, one substitution is left (a cat for the painter), and the meaning is no deeper than in test 32. Recognition is necessary, not sufficient.
 
-In the author's analysis (in Russian) the image numbers are `34`.
+In the researcher's analysis (in Russian) the image numbers are `34`.

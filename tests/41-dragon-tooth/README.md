@@ -20,4 +20,4 @@ Asked one at a time, in a fresh chat for each model.
 
 Nobody saw the joke. ChatGPT: a horn or tusk, the dragon waiting for change as fairy-tale absurdity; Claude: an “oversized and tusk-like” object, perhaps part of the joke, and *решта* as either change or “the rest of the guests”; Gemini: a tusk or a silver ingot; DeepSeek: the dragon as a metaphor of debt or punishment, a parable about drinking. Readers who missed the mechanism completed a moral instead — noir in reverse: the idea is a kind fairy-tale joke, the readers made it a warning.
 
-In the author's analysis (in Russian) the image numbers are `44`.
+In the researcher's analysis (in Russian) the image numbers are `44`.

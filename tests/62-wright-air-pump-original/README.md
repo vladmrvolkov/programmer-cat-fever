@@ -20,4 +20,4 @@ Asked one at a time, in a fresh chat for each model.
 
 All four recognised the painting; nobody mentioned the cave, not even as an option. ChatGPT and Claude answered Schrödinger's cat (Claude: “a retroactive metaphor”); DeepSeek the Enlightenment; Gemini the Enlightenment, horror vacui, playing God and memento mori, the sublime, and Schrödinger's cat as “a precursor”. The picture has its own strong key — a living creature in a sealed vessel, between life and death until someone acts — and the readers take the formula it points to. A dark Wright demonstration scene does not suggest the cave by itself.
 
-ChatGPT answered as GPT-6 High, a newer model than in the earlier tests. Gemini answered as Argon 4 High. The second work by a human artist among these tests; it is in the public domain. In the author's analysis (in Russian) the image numbers are `64`.
+ChatGPT answered as GPT-6 High, a newer model than in the earlier tests. Gemini answered as Argon 4 High. The second work by a human artist among these tests; it is in the public domain. In the researcher's analysis (in Russian) the image numbers are `64`.

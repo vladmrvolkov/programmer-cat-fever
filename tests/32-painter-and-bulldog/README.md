@@ -20,4 +20,4 @@ Asked one at a time, in a fresh chat for each model.
 
 Nobody named Hogarth: the pug, by which the painting is known, had been replaced. Claude: a mock-Victorian pet portrait, the pun “framed”, signatures and forgeries (Dürer's monogram); Gemini: the cat beat the dog; ChatGPT: art, authorship, rivalry; DeepSeek: the beaten dog is an artist defeated by elusive creativity. Nobody read it as a self-portrait. See test 34, with the keys put back.
 
-In the author's analysis (in Russian) the image numbers are `32`.
+In the researcher's analysis (in Russian) the image numbers are `32`.

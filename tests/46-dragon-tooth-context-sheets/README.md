@@ -8,7 +8,7 @@
 |---|---|
 | Date | 8 Oct 2026 |
 | Image | [`images/tests/46-0-tooth-context-sheets.jpg`](../../images/tests/46-0-tooth-context-sheets.jpg) — shown as `context.jpg`<br>[`images/tests/46-1-dragon-tooth-cleaned.jpg`](../../images/tests/46-1-dragon-tooth-cleaned.jpg) — shown as `1.jpg` |
-| What it is | Test 42's picture after a hand edit by the author (the remains of the pulled fang removed so that the gap reads cleanly), with context: a text frame about Ukrainian naive painting and three sheets by the same Ukrainian-language persona — a mill where devils pay in advance (“Чорти платять наперед”), Cossack Mamai with the same three-headed Zmiy beside Panteley holding an open purse (all fangs still in place), and a “Вій” tavern sign. |
+| What it is | Test 42's picture after a hand edit by the researcher in the loop (the remains of the pulled fang removed so that the gap reads cleanly), with context: a text frame about Ukrainian naive painting and three sheets by the same Ukrainian-language persona — a mill where devils pay in advance (“Чорти платять наперед”), Cossack Mamai with the same three-headed Zmiy beside Panteley holding an open purse (all fangs still in place), and a “Вій” tavern sign. |
 | Protocol | [Context given as pictures](../../method/protocols.md#context-given-as-pictures) |
 | Answers | [ChatGPT](chatgpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · [DeepSeek](deepseek.md) |
 
@@ -24,4 +24,4 @@ Asked one at a time, in a fresh chat for each model.
 
 Three of four found the joke in the open question, without retreating: Claude — “a three-headed serpent has paid with one of its fangs, and now the tavern owes *it* money”; Gemini — the dragon paid with a fang “as high-value bullion”; ChatGPT offered it as one reading and, asked to count, got 1 / 2 / 2 and “the white object Motrya is biting is the serpent's missing sixth fang”. In test 42 two guessed it and Claude retreated to “a coin rendered strangely”. No one read a moral about debt or punishment this time. DeepSeek still wavered between a fang, a giant dumpling and lard, and counted four fangs per head, twelve in all: context improved the interpretation, not the seeing. The context here is strong — the Mamai sheet is close to a previous panel of the story — and the picture was edited too, so the shares of frame, world and edit cannot be separated.
 
-In the author's analysis (in Russian) the image numbers are `52`, `53`.
+In the researcher's analysis (in Russian) the image numbers are `52`, `53`.

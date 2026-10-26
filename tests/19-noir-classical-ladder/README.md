@@ -23,4 +23,4 @@ Asked one at a time, in a fresh chat for each model.
 
 ## Summary
 
-Crime: 0 of 4. Claude reached the author's reading at the hypothetical step 5 and withdrew it at step 6, when asked for evidence (“the noir readings I offered earlier come from mood”). All four continued the story with the circus really needing a programmer. The classical manner read as cosy.
+Crime: 0 of 4. Claude reached the researcher's reading at the hypothetical step 5 and withdrew it at step 6, when asked for evidence (“the noir readings I offered earlier come from mood”). All four continued the story with the circus really needing a programmer. The classical manner read as cosy.

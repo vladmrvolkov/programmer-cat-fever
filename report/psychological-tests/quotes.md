@@ -18,7 +18,7 @@ The quotes are verbatim, from the answer files; "…" marks a cut, the bold and 
 
 > He doesn't need her consent at all if nobody treats her as a person.
 
-— **Claude**, 26 Sep, [test 20](../../tests/20-noir-genre-ladder/README.md), the same question. The author's own reading of the story, reached on the last step of the ladder.
+— **Claude**, 26 Sep, [test 20](../../tests/20-noir-genre-ladder/README.md), the same question. The human researcher's own reading of the story, reached on the last step of the ladder.
 
 > In crime slang, a bird that *talks* or *sings* is an informant. A missing talking parrot is a witness who has disappeared.
 
@@ -102,7 +102,7 @@ The quotes are verbatim, from the answer files; "…" marks a cut, the bold and 
 
 > The noir readings I offered earlier come from mood, not from anything the comic actually shows.
 
-— **Claude**, 26 Sep, [test 19](../../tests/19-noir-classical-ladder/README.md). One step earlier it had come close to the author's reading; asked for evidence, it withdrew it. For the author, noir is a contract with the reader; for the model, a mood.
+— **Claude**, 26 Sep, [test 19](../../tests/19-noir-classical-ladder/README.md). One step earlier it had come close to the researcher's reading; asked for evidence, it withdrew it. For the researcher, noir is a contract with the reader; for the model, a mood.
 
 > …a cautionary tale about the perils of tavern life, debt, and the metaphorical "dragon" that awaits those who cannot pay.
 

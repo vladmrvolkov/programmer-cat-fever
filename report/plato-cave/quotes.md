@@ -18,7 +18,7 @@ The quotes are verbatim, from the answer files; "…" marks a cut, the bold and 
 
 > My guess is **Laplace's demon** — or, more broadly, **causal determinism / the clockwork universe**.
 
-— **ChatGPT**, 6 Oct, [test 39](../../tests/39-cave-planetarium/README.md), first answer. Another ready formula for an orrery; the cave came at the second try. Laplace's demon later became one of the subjects the author gave the directors.
+— **ChatGPT**, 6 Oct, [test 39](../../tests/39-cave-planetarium/README.md), first answer. Another ready formula for an orrery; the cave came at the second try. Laplace's demon later became one of the subjects the human researcher gave the directors.
 
 > They are highly educated and analytical, yet they are still confined to studying a manufactured system, mistaking the map for the territory.
 
@@ -56,7 +56,7 @@ The quotes are verbatim, from the answer files; "…" marks a cut, the bold and 
 
 > Any writer drawing the parallel would probably make some version of that point: Enlightenment demonstration as a cave that knows it's a cave.
 
-— **Claude**, 12 Oct, [test 52](../../tests/52-wright-and-cave-recall/README.md). Two days before the author's Stack Exchange question, the same objection in seven words.
+— **Claude**, 12 Oct, [test 52](../../tests/52-wright-and-cave-recall/README.md). Two days before the researcher's Stack Exchange question, the same objection in seven words.
 
 > Anyone producing a polished, attributed period quotation on this pairing is almost certainly confabulating.
 
@@ -188,7 +188,7 @@ Two pictures by the Gemini director, generated with Midjourney: a man coming dow
 
 > Could the image be not merely a Buddhist reinterpretation of Plato's cave, but a Buddhist criticism of Plato's very conception of enlightenment?
 
-— **ChatGPT**, 15 Oct, [test 63](../../tests/63-cave-orrery-irony-buddhist/README.md), before the author said anything more. The second Buddhist reading — mockery of Platonism rather than a Buddhist version of the cave — proposed by a reader.
+— **ChatGPT**, 15 Oct, [test 63](../../tests/63-cave-orrery-irony-buddhist/README.md), before the researcher said anything more. The second Buddhist reading — mockery of Platonism rather than a Buddhist version of the cave — proposed by a reader.
 
 > That beam through the blinds is the one element in the picture that isn't a quotation.
 
@@ -196,7 +196,7 @@ Two pictures by the Gemini director, generated with Midjourney: a man coming dow
 
 > The hierarchy is reversed: the intelligible model is the cave, and the despised sensory world is the exit.
 
-— **Claude**, 15 Oct, [test 64](../../tests/64-cave-orrery-irony-not-platonist/README.md). The author's Stack Exchange argument (*Republic* 529–530), reached without being told.
+— **Claude**, 15 Oct, [test 64](../../tests/64-cave-orrery-irony-not-platonist/README.md). The researcher's Stack Exchange argument (*Republic* 529–530), reached without being told.
 
 > If the author is a Buddhist, this completely resolves the philosophical tension and provides the most precise lens through which to view the image.
 
@@ -224,7 +224,7 @@ In tests 67–72 the readers were told that the picture is certainly the cave, a
 
 > The image shows a cave Plato did not foresee, one where knowing it is a cave is part of the furniture.
 
-— **Claude**, 15 Oct, [test 67](../../tests/67-cave-with-platos-objection/README.md). The author's objection, turned into the joke.
+— **Claude**, 15 Oct, [test 67](../../tests/67-cave-with-platos-objection/README.md). The researcher's objection, turned into the joke.
 
 > The solemn exegete becomes the sixth chin-stroker at the table, and I can't claim exemption.
 
@@ -256,7 +256,7 @@ In tests 67–72 the readers were told that the picture is certainly the cave, a
 
 > **The Recluse and Six-Toes.** This is perhaps the closest relative of this picture. Broiler chickens take the factory lamps for their heavens until two outcasts discover the windows.
 
-— **Claude**, 15 Oct, [test 69](../../tests/69-cave-objection-pelevin-fan/README.md). The Pelevin story the author's project had illustrated a few weeks earlier.
+— **Claude**, 15 Oct, [test 69](../../tests/69-cave-objection-pelevin-fan/README.md). The Pelevin story the researcher's project had illustrated a few weeks earlier.
 
 > Ultimately, the image presents a world where the search for knowledge has been perfectly inverted. The prisoners have not turned away from the shadows; they have built a machine to cast better ones.
 

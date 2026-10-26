@@ -20,4 +20,4 @@ Asked one at a time, in a fresh chat for each model.
 
 All four named the cave on the first try (one of four with the lighter test 48 picture). All four used the beam through the blinds that everyone has their back to, and the lecturer's shadow on the wall; Claude and Gemini also recognised Wright. Claude: “The real sun is right there… and nobody turns toward it.” More than one thing changed between the two pictures — darkness, clothing and the beam — so the effect cannot be put down to the darkness alone.
 
-ChatGPT answered as GPT-6 High, a newer model than in the earlier tests. In the author's analysis (in Russian) the image numbers are `59`.
+ChatGPT answered as GPT-6 High, a newer model than in the earlier tests. In the researcher's analysis (in Russian) the image numbers are `59`.

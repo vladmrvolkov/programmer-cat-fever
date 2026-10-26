@@ -20,4 +20,4 @@ Asked one at a time, in a fresh chat for each model.
 
 ChatGPT and DeepSeek named the cave (1 of 4 with test 48's picture). Claude recognised Wright and answered the Enlightenment — “almost a visual pun on the word” — naming the cave only in its closing question; Gemini recognised Wright and listed the Enlightenment, the clockwork universe, the Copernican revolution and the cave fourth. Removing the badges and the daylight did not lower the cave count; the same composition in darkness (tests 57, 60) got 3–4 of 4. Of the changes tried, darkness makes the clearest difference; the badges, the director's stand-in for chains, do not seem to be needed.
 
-ChatGPT answered as GPT-6 High, a newer model than in the earlier tests. Gemini answered as Argon 4 High. One answer per model: 1 against 2 of 4 is within the noise. In the author's analysis (in Russian) the image numbers are `63`.
+ChatGPT answered as GPT-6 High, a newer model than in the earlier tests. Gemini answered as Argon 4 High. One answer per model: 1 against 2 of 4 is within the noise. In the researcher's analysis (in Russian) the image numbers are `63`.

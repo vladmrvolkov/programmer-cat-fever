@@ -6,7 +6,7 @@
 |---|---|
 | Date | 12 Oct 2026 |
 | Image | none |
-| What it is | A text question, part of the author's search for the origin of the idea in test 39: has anyone linked Wright of Derby's painting to Plato's cave? The readers are asked to recall, not to search. |
+| What it is | A text question, part of the researcher's search for the origin of the idea in test 39: has anyone linked Wright of Derby's painting to Plato's cave? The readers are asked to recall, not to search. |
 | Protocol | [Text questions without an image](../../method/protocols.md#text-questions-without-an-image) |
 | Answers | [ChatGPT](chatgpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · [DeepSeek](deepseek.md) |
 

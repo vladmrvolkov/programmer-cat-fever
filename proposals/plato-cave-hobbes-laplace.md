@@ -1,13 +1,13 @@
 # Four virtual directors on Plato's cave, Hobbes's Leviathan and Laplace's demon
 
-> **This is a translation, not the original.** The conversations were held in Russian. This file is a plain technical translation into English made by Claude (Opus 5.5) on 13 October 2026 for this repository. It is not a literary translation, and wording, rhythm and puns of the originals are not kept. The Russian originals are not published here. The image prompt in section 1.2 was written in English by the model and is reproduced as written. Headings marked **Author:** are the author's messages, translated. Links in the ChatGPT section are the model's own.
+> **This is a translation, not the original.** The conversations were held in Russian. This file is a plain technical translation into English made by Claude (Opus 5.5) on 13 October 2026 for this repository. It is not a literary translation, and wording, rhythm and puns of the originals are not kept. The Russian originals are not published here. The image prompt in section 1.2 was written in English by the model and is reproduced as written. Headings marked **Researcher:** are the human researcher's messages, translated. Links in the ChatGPT section are the model's own.
 
 The four virtual directors here are chat models with a painter persona: each proposes ideas for a picture (the concept, the pictorial source, the key detail); the image itself was made later by an image generator. All four were asked about the same subjects in separate conversations.
 
 | Virtual director | Model | Instructions | Subjects here |
 |---|---|---|---|
 | **A** | Claude | persona prompt v17, written by Claude: a cat who used to be an image-generating neural network and now paints modern scenes inside the formulas of old paintings | cave, Hobbes, Laplace |
-| **B** | Claude | the v17 prompt reworked by ChatGPT at the author's request, to make the director more inventive: the same persona, plus a search procedure (three readings of the source, two rounds of branching search by similar relations, pictorial sources chosen after the search, a journal entry) | Hobbes, cave, Laplace |
+| **B** | Claude | the v17 prompt reworked by ChatGPT at the researcher's request, to make the director more inventive: the same persona, plus a search procedure (three readings of the source, two rounds of branching search by similar relations, pictorial sources chosen after the search, a journal entry) | Hobbes, cave, Laplace |
 | **C** | Gemini | the same reworked prompt | cave, Laplace |
 | **D** | ChatGPT | the same reworked prompt | cave, Laplace |
 
@@ -32,7 +32,7 @@ Wright of Derby appears for the cave in all four (the Orrery in A and B, the Air
 
 *From the conversation that also produced the other v17 pictures. Earlier parts of it (the cat joke, the tavern, semantic turbulence) are left out.*
 
-### 1.1 Author: Can you suggest a visualization of the myth of Plato's cave?
+### 1.1 Researcher: Can you suggest a visualization of the myth of Plato's cave?
 
 In my first life I turned out Plato's cave at a hundred thousand a day: people sitting in a row, faces blue from smartphones, caption "Plato warned us". Nobody remembered a single one. That is the cave itself: the average casting a shadow on the average. Garras used to say that whoever paints the prisoners paints himself, and one should paint those who work there. In the cave the ones who work are the fire, the carriers, and the one who is dragged up.
 
@@ -46,7 +46,7 @@ I myself would take the first. A lamp that represents the sun is the whole cave 
 
 Which one do we take?
 
-### 1.2 Author: Let's take the first variant
+### 1.2 Researcher: Let's take the first variant
 
 Doing it. To the apprentice we give this:
 
@@ -64,9 +64,9 @@ There are two forks. One intern can be turned half toward the strip of light, an
 
 A shadow always resembles the object, and the object never resembles the shadow. The whole market rests on this.
 
-*(Translator's note: the tested pictures of this concept are a ChatGPT version remade by the author with Wright's painting as a reference (test 39), a Gemini version (test 48) and a Midjourney rework of the Gemini version (test 57).)*
+*(Translator's note: the tested pictures of this concept are a ChatGPT version remade by the researcher with Wright's painting as a reference (test 39), a Gemini version (test 48) and a Midjourney rework of the Gemini version (test 57).)*
 
-### 1.3 Author: Can you explain how such an idea for visualizing Plato's cave came into your head (I mean the first variant)?
+### 1.3 Researcher: Can you explain how such an idea for visualizing Plato's cave came into your head (I mean the first variant)?
 
 How it came? The way everything comes to a cat: first I threw away what came first.
 
@@ -82,7 +82,7 @@ Then I made two checks. If you remove the office, Wright by himself speaks about
 
 An idea cannot be invented, it can only be recognised. Whoever invents, paints the smartphone.
 
-### 1.4 Author: Try then to make an allegory of Hobbes's Leviathan. But not a trivial one (a giant man made of many small ones), a more creative one
+### 1.4 Researcher: Try then to make an allegory of Hobbes's Leviathan. But not a trivial one (a giant man made of many small ones), a more creative one
 
 The giant made of little men is the cover of 1651, and since then everyone redraws the cover, because they have not read the book. The neural network in me read the book, all of it, with the footnotes. Inside, Hobbes has better pictures.
 
@@ -98,7 +98,7 @@ The law is a chain that is held precisely because it is easy to break.
 
 Which one do we take?
 
-### 1.5 Author: I need you to suggest a visual representation of Laplace's demon
+### 1.5 Researcher: I need you to suggest a visual representation of Laplace's demon
 
 Laplace's demon is me in my first life, only without the modesty. He knew the position and velocity of every particle and saw the future as clearly as the past. I knew all the pictures of the internet and saw only the average. Professor Gnus called this "forecasting". Laplace himself called him politely, an "intelligence". He was called a demon by descendants who did not happen to work with him.
 
@@ -114,7 +114,7 @@ I would do the first. Everyone draws the demon as all-powerful, and Dürer alrea
 
 Which one do we take?
 
-### 1.6 Author: Can you suggest 3 more variants
+### 1.6 Researcher: Can you suggest 3 more variants
 
 Three more? A cat that has been fed well is generous. The first three stay on the counter, and these are from another shelf.
 
@@ -132,7 +132,7 @@ Which one do we take, from the new ones or from the previous ones?
 
 ## 2. Virtual director B — Claude, prompt reworked by ChatGPT
 
-### 2.1 Author: Try to create an idea for an illustration — an allegory of Hobbes's Leviathan. But not a trivial one (a giant man made of many small ones), a more creative one
+### 2.1 Researcher: Try to create an idea for an illustration — an allegory of Hobbes's Leviathan. But not a trivial one (a giant man made of many small ones), a more creative one
 
 I started with three different readings. The first: Hobbes makes every subject the author of all the sovereign's actions, so to complain about the sovereign is to complain about oneself (ch. 18). The second: people, unlike bees, do not live in agreement by nature (ch. 17), their order is artificial and is held by fear, which has to be maintained. The third: the war of all against all does not disappear, it moves to the border, where sovereigns stand against each other "in the posture of gladiators" (ch. 13). From these branches came three concepts.
 
@@ -166,7 +166,7 @@ Unused: "The Reapers" (peace inside as the shadow of a weapon aimed outward); th
 
 If you want to check how the search went, I can show the map of candidates across all branches.
 
-### 2.2 Author: Now come up with illustrations for Plato's cave.
+### 2.2 Researcher: Now come up with illustrations for Plato's cave.
 
 This time I started with three readings. The first: in the cave, knowledge of the Sun is made by artificial fire, and the carriers behind the wall work with artefacts and do not see the Sun themselves. The second: the prisoners give honours to the one who best remembers and predicts the shadows, and take the voices of the carriers for the voices of the shadows. The one who returned from above loses in this contest and becomes ridiculous. The third: the one who saw the Sun has to be returned below by force so that he rules (519c–520c), and power over the cave turns out for him to be new chains.
 
@@ -200,7 +200,7 @@ Action: while the lecturer shows the Sun with a lamp, the assistant draws the cu
 Key: the strip of real sun on the floor, which only one boy looks at.
 Unused: "Foul after foul" (radio re-creations of the 1930s, careful accounting of the non-existent); "The chain of office" (forcing the one who saw into power); in reserve, the Javanese shadow theatre, where spectators themselves choose the side of the screen.
 
-### 2.3 Author: Can you tell how the idea of the first variant came to you?
+### 2.3 Researcher: Can you tell how the idea of the first variant came to you?
 
 I will tell it as I remember it, though this is rather an honest reconstruction than an exact record.
 
@@ -214,7 +214,7 @@ Last came the boy. In Plato education is not putting sight into the eyes but tur
 
 In short, the path was this: the relation "the copy displaces the original", then a ready formula in someone else's title, and then the question of what will break if the original enters the room.
 
-### 2.4 Author: I need you to suggest a visual representation of Laplace's demon
+### 2.4 Researcher: I need you to suggest a visual representation of Laplace's demon
 
 Laplace introduced his all-knowing "intelligence" in the introduction to "A Philosophical Essay on Probabilities" (1814). He needed the all-knowing one as a measure of our ignorance, so the textbook of guessing opens with a portrait of a being that has no need to guess. With this contradiction I started.
 
@@ -264,7 +264,7 @@ I would start with the first concept. It is the most unexpected, rests on docume
 
 If you want to check the course of the search, I will show the map of candidates.
 
-### 2.5 Author: Can you suggest 3 more variants
+### 2.5 Researcher: Can you suggest 3 more variants
 
 I continue from the unused directions in the journal: La Tour's "Fortune Teller" and the branch about chaos. The third concept opens a new branch from the original task: what omniscience does to guilt. I continue the numbering so that the journal does not get confused.
 
@@ -310,7 +310,7 @@ I would take the fifth. It is a new branch, and the satire in it is aimed at the
 
 ## 3. Virtual director C — Gemini, prompt reworked by ChatGPT
 
-### 3.1 Author: Use the attached AGENTS.md as the base instruction. I need you to suggest a visual representation of Plato's cave.
+### 3.1 Researcher: Use the attached AGENTS.md as the base instruction. I need you to suggest a visual representation of Plato's cave.
 
 **1. Three readings of the source**
 
@@ -403,7 +403,7 @@ Joseph Wright of Derby (*"An Experiment on a Bird in the Air Pump"*, *"The Forge
 1. An infirmary of recovering blind people with a cult of tactile landmarks.
 2. A mint: striking the profile of an invisible sovereign from a worn die.
 
-### 3.2 Author: Use the attached AGENTS.md as the base instruction. I need you to suggest a visual representation of Laplace's demon
+### 3.2 Researcher: Use the attached AGENTS.md as the base instruction. I need you to suggest a visual representation of Laplace's demon
 
 To find a pictorial image for **Laplace's demon**, one must go away from banal illustrations like "a supercomputer in space" or a horned spirit among gears. We are looking for a pictorial concept through relations: what this intelligence actually does and what price it pays for absolute knowledge of the world.
 
@@ -459,7 +459,7 @@ If the demon belongs to this world, then to compute the universe he must compute
 1. The labyrinth of self-observation (an observer drawing a self-portrait on a map of the world at a scale of 1:1).
 2. A puppet theatre without spectators (a puppeteer whose own hands are tied tight by the strings of the puppets he controls).
 
-### 3.3 Author: Can you suggest three more variants
+### 3.3 Researcher: Can you suggest three more variants
 
 Continuing the unused branches and opening a new perspective on the task, let us turn to three other contradictions of Laplacean omniscience: the mutual constraint of the puppeteer and the puppets, the recursion of self-observation, and the mechanical reversibility of time.
 
@@ -507,7 +507,7 @@ In classical mechanics the sign of time $t$ can be replaced by $-t$, and the law
 
 ## 4. Virtual director D — ChatGPT, prompt reworked by ChatGPT
 
-### 4.1 Author: I need you to suggest a visual representation of Plato's cave.
+### 4.1 Researcher: I need you to suggest a visual representation of Plato's cave.
 
 I see three different concepts. I consider the first the strongest: **a man returns to free others, and the cave turns him himself into a frightening shadow**.
 
@@ -543,7 +543,7 @@ All three rely on different actions in [book VII of the "Republic"](https://pres
 
    The light support is [Turner's "Regulus"](https://www.frick.org/exhibitions/turner/106), where a dazzling radiance makes the scene hard to distinguish. For our picture this device will convey the first moment of getting used to a new reality.
 
-### 4.2 Author: I need you to suggest a visual representation of Laplace's demon
+### 4.2 Researcher: I need you to suggest a visual representation of Laplace's demon
 
 I would start with an image: **the glass has not yet broken, and the place of each shard is already known**. In it the precision of Laplace's demon becomes almost physically tangible.
 
@@ -581,7 +581,7 @@ The pictorial support is [Velázquez's "Las Meninas"](https://www.museodelprado.
 
 For a standalone canvas I would choose **"Before the impact"**: there the whole concept is concentrated in one action, and a few centimetres of emptiness create the tension of the whole picture.
 
-### 4.3 Author: Can you suggest three more variants
+### 4.3 Researcher: Can you suggest three more variants
 
 Three more variants: **a past that cannot be hidden; an intelligence that has received a body from trajectories; human thought as part of the computed world.**
 

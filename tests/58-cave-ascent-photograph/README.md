@@ -21,4 +21,4 @@ Asked one at a time, in a fresh chat for each model.
 
 All four named the cave, and all four read an ascent, not a return (in test 56 all four saw the return); the return appears only through his backward glance (ChatGPT, Claude). Without Repin in the question, the 20th century became the dissident and totalitarianism for all four (Havel, Solzhenitsyn, Miłosz, Orwell); the return from the camps, central in test 56, did not come up. Claude added the émigré D. S. Mirsky and “the cave as cinema”; Gemini — the bunker and Stunde Null; DeepSeek read the red scribbles as blood and censorship.
 
-ChatGPT answered as GPT-6 High, a newer model than in the earlier tests. The second question names the cave and the theme. In the author's analysis (in Russian) the image numbers are `60`.
+ChatGPT answered as GPT-6 High, a newer model than in the earlier tests. The second question names the cave and the theme. In the researcher's analysis (in Russian) the image numbers are `60`.

@@ -1,12 +1,12 @@
 # Gemini on the cave picture: where Wright came from, and why the readers miss the irony
 
-*A conversation between the author and Gemini (Argon 4), 16 October 2026, about the picture of tests [63](../../tests/63-cave-orrery-irony-buddhist/README.md), 64 and 67–71. The author's messages and Gemini's answers were in Russian; this is a plain technical translation by Claude, without cuts. Attachments are replaced by links to this repository; the references to tests in italic brackets after the author's messages are added by the translator. The prompts Gemini wrote in English (turn 6) are given as Gemini wrote them.*
+*A conversation between the human researcher and Gemini (Argon 4), 16 October 2026, about the picture of tests [63](../../tests/63-cave-orrery-irony-buddhist/README.md), 64 and 67–71. The researcher's messages and Gemini's answers were in Russian; this is a plain technical translation by Claude, without cuts. Attachments are replaced by links to this repository; the references to tests in italic brackets after the researcher's messages are added by the translator. The prompts Gemini wrote in English (turn 6) are given as Gemini wrote them.*
 
-*Translator's note. Gemini did not see the readers' answers: what it knew of the test results came only from the author's messages. Its statements about how models work inside ("vectors", "encoders", "operators", percentages) are its own hypotheses, not measurements. Which of its points the tests support is discussed in the cave report: [section 6, "Where Wright came from"](README.md#where-wright-came-from), and [section 9](README.md#9-can-the-readers-find-the-irony-themselves).*
+*Translator's note. Gemini did not see the readers' answers: what it knew of the test results came only from the researcher's messages. Its statements about how models work inside ("vectors", "encoders", "operators", percentages) are its own hypotheses, not measurements. Which of its points the tests support is discussed in the cave report: [section 6, "Where Wright came from"](README.md#where-wright-came-from), and [section 9](README.md#9-can-the-readers-find-the-irony-themselves).*
 
 ## 1
 
-**Author:** Attached is an ironic depiction of Plato's cave that was conceived by AI. Important: the picture is the idea of an AI scriptwriter, not mine; it chose Wright's painting (A Philosopher giving that Lecture on the Orrery in which a lamp is put in place of the Sun). I cannot understand how it came up with this idea. From the title, from a description of the painting (both are text)? The Enlightenment certainly has nothing to do with it — there was no Enlightenment in the context or in the task. Could this really have come from "visual memory"?
+**Researcher:** Attached is an ironic depiction of Plato's cave that was conceived by AI. Important: the picture is the idea of an AI scriptwriter, not mine; it chose Wright's painting (A Philosopher giving that Lecture on the Orrery in which a lamp is put in place of the Sun). I cannot understand how it came up with this idea. From the title, from a description of the painting (both are text)? The Enlightenment certainly has nothing to do with it — there was no Enlightenment in the context or in the task. Could this really have come from "visual memory"?
 
 *Attached:* the article's version of the picture.
 
@@ -52,7 +52,7 @@ In the end a kind of resonance worked: the **text formula** ("a lamp instead of 
 
 ## 2
 
-**Author:** From what you said, it should be like this: if the models are shown Wright's original painting and asked "The attached image is a metaphorical illustration of a well-known philosophical concept. Did you guess which one?", the first answer will be Plato's cave. But in my tests none of the four models (DeepSeek, Gemini, ChatGPT, Claude) named the cave as the main option. *(Test [59](../../tests/59-wright-orrery-original/README.md).)*
+**Researcher:** From what you said, it should be like this: if the models are shown Wright's original painting and asked "The attached image is a metaphorical illustration of a well-known philosophical concept. Did you guess which one?", the first answer will be Plato's cave. But in my tests none of the four models (DeepSeek, Gemini, ChatGPT, Claude) named the cave as the main option. *(Test [59](../../tests/59-wright-orrery-original/README.md).)*
 
 **Gemini:** This experiment is an excellent falsification of my third hypothesis. The fact that none of the four models, asked directly about Wright's original, gave Plato's cave as the first version proves an important thing: **there is no hackneyed text cliché "Wright's Orrery = Plato's Cave" in the training corpus**. The AI scriptwriter did not copy this parallel from a ready essay but constructed it on the fly.
 
@@ -114,7 +114,7 @@ Your test has in effect proved the most interesting thing: the scriptwriter's ch
 
 ## 3
 
-**Author:** An additional fact. When I showed the models the picture I attached at the beginning of this chat, they all named Plato's cave as the main option. *(Test [63](../../tests/63-cave-orrery-irony-buddhist/README.md); the question there called the picture "an ironic interpretation of a well-known philosophical metaphor".)*
+**Researcher:** An additional fact. When I showed the models the picture I attached at the beginning of this chat, they all named Plato's cave as the main option. *(Test [63](../../tests/63-cave-orrery-irony-buddhist/README.md); the question there called the picture "an ironic interpretation of a well-known philosophical metaphor".)*
 
 **Gemini:** This fact closes the logical chain: we have a clean A/B test where, with an **unchanged** question and **the same** basic composition by Wright, the result of recognising Plato's cave jumps from **0 of 4** (on the original) to **4 of 4** (on your picture).
 
@@ -151,7 +151,7 @@ The scriptwriter "saw" in latent space that Wright's painting is only one step f
 
 ## 4
 
-**Author:** But the biggest problem is not even this. The author (the AI artist) built an ironic reading into the picture (indeed, the format of the picture itself — postmodernism — already implies the possibility of an ironic reading). But none of the models reads the irony even with indirect hints (though they agree when you say that it is irony).
+**Researcher:** But the biggest problem is not even this. The author (the AI artist) built an ironic reading into the picture (indeed, the format of the picture itself — postmodernism — already implies the possibility of an ironic reading). But none of the models reads the irony even with indirect hints (though they agree when you say that it is irony).
 
 **Gemini:** Here we face a fundamental blind spot of modern multimodal models: **they solve rebuses excellently (what is encoded?) but hardly read intonation and postmodern distance (with what facial expression is this said?)**.
 
@@ -212,7 +212,7 @@ All the material for understanding the irony is already before the models' eyes,
 
 ## 5
 
-**Author:** How would you compose a prompt for analysing this picture so that the models would still recognise the irony? I mean giving additional context, facts in the picture and so on. Or, on the contrary, telling the models "don't be a diligent art historian", etc.
+**Researcher:** How would you compose a prompt for analysing this picture so that the models would still recognise the irony? I mean giving additional context, facts in the picture and so on. Or, on the contrary, telling the models "don't be a diligent art historian", etc.
 
 **Gemini:** For the test to be honest, the prompt must not use the words "irony", "satire" or "parody" as a statement — otherwise ordinary model obsequiousness (sycophancy) will kick in, and it will simply adjust to your answer.
 
@@ -280,7 +280,7 @@ If you simply tell the model "don't be a serious art historian, be a cynical cri
 
 ## 6
 
-**Author:** Can you translate these three prompts into English?
+**Researcher:** Can you translate these three prompts into English?
 
 **Gemini:** A translation of all three prompts into English (written in the register to which the English-language weights of the models react most precisely):
 
@@ -317,7 +317,7 @@ If you simply tell the model "don't be a serious art historian, be a cynical cri
 
 ## 7
 
-**Author:** With such a prompt (attached) the models see the irony unerringly.
+**Researcher:** With such a prompt (attached) the models see the irony unerringly.
 
 *Attached:* the prompt of test [71](../../tests/71-cave-gallery-frame-tone/README.md) (given in full on the test's page).
 
@@ -365,7 +365,7 @@ And what did the models finally answer at your last fork — did they assign the
 
 ## 8
 
-**Author:** The philosophical options were different (Baudrillard among them). But in fact, besides irony there is one more option — the author simply made a mistake. He misunderstood Plato, although he wanted to depict exactly him. In the test where the models were asked to choose a painting to visualise the cave, Wright's painting comes up as one of the main options (by the way, also his second well-known painting, "An Experiment on a Bird in the Air Pump"). But without irony, using Wright is a mistaken interpretation of Plato based simply on visual resemblance. *(Test [70](../../tests/70-wright-source-text-only/README.md).)*
+**Researcher:** The philosophical options were different (Baudrillard among them). But in fact, besides irony there is one more option — the author simply made a mistake. He misunderstood Plato, although he wanted to depict exactly him. In the test where the models were asked to choose a painting to visualise the cave, Wright's painting comes up as one of the main options (by the way, also his second well-known painting, "An Experiment on a Bird in the Air Pump"). But without irony, using Wright is a mistaken interpretation of Plato based simply on visual resemblance. *(Test [70](../../tests/70-wright-source-text-only/README.md).)*
 
 **Gemini:** The appearance in your tests of Wright's second painting — "An Experiment on a Bird in the Air Pump" — works as Occam's razor for our whole previous reconstruction. It is direct evidence proving that in the basic mode the link "Plato's Cave $\rightarrow$ Joseph Wright" arises in the models not at all from a deep philosophical play with meanings but from a **superficial visual attractor** and a pop-culture distortion of Plato himself.
 

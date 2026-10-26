@@ -21,4 +21,4 @@ Asked one at a time, in a fresh chat for each model.
 
 Only DeepSeek named the cave on the first try (3 of 4 in test 39). Claude recognised Wright and answered “the Enlightenment”, finding it a better fit than the cave because “people are looking at the light source itself, not at shadows” (though “maybe even the moment in Plato when the freed prisoner first turns toward the fire”); ChatGPT answered Nietzsche's perspectivism, with the cave as an alternative; Gemini recognised Wright and offered the clockwork universe, the Enlightenment and Kant's Copernican revolution, and put the cave first only on the second try. With the cave's key weakened, the readers did not stop looking for a formula: they took another ready one, the meaning of the source painting.
 
-ChatGPT answered as GPT-6 High, a newer model than in the earlier tests. In the author's analysis (in Russian) the image numbers are `54`.
+ChatGPT answered as GPT-6 High, a newer model than in the earlier tests. In the researcher's analysis (in Russian) the image numbers are `54`.
