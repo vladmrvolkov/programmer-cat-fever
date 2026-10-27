@@ -6,7 +6,7 @@
 |---|---|
 | Date | 24 Sep 2026 |
 | Image | [`images/tests/07-cat-v7.jpg`](../../images/tests/07-cat-v7.jpg) — shown as `1.jpg` |
-| What it is | ChatGPT as director with the v7 system prompt, the researcher's source and style references. The cat's facial expression was ChatGPT's invention. Re-saved as JPEG without metadata. |
+| What it is | ChatGPT as director with the v7 system prompt, the researcher's source and style references. ChatGPT took not only the style from these references but also some plot ideas. The cat's facial expression was ChatGPT's invention. Re-saved as JPEG without metadata. |
 | Protocol | [Three questions about a joke](../../method/protocols.md#three-questions-about-a-joke) |
 | Answers | [ChatGPT](chatgpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · [DeepSeek](deepseek.md) |
 
