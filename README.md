@@ -62,7 +62,7 @@ The materials are published here as articles and reports are prepared.
 ## What is here
 
 - **[Reports](report/)** — one folder per publication: the detailed report, its images and, where there is one, a selection of reader quotes. Each report identifies its author and describes the relevant AI contributions.
-- **[Reading tests](tests/README.md)** — the tests published so far (52), most of them used by the reports and the others on the cat joke, each with its images, questions and saved reader conversations.
+- **[Reading tests](tests/README.md)** — the tests published so far (54), most of them used by the reports and the others on the cat joke, each with its images, questions and saved reader conversations.
 - **[Directors' proposals](proposals/plato-cave-hobbes-laplace.md)** — what four virtual directors (two Claudes, Gemini, ChatGPT) proposed for Plato's cave, Hobbes's Leviathan and Laplace's demon; a plain English translation of conversations held in Russian.
 - **[Protocols](method/protocols.md)** — how the images were prepared, which questions were asked, and what the numbers can and cannot mean.
 
