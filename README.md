@@ -42,7 +42,7 @@ The cat-joke tests published here so far:
 - the harsh version and the dog diptych: 21;
 - the anachronism personas: 29, 33, 35;
 - the manga with the fork: 38, 43, 47, 50;
-- the angel: 73.
+- the angel: 73, 76.
 
 The article on the joke itself is in preparation.
 
@@ -62,9 +62,10 @@ The materials are published here as articles and reports are prepared.
 ## What is here
 
 - **[Reports](report/)** — one folder per publication: the detailed report, its images and, where there is one, a selection of reader quotes. Each report identifies its author and describes the relevant AI contributions.
-- **[Reading tests](tests/README.md)** — the tests published so far (54), most of them used by the reports and the others on the cat joke, each with its images, questions and saved reader conversations.
+- **[Reading tests](tests/README.md)** — the tests published so far (65), most of them used by the reports and the others on the cat joke or on other sources — Chomsky's sentence "Colorless green ideas sleep furiously" (77–79), a Japanese tale about a shaved escort (80–82) and Žižek's reading of the red ink joke (83–86) — each with its images, questions and saved reader conversations.
 - **[Directors' proposals](proposals/plato-cave-hobbes-laplace.md)** — what four virtual directors (two Claudes, Gemini, ChatGPT) proposed for Plato's cave, Hobbes's Leviathan and Laplace's demon; a plain English translation of conversations held in Russian.
 - **[Protocols](method/protocols.md)** — how the images were prepared, which questions were asked, and what the numbers can and cannot mean.
+- **[Starting conditions](method/conditions.md)** — the rules the experiment started with: what the human was allowed to do and what counted as a successful image.
 
 ```
 README.md                  this page
@@ -84,6 +85,7 @@ images/
   tests/                   every test image, stored once
 method/
   protocols.md             preparation, question sets, limits
+  conditions.md            starting conditions, target criteria
 ```
 
 ## How to read the tests

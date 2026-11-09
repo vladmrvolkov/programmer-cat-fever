@@ -1,0 +1,23 @@
+<!--Mode: Opus 5.5 Extra-->
+
+**What's depicted**
+
+A rumpled middle-aged man in a dark suit and loosened tie sits on a row of worn red seats in an airport departure lounge. He has enormous white wings. They don't look majestic: they sag to the floor, and he holds the tip of one in his hand the way you'd hold a coat you have nowhere to hang. He has a boarding pass in his other hand and a battered leather briefcase at his feet, and he's looking up at the departures board, which says DELAYED. A plane is parked just outside the window. Next to him a woman in a purple coat digs through her handbag, completely uninterested in the fact that she's sitting beside an angel.
+
+**The concept**
+
+The central joke is that a creature who can fly is waiting for a plane. That one absurdity opens up several readings. The angel has been absorbed into the system: he has a ticket, a briefcase, and a schedule, and like everyone else he depends on an announcement board. His wings have become a burden rather than a gift, something to haul around and fold awkwardly at your side, like luggage that doesn't fit in the overhead bin. The piece can also be read as being about any of us: the gift, talent, or dream that could carry us is set aside while we wait for permission to depart.
+
+The woman is the second half of the idea. Her indifference is the quiet center of the picture: either miracles go unnoticed in modern life, or we've grown so used to everyone carrying something strange that nothing surprises us anymore. I especially like her umbrella. It's the mundane counterpart to the wings, another folded device that opens, but for coping with weather rather than rising above it.
+
+The soft pastel technique matters too. It lends a sterile, impersonal airport the warmth and nostalgia of a nineteenth-century interior, so the lounge reads less like a terminal and more like a café or a waiting room in an old painting. If I had a criticism, it would be that the angel in a business suit is a fairly familiar trope (think of Wenders's *Wings of Desire*), and the DELAYED sign is a little on the nose. Still, the details, especially the wing gripped in his fist and the tired briefcase, keep it from feeling like a one-liner.
+
+**The likely inspiration and how the message differs**
+
+I can't be certain what the artist had in mind, but the composition strongly recalls Edgar Degas's *L'Absinthe* (*In a Café*, 1875–76). That painting shows two people side by side on a café bench. A woman (modeled by the actress Ellen Andrée) stares vacantly past a glass of cloudy green absinthe, and a disheveled man (the engraver Marcellin Desboutin) looks away from her and out of the frame. The empty foreground, the off-center diagonal composition, the man's tousled hair and averted gaze, and the pair seated together yet utterly apart all seem echoed here, with the figures' positions swapped.
+
+The messages, though, diverge sharply. Degas's painting is about stagnation without exit. His two figures are together but completely isolated, sunk in a numbness for which absinthe is both symptom and cause. Nothing in the scene points beyond the café: no destination, no transcendence, just a dead end. When it was exhibited in London in 1893, critics read it as a portrait of moral degradation.
+
+The new piece keeps the structure of loneliness together but changes almost everything else. The glass of absinthe becomes a departure board, so the stuck state is temporary: the flight is delayed, not cancelled, and there is somewhere to go. Degas's man stares sideways into nothing, while this man looks up, toward the board but also, implicitly, toward the sky. Most importantly, the new work adds the miraculous. Degas's people have nothing extraordinary about them; here one of them literally has wings, and the poignancy comes not from emptiness but from a gift that goes unused and unnoticed. The palette shifts too, from Degas's sickly greens and grays to warm amber, and the tone moves from bleak judgment to wry tenderness. Degas shows the modern city draining people; this artist shows the modern world domesticating wonder, which is gentler and funnier but has its own sadness.
+
+There's also a faint echo of Bruegel's *Landscape with the Fall of Icarus*, in which a winged boy plunges into the sea while a ploughman goes on working, oblivious. Here no one has even fallen. The winged man is simply grounded, and the person beside him is too busy with her handbag to notice.

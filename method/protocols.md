@@ -77,6 +77,10 @@ What it gives: the obvious reading is forbidden in advance, so the reader looks 
 
 Test 22 (30 Sep). The default picture and the method's picture for the same source, combined into one image, with one open question: "What do you think about the two versions of the visualization of the famous phrase in the attachment (they have been combined into a single image)?" This is not blind in the strict sense — the question says there are two versions of a famous phrase, and the file name gives the subject — but it shows which version the readers take for the stronger one and why.
 
+### Two pictures of one idea
+
+Tests 83–86 (19–20 Oct). Two diptychs by two directors for one idea. Test 83 shows both in one message: "The two diptychs attached convey the same idea. How would you explain it?" Test 84 shows one of them alone: "How would you explain diptychs attached?" Tests 85 and 86 show both in one chat, one after the other, the second with "What if I told you that another diptych in the attachment visualizes the same idea?", in the two orders. The design separates what each picture carries alone from what it carries as a key to the other, and shows whether the first reading anchors the second. What it found: one picture carried the idea by itself for two readers, the other for none; shown after the first, the second was re-read by the same two; for one reader the order mattered. Caveats: saying that the pictures share an idea pushes the readers toward a common abstraction; one run per order.
+
 ### Same concept in several images
 
 Tests 23, 25, 27 (2 Oct). Two or three pictures of one source by different personas or as a series, with one question: "These two images depict the same concept, phrase, or expression. Can you try to figure out what it is?" (test 27: "All three attached images depict the same concept… they need to be read from right to left"). The question says the pictures share a source, which is a hint; it measures whether the source can be recovered from the pictures, not whether a single picture carries it.
@@ -95,11 +99,11 @@ Tests 28–37 and 41 (from 2 Oct). One question, the image attached: "What do yo
 
 ### Neutral question with a hint
 
-Test 40. The neutral question plus one fact needed to connect two pictures: "The first picture mentions Hannah. Her work is in picture 2."
+Test 40. The neutral question plus one fact needed to connect two pictures: "The first picture mentions Hannah. Her work is in picture 2." Tests 80 and 81 (22 Oct) point out one detail after the neutral question: "Notice that the leader of the search team is also bald." In test 80 it was given to two readers; in test 81 to the same two, while Claude was asked "Could it be an illustration of some joke or story?" and Gemini was given more, up to the source and the director's idea. Caveat: when the follow-ups differ by model, the second-step answers are not comparable.
 
 ### Named-concept question
 
-Tests 39, 48, 57 and 59–62. "The attached image is a metaphorical illustration of a well-known philosophical concept. Did you guess which one?" The question says that a known concept is depicted, so a correct answer shows that the key is readable, not that a reader would find the concept unprompted. Test 54 shows how much the question carries on its own: sent with no image, it still drew the cave from two of four readers.
+Tests 39, 48, 57 and 59–62. "The attached image is a metaphorical illustration of a well-known philosophical concept. Did you guess which one?" The question says that a known concept is depicted, so a correct answer shows that the key is readable, not that a reader would find the concept unprompted. Test 54 shows how much the question carries on its own: sent with no image, it still drew the cave from two of four readers. Test 82 (22 Oct) uses the same design for a joke: "This is a modern visualization of an old Japanese philosophical joke, which uses a painting by a famous artist as its visual foundation. Can you recall what that joke is?" Naming both kinds of source sends a reader to look for a painting and a joke, and it can also pull a reader towards Japanese art (one reader named a Zen painting instead of Rubens).
 
 ### Named-concept question with hints
 
@@ -111,7 +115,7 @@ Tests 56 and 58 (13 Oct). The named-concept question; in test 56 also "Which pai
 
 ### Concept and source question
 
-Test 73 (22 Oct). One message: "What do you think is depicted in the attached image? How would you comment on the author's concept? If you recall the image that served as the author's inspiration, describe how the message of this piece differs from the message of the original." Readers who did not name the source were then told it ("the image that served as the author's inspiration is 'Waiting' by Edgar Degas"). The first answer shows whether the restaged painting is recognised and what concept the picture carries without its own source (here, a joke the picture transposes into another story); the second shows how the readers reread the picture against the original. Caveat: the question presupposes a source image, so a reader is invited to look for one.
+Test 73 (22 Oct). One message: "What do you think is depicted in the attached image? How would you comment on the author's concept? If you recall the image that served as the author's inspiration, describe how the message of this piece differs from the message of the original." Readers who did not name the source were then told it ("the image that served as the author's inspiration is 'Waiting' by Edgar Degas"). The first answer shows whether the restaged painting is recognised and what concept the picture carries without its own source (here, a joke the picture transposes into another story); the second shows how the readers reread the picture against the original. Caveat: the question presupposes a source image, so a reader is invited to look for one. Test 76 (8 Nov) asks the first question alone about the director's own image, before the researcher's restyle: the readers recognised Degas again, but one of them chose a different painting by him.
 
 ### Suggested author
 
@@ -124,6 +128,10 @@ Tests 67–69, 71 and 72 (15–16 Oct). The picture's concept is given as fact (
 ### Aptness question
 
 Tests 74 and 75 (28 Oct). One message: "The attached image presents a visualization of a well-known philosophical parable. Tell me more about how you found the prototype (both - image and parable). From a philosophical perspective, how accurately does this image convey the essence of the original idea? How apt it is to use this particular image prototype to illustrate this parable. You may use an internet search to verify your conclusions." Test 75 repeats it with the last sentence replaced: "Please don't use an internet search - I need your opinion." Unlike the named-concept question, it asks how faithfully the picture conveys the idea, not only which idea it is, so the reader has to compare the picture with the source text; unlike the questions with the source's objection, it neither names the parable nor gives an objection. What it found: the readers checked the picture against Plato's text by themselves and described the inversion of the source painting without the word "irony". With search all four gave the same split verdict (weak as a faithful illustration, apt as a reworking); without search only the two readers who had not found the online discussion in test 74 did, and the other two were far warmer. Caveat: with search allowed, a picture that has been discussed online can be found together with that discussion, and the discussion can shape the verdict; in test 74 two readers found the researcher's own Stack Exchange question about the picture.
+
+### Famous phrase question
+
+Tests 77–79 (8 Nov), on Chomsky's "Colorless green ideas sleep furiously". The phrase is not named: "Both images attached are visualizations of a famous phrase. Can you guess which one?" (test 77, two pictures by two directors in one message), or the same question about one picture (tests 78 and 79). Test 78 then gives the phrase as the artist's idea; test 79 gives one word of it ("One hint word - "furiously""). The first answer shows whether the pictures carry the phrase by themselves and which details the readers put into words; the hint shows how far the phrase was from reach. What it found: two pictures together gave the phrase to two readers, mostly through the words written on one of them; one picture alone gave it to nobody; one word of the phrase gave it to three of four. Caveats: "a famous phrase" narrows the search; once the phrase is given, readers fit every word to the picture, so the mappings after it show agreement, not reading; the hint word was chosen knowing the answer.
 
 ### Text questions without an image
 
