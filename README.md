@@ -57,12 +57,29 @@ The materials are published here as articles and reports are prepared.
 | Publication | Date | About | Materials |
 |---|---|---|---|
 | **Noir, a Fork, and a Dragon's Tooth** | October 2026 | "psychological" reading tests — images whose meaning rests on an inference from a genre, a custom or a count; hints, false hints as a control, and context | [article](https://vladvolkov.substack.com/p/noir-a-fork-and-a-dragons-tooth) · [detailed report](report/psychological-tests/README.md) · [reader quotes](report/psychological-tests/quotes.md) |
-| **Mysterious picture** | October 2026 | why four AI readers recognised Plato's cave in a restaged Wright of Derby, where the virtual director found the idea, and what four virtual directors proposed for the cave, Hobbes's Leviathan and Laplace's demon | [article](https://vladvolkov.substack.com/p/mysterious-picture) · [detailed report](report/plato-cave/README.md) · [reader quotes](report/plato-cave/quotes.md) · [directors' proposals (translation)](proposals/plato-cave-hobbes-laplace.md) · [source check](report/plato-cave/source-check.md) · [Gemini on where Wright came from and the irony (translation)](report/plato-cave/gemini-review.md) |
+| **Mysterious picture** | October 2026 | why four AI readers recognised Plato's cave in a restaged Wright of Derby, where the virtual director found the idea, and what four virtual directors proposed for the cave, Hobbes's Leviathan and Laplace's demon; from 10 November, three changes made to rescue the picture | [article](https://vladvolkov.substack.com/p/mysterious-picture) · [detailed report](report/plato-cave/README.md) · [reader quotes](report/plato-cave/quotes.md) · [directors' proposals (translation)](proposals/plato-cave-hobbes-laplace.md) · [source check](report/plato-cave/source-check.md) · [Gemini on where Wright came from and the irony (translation)](report/plato-cave/gemini-review.md) |
+| **The liar paradox** | November 2026 | "All Cretans are liars" and the liar paradox from September to November: the default and three *Krokodil*-style cartoons, a Midjourney version, a director's search by relations, three directors on one task; the polygraph and the paradox bell with the AI readers, and their criticism | no article · [detailed report](report/liar-paradox/README.md) |
+
+## Virtual directors
+
+A virtual director is a chat model that turns a source into the idea of a picture and a ready-to-paste prompt for an image generator, offers the human researcher a choice of ideas, and reviews what the generator brings back. The directors worked under several system prompts; each test page says which director made its picture. The prompts without a persona are published in English in [System prompts](method/system-prompts/README.md).
+
+| Director's prompt | When | Directors | Persona | What sets it apart | Tests | Prompt |
+|---|---|---|---|---|---|---|
+| First director prompt | 17 Sep | Claude | none | written by Claude from the researcher's requirements (not slop, substance, a stylistic basis, Menippean satire); the manga with the fork and the noir | 16, 19–20, 38 and their follow-ups | not published, superseded by v7 |
+| v7 | 22–30 Sep | ChatGPT, Claude | none | the long method: the three requirements, a Menippean toolbox, 23 mechanisms of how generators fail, a stop for the researcher's choice of reading, image requirements and a pipeline with blind reading and a control run | 07–08, 11–15, 17, 22 | [published](method/system-prompts/v7/CLAUDE.md) |
+| Personas v8–v17 | late Sep – Oct | mostly Claude | yes | a biography gives the director a voice and a taste: a cat who became a naive village sign painter (v10), an awakened Egyptian scribe (v11), a silent frog from the Chōjū-giga scroll (v13), the connoisseur cat Semantiy Turbulentov who paints "the language of anachronism" (v16, written by the researcher), the same cat with anachronism as an explicit rule (v17, director A of the cave report) | most of 23–82 | not published |
+| v10 without a persona | 4 Oct | Claude; ChatGPT | none | the sign painter's rules without the sign painter, made to separate what the persona gives from what its rules give | 40 | [published](method/system-prompts/v10-without-persona/CLAUDE.md) (translation) |
+| The fork's idea search | Oct | ChatGPT (director D), Gemini (C), Claude (B) | written as an addition to v17; given alone in the saved runs | ChatGPT's rework of v17: readings as relations, two rounds of branching search, paintings chosen only after the search, a journal | 56, 58, 65–66, 73, 76–79, 83–86 | [published](method/system-prompts/v17-fork-idea-search/AGENTS.md) (translation) |
+| v7-ext | 7 Nov | Claude, Gemini, ChatGPT | none (optional) | v7 in one file, with the fork's search as a stage and lessons from the persona runs and the tests | 87–93 | [published](method/system-prompts/v7-ext/CLAUDE.md) |
+
+What differed in practice, as far as single runs show it: the v7 directors developed a recognisable hand — deadpan humour, ink with one or two colours, a document inside the picture. The personas gave the series an author figure and drew the researcher into the game, but their biographies leaked into the pictures; without the persona, in the researcher's words, the pictures read "not as authored, but as randomly generated". The fork's search moved sources into other stories, such as the cat joke into Degas's *Waiting* (test 73). v7-ext has had only its first runs.
 
 ## What is here
 
 - **[Reports](report/)** — one folder per publication: the detailed report, its images and, where there is one, a selection of reader quotes. Each report identifies its author and describes the relevant AI contributions.
-- **[Reading tests](tests/README.md)** — the tests published so far (65), most of them used by the reports and the others on the cat joke or on other sources — Chomsky's sentence "Colorless green ideas sleep furiously" (77–79), a Japanese tale about a shaved escort (80–82) and Žižek's reading of the red ink joke (83–86) — each with its images, questions and saved reader conversations.
+- **[Reading tests](tests/README.md)** — the tests published so far (73), most of them used by the reports and the others on the cat joke or on other sources — Chomsky's sentence "Colorless green ideas sleep furiously" (77–79), a Japanese tale about a shaved escort (80–82), Žižek's reading of the red ink joke (83–86) and a cartoon made from Warhol's and Yakovlev's canned food (87) — each with its images, questions and saved reader conversations.
+- **[System prompts](method/system-prompts/README.md)** — the virtual directors' prompts without a persona, in English: v7 with its image requirements and pipeline, v10 without a persona, the fork's idea search and v7-ext.
 - **[Directors' proposals](proposals/plato-cave-hobbes-laplace.md)** — what four virtual directors (two Claudes, Gemini, ChatGPT) proposed for Plato's cave, Hobbes's Leviathan and Laplace's demon; a plain English translation of conversations held in Russian.
 - **[Protocols](method/protocols.md)** — how the images were prepared, which questions were asked, and what the numbers can and cannot mean.
 - **[Starting conditions](method/conditions.md)** — the rules the experiment started with: what the human was allowed to do and what counted as a successful image.
@@ -86,6 +103,7 @@ images/
 method/
   protocols.md             preparation, question sets, limits
   conditions.md            starting conditions, target criteria
+  system-prompts/          the directors' prompts without a persona
 ```
 
 ## How to read the tests

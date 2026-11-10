@@ -1,0 +1,13 @@
+<!--Mode: Opus 5.5 Extra-->
+
+I like them both, and they work because they do different jobs. The painting shows the *structure* of the paradox. The cartoon shows its *consequence*.
+
+**The painting (left)** makes self-reference literal. The banner reading "All Cretans are liars" loops around and ends in an arrow pointing back at the man who said it. He's also standing on a rock inscribed "I AM CRETAN," so the premise is his foundation, and the crumbling rock looks a little like the island itself. There are nice supporting details: the Aegean backdrop, the column, and the amphora with what looks like a bull, a nod to Minoan Crete. His hand-on-chin pose suggests he has just realized what he said. The weakness is that it's on the nose. The arrow does the explaining for you, so it reads more like a handsome book cover for a logic textbook than a picture that makes you think.
+
+**The cartoon (right)** is the stronger piece to me, because the punchline contains a real logical insight. On the surface, the boss rewards what looks like disarming candor. He's even waving away the references. But look at the logic. If the statement were true, the speaker would be a Cretan liar telling the truth, which is impossible. So the only consistent reading is that the statement is false: he lied, and at least one Cretan somewhere is honest. The boss has concluded "someone I can trust" from the one sentence that proves this candidate just lied to him in the interview. The applicant's sheepish posture, with his hands open and eyes down, sells the fake "confession" perfectly. There's also a cynical reading where the boss wants someone he can trust to lie, which gives the joke a second layer.
+
+That point matters because it's a common misconception the cartoon quietly gets right. "All Cretans are liars" isn't a true paradox the way "This sentence is false" is. It has a consistent resolution; it just forces an odd conclusion, since the sentence logically implies that an honest Cretan exists. The painting treats it as an endless loop. The cartoon treats it as a trap someone falls into, which is closer to how it actually works.
+
+Some historical flavor: the line is traditionally attributed to Epimenides, a Cretan seer. It became famous largely because the New Testament letter to Titus (1:12) quotes it approvingly, apparently without noticing any problem. So the boss in the cartoon is in good company.
+
+If I had to pick one, the cartoon wins for wit and for rewarding a second look. The painting wins for atmosphere, and it would be the better choice for introducing someone to the idea of self-reference for the first time.

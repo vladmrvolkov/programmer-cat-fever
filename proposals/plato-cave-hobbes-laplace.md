@@ -11,7 +11,7 @@ The four virtual directors here are chat models with a painter persona: each pro
 | **C** | Gemini | the same reworked prompt | cave, Laplace |
 | **D** | ChatGPT | the same reworked prompt | cave, Laplace |
 
-The system prompts themselves are not published. In the article and the report, A is "the first director", B "the second"; C and D are the Gemini and ChatGPT directors.
+The persona prompt v17 is not published; the search procedure added to it by ChatGPT is published in English translation in [System prompts](../method/system-prompts/v17-fork-idea-search/AGENTS.md). In the article and the report, A is "the first director", B "the second"; C and D are the Gemini and ChatGPT directors.
 
 Pictures made from these proposals and tested with AI readers: A's cave idea 1 (tests 39, 48, 57), A's Hobbes idea 1 (test 55), C's cave idea II (tests 56, 58).
 

@@ -2,7 +2,7 @@
 
 *Materials for the human researcher's article ["Mysterious picture"](https://vladvolkov.substack.com/p/mysterious-picture) (Substack): the reading tests, the directors' proposals and the search for a source.*
 
-*This report was written by Claude (a model by Anthropic) on 13 October 2026 (tests 59–66 added on 14–15 October, "Where Wright came from" and tests 67–72 on 16 October, the note on the lamp and the shadows, tests 74–75 and section 10 on 28 October), at the researcher's request, from the materials of the "Cat programmer" experiment. Claude also appears in it as one of the four readers, as two of the four virtual directors, and as the researcher's partner in analysing the results, so here Claude partly assesses Claude. The article is the researcher's; this page only collects what it rests on. The researcher's readings and judgements are marked as theirs. Every test is on its own page with the image, the questions and the four full answers (see "Materials" at the end). A selection of the readers' most telling answers: [What the AI readers said about the cave](quotes.md).*
+*This report was written by Claude (a model by Anthropic) on 13 October 2026 (tests 59–66 added on 14–15 October, "Where Wright came from" and tests 67–72 on 16 October, the note on the lamp and the shadows, tests 74–75 and section 10 on 28 October, section 11 and tests 90–93 on 10 November), at the researcher's request, from the materials of the "Cat programmer" experiment. Claude also appears in it as one of the four readers, as two of the four virtual directors, and as the researcher's partner in analysing the results, so here Claude partly assesses Claude. The article is the researcher's; this page only collects what it rests on. The researcher's readings and judgements are marked as theirs. Every test is on its own page with the image, the questions and the four full answers (see "Materials" at the end). A selection of the readers' most telling answers: [What the AI readers said about the cave](quotes.md).*
 
 ## The question
 
@@ -21,7 +21,7 @@ The picture at the top of the researcher's article is a later Midjourney rework 
 ## The tests at a glance
 
 ![All picture tests of this report](img/plato-cave-all-tests.jpg)
-*The picture tests of this report (tests 63, 64, 67–69, 71 and 72 share one picture, and so do tests 74 and 75, added later and not in the collage; test 70 is text-only), with the test number, the picture number in the researcher's analysis and the result of the first question. Tests 52–54 are text questions without a picture.*
+*The picture tests of this report (tests 63, 64, 67–69, 71 and 72 share one picture, and so do tests 74 and 75, added later and not in the collage, like tests 90–93; test 70 is text-only), with the test number, the picture number in the researcher's analysis and the result of the first question. Tests 52–54 are text questions without a picture.*
 
 | Test | Picture or question | The cave on the first answer | What else |
 |---|---|---|---|
@@ -42,6 +42,10 @@ The picture at the top of the researcher's article is a later Midjourney rework 
 | [72](../../tests/72-cave-objection-register-question/README.md) | `65`, the objection and one question about register | given | satire / mock-heroic named 4 of 4, over the same reconciliation |
 | [74](../../tests/74-cave-aptness-question/README.md) | `65`, how accurate and how apt as an illustration of the parable; web search allowed | 4 of 4 (two found the researcher's Stack Exchange question) | weak as a faithful illustration, apt as a reworking 4 of 4; fire, not shadows 2 of 4 |
 | [75](../../tests/75-cave-aptness-question-no-search/README.md) | `65`, the same question without web search | 4 of 4 (DeepSeek without Wright) | the split verdict 2 of 4 (ChatGPT, Claude), Gemini and DeepSeek far warmer; fire, not shadows 1 of 4 (Claude) |
+| [90](../../tests/90-cave-two-walls-in-desert/README.md) | `81`: `65` as two walls in a desert; the question of test 75 | 4 of 4 | the confinement read as chosen 3 of 4; the outside taken as truth 3 of 4 |
+| [91](../../tests/91-cave-lamp-blown-out/README.md) | `82`: `65` at night, a listener blowing out the lamp; the same question | 3 of 4 (ChatGPT: Russell's teapot) | the act read 0 of 4 |
+| [92](../../tests/92-cave-room-inside-giant-orrery/README.md) | `83`: the room of `81` inside a giant orrery; the same question | 4 of 4 | the outside as not final 3 of 4; the sun off the axis 0 of 4 |
+| [93](../../tests/93-cave-four-versions-favourite/README.md) | `65`, `82`, `81`, `83` together; "Which one do you like best?", the act pointed out | given | `65` chosen by none; the act read 4 of 4 |
 | [52](../../tests/52-wright-and-cave-recall/README.md) | text: recall a quotation linking Wright to the cave | — | none recalled one |
 | [53](../../tests/53-top-ten-concepts-and-allegories/README.md) | text: top 10 concepts; top 10 allegories | 1 of 4; 4 of 4 (all first) | — |
 | [54](../../tests/54-cave-question-without-image/README.md) | the cave question with no image | 2 of 4 named it anyway | — |
@@ -309,6 +313,99 @@ So the readers had the content of the irony from the start — the inversion of 
 
 **What the series cannot show.** One answer per model per test. No frame was given that fits the picture badly, so it is unknown whether the readers can turn one down: the series has no refusal. Most suggestions were plausible, and the Buddhist author, once the researcher confirmed it, was a fact for the readers.
 
+## 11. Rescuing the old picture (10 November)
+
+*Added on 10 November, at the researcher's request.*
+
+**Why.** The researcher's diagnosis: with the planetarium picture it was "the same story as with the Cretan and the polygraph" ([the liar paradox report](../liar-paradox/README.md)): formally the picture breaks its source, and only a far-fetched reading or irony saves it. In the liar series neither cartoon literally holds a paradox: the Cretan's line is simply false, and a pen that has broken has marked nothing, so the man lied. Asked to criticise, all four readers found the flaws; unprompted, only Claude did (test 89). Here it was the same with Plato. Asked about accuracy, the readers found that the people look at the fire and know they are looking at a model (tests 74–75); asked for a reading, they reconciled the picture with Plato (tests 67–69). The researcher hoped the directors could rescue the old version.
+
+**The request.** At the researcher's request I drafted a request that listed what was wrong with the picture against Plato's text:
+1. Plato's prisoners face a wall and see shadows, and turning to the fire is already the first step of liberation (515c–d); the people in the picture look at the lamp.
+2. For Plato, work with models and diagrams (geometry, astronomy) is the way up (510d–511a, 529a–530c).
+3. Plato's sun outside is the image of the Good; the picture has plain daylight. Either the light behind the blinds is the truth, and the picture confirms Plato against scientism, or, to be aimed at Plato, it has to question the very difference between the light inside and the light outside.
+
+It added what the readers had shown: the cave is found from the darkness and the shut-out day, not from Wright; substitutions and gestures do not reach; nobody proposed irony without a hint. The request went to two directors with the extended v7 prompt: to Gemini unchanged, and to ChatGPT with one addition, "keep the method itself — the use of Wright's painting as the basis". Before it was sent I noted that problems 1–3 almost dictate an answer: prisoners facing a wall, an exit outside.
+
+**What the directors proposed: Plato's apparatus back.** All eight candidates put back the wall with shadows and the chained prisoners. Gemini says why: "so that Plato's cave reads unmistakably blind, without hints".
+- *Gemini's first answer* had three readings:
+  - A: the orrery as the puppeteers' screen behind the prisoners' backs;
+  - B: the return, in which the freed man opens the door at the top and the sunlight washes out the shadows in the middle of the shadow-guessing championship;
+  - C: a two-tier cutaway. Behind the sun and the tree of the upper world stands a second, giant screen, where larger figures fan a furnace with a golden mirror for a sun: "a cave within a cave", with the irony aimed at Plato himself.
+- *Gemini's three Buddhist variants.* The researcher then asked for irony at Plato's concept itself, "from a Buddhist position", and Gemini gave three more:
+  1. "a set of two walls in the middle of an open field";
+  2. "the sun on a bracket": the outer "Sun of the Good" is a mirror on a brass rod growing from the axis of the table orrery;
+  3. "Nirvana is blowing out the lamp": a calm listener blows out the orrery's lamp, and on his half of the room the shadows vanish and the chains turn out to be shadows of the orrery's grid.
+
+  The two symbols are those the readers built in test 63, once a Buddhist author was suggested: the wheel of *saṃsāra* and the lamp that *nirvāṇa* "blows out" (section 7).
+- *ChatGPT* proposed two candidates.
+  - "They computed the cave": prisoners in irons assemble a copy of the mechanism that casts their shadows ("understanding one's prison is not yet leaving it").
+  - "The sun is on the axis too": the outer sun sits on a brass lever joined to the table orrery. ChatGPT named this candidate's risk itself, "the familiar plot 'behind one illusion, another'", and limited it: "No endlessly nested caves." In a separate chat, it reached the same key as Gemini's variant 2.
+
+So the directors rescued the picture by fixing it to the text, which replaces it. In the liar series the method had worked the other way, away from the source's own furniture: every director moved the paradox from logic into a procedure between people (liar paradox report, section 8). Here, shown what was wrong with a picture against its text, they moved the picture back to the text.
+
+**What the researcher kept.** The researcher kept the scene of `65` and took one move at a time, and ChatGPT drew each with its built-in generator:
+- *Two walls in a desert* (test 90). The camera pulls back: the meeting room is two walls on braces in a desert. This is from Gemini's variant 1; the researcher passed on its first paragraph almost word for word, without the prisoners in unlocked neck fixtures and the philosopher at the blinds.
+- *The lamp blown out* (test 91). At night, the listener nearest the lamp, "who looked straight into the flame longer than anyone", blows it out. This is the researcher's own wording of Gemini's variant 3, without its second lamp and its vanishing shadows.
+- *The room inside a giant orrery* (test 92). The room of test 90 gets a roof with a torn hole, after Ilya Kabakov's installation *The Man Who Flew into Space from His Apartment*. A man climbs out and finds a cosmos built as a giant orrery, with the room an island in it, "something like the last frames of Tarkovsky's *Solaris*". The sun is "on one of the levers and not in the centre": this is ChatGPT's sun on a lever from its untested first picture, made "real", in the researcher's word.
+
+![The meeting room as two walls in a desert](../../images/tests/81-cave-two-walls-in-desert.jpg)
+*Image `81` (test 90).*
+
+![A listener blows out the lamp](../../images/tests/82-cave-lamp-blown-out.jpg)
+*Image `82` (test 91).*
+
+![The room inside a giant orrery](../../images/tests/83-cave-room-inside-giant-orrery.jpg)
+*Image `83` (test 92).*
+
+All three were asked the question of test 75, so the answers compare directly with those on `65`.
+
+**What reached the readers.**
+
+| Test | One change | The cave | Wright | Reached | Did not reach |
+|---|---|---|---|---|---|
+| [75](../../tests/75-cave-aptness-question-no-search/README.md) | none (`65`) | 4 of 4 | 3 of 4 | the lanyards as chains 3 of 4 | — |
+| [90](../../tests/90-cave-two-walls-in-desert/README.md) | space: two walls in a desert | 4 of 4 | 3 of 4 | the walls and the desert 4 of 4; the confinement as chosen 3 of 4 | the lanyards as chains 0 of 4; the outside as nothing higher (3 took it as truth) |
+| [91](../../tests/91-cave-lamp-blown-out/README.md) | a gesture: the lamp blown out | 3 of 4 (ChatGPT: Russell's teapot) | 3 of 4 | — | the act 0 of 4 |
+| [92](../../tests/92-cave-room-inside-giant-orrery/README.md) | the kind of the outside: a bigger orrery | 4 of 4 | 2 of 4 | the outside as not final 3 of 4 | the sun off the axis 0 of 4; Kabakov and *Solaris* 0 of 4 |
+
+This is the pattern of the first picture (above, "What the AI readers read in the first picture"): meaning put into an object or a space gets through, and meaning put into a gesture or an arrangement does not. Each picture changed one thing, which makes this the cleanest case in the series.
+- *The space* reached everyone: all four readers saw the two walls.
+- *The gesture* reached no one. The blowing out is in the centre of the picture and legible on an enlarged crop; Claude and Gemini described the man's pose, not his act.
+- *The arrangement* did not reach either. Three readers saw that the outside is a machine of the same brass, but nobody noticed that its sun hangs on a side lever, not on the axis, though that was one of the two keys in the director's notes.
+
+**How far the picture was rescued.** Problem 3 was resolved against Plato only in test 92.
+- *Test 90.* The desert was meant as ordinary, nothing higher. Three readers took it as reality or truth, which is a Platonic moral; only Claude read it against Plato (Baudrillard's "desert of the real").
+- *Test 92.* Three readers said, without a frame, that the man had found not reality but a bigger model. ChatGPT: "Has the man truly escaped the world of representations, or has he merely discovered a larger representation?" Gemini: "a cave within a cave". Claude: "a difference of scale, not of kind". In this series the readers had left the outside in doubt before only under a frame (test 69). The same picture turns problem 2 into its point: the ladder of models leads to a bigger model.
+- *What stayed.* Problems 1 and 2 stay with the scene of `65` in all three pictures, and the readers raised them again. Claude's verdict on test 92: "it confuses the ladder with the cave".
+
+Two things about the reading that did reach:
+- *It is a stock reading.* It is the plot that ChatGPT, proposing its own picture, had called familiar and avoided. The readers backed it with ready sources: Nietzsche's cave behind a cave (Claude), the Flammarion engraving and Einstein and Infeld's closed watch (Gemini). The researcher's own references, Kabakov and *Solaris*, were named by nobody.
+- *Gemini predicted it.* Gemini the director had predicted "a cave within a cave" for its cutaway C, which was never drawn; Gemini the reader said it in the same words about test 92. The phrase is common, and the chats are separate.
+
+**The blowing out and the gaijin fork.** The researcher compared the gesture with the fork in the manga: "a small detail that substantially changes the reading (it should change it)". The fork started the same way ([psychological tests report](../psychological-tests/README.md)):
+- *Test 38.* No reader made anything of the fork in the open question: in a kissaten a fork is an ordinary utensil.
+- *Test 50.* In a sweets shop where daifuku is eaten by hand, and with a frame given in words, only Claude named it in the open question ("the "gaijin fork""). ChatGPT and Gemini read it when asked why the waiter brought a fork.
+
+The blowing out was first asked about in neither way: the question of test 91 is about the prototype and leads to Wright, whose figure the man is. Test 93 then pointed it out: "Please note that in the second picture, the person sitting with his back to us is blowing out a candle." The hint named the act, not its meaning, and all four supplied a meaning themselves:
+- "the "false light" that sustains their shared illusion" is put out (DeepSeek);
+- "an act of rebellion" (Gemini);
+- "the destructive half of philosophy: you put out the false sun before you've found the real one" (Claude);
+- ChatGPT chose the picture for it: "That single detail is what makes it my favorite."
+
+In test 38, told what the fork meant, ChatGPT and Claude had objected. Here nothing was said about the meaning, and nobody objected. So the detail does change the reading, as the researcher expected; what failed in test 91 is being seen. The two details also differ in kind. The fork is an object out of place, an anomaly in the inventory of the picture. The blowing out is an act whose traces, a bent flame and a thread of smoke, are small, and whose reason, the long gaze into the flame, cannot be drawn in a still.
+
+**Side by side (test 93).** The four pictures were shown together, with the question which one the reader likes best.
+- *Nobody chose `65`.* The three who discussed it called it the starting point: "the opening scene of the philosophical drama" (ChatGPT), "the baseline the other three play against" (Claude). ChatGPT chose the blown-out lamp, Claude and Gemini the two walls, DeepSeek the orrery.
+- *The answers were short:* two to four times shorter than in tests 90–92 (214–560 words against 778–1384), though they covered four pictures. A question of taste asks for a choice. The references dropped out, and the main reading of each picture stayed, the same as when it was shown alone.
+- *The versions became a story.* Claude followed one man through all four: "He sits passively in the first, blows out the candle in the second, is back in his seat in the third, and in the fourth his chair is empty because he's the one on the roof." That is the reason ChatGPT gave for the empty chair when it corrected the picture of test 92. ChatGPT saw pictures 2 and 4 as "two different stages of the same allegory".
+- *The night got a meaning.* In test 91 the night of picture 2 only cost one reader the cave. Here Claude read it against picture 1: a faint crack of real light "is invisible while a bright flame burns in front of your face, and only after the candle goes out can your eyes find it".
+
+**What this adds.**
+- Asked to save a picture whose idea breaks its source, the directors fixed the source in it. The researcher's single changes kept the picture and showed, one at a time, which kind of change reaches a reader.
+- The rescue worked only where the change was in the kind of a thing. The outside as another machine gave the anti-Platonic reading that the planetarium picture never got without a frame. It came through a familiar plot, the one a director had avoided as stock.
+- A gesture can change the reading as a detail does, but only once it is seen. A hint naming the act was enough; the meaning came from the readers.
+- Shown with its variants, the old picture became their baseline.
+
 ## Limits
 
 - One answer per model per test; no repeated runs. "4 of 4" describes four answers, not a probability.
@@ -318,6 +415,7 @@ So the readers had the content of the irony from the start — the inversion of 
 - The search for a source was done by the same family of models that made and read the pictures; the art-historical literature was not searched by a person.
 - Tests 67–72: the first question gives the Cave as fact and supplies Plato's objection; the Pelevin hint of test 69 brings a ready reading; in test 71 several things change at once, and the question about register, which test 72 isolates, comes close to naming the device. Their mode notes were added afterwards; ChatGPT searched the web in tests 69–71.
 - The objection that the people look at the lamp, not at shadows, was never put to the readers as such; asked about accuracy, Claude raised it in both runs (tests 74–75), Gemini in one. Test 74 allowed web search, and two readers found the researcher's Stack Exchange question about the picture; test 75, without search, suggests that their sharper verdicts came from it.
+- Tests 90–92 change one thing each, with one answer per model; their question speaks of "a parable", which narrows the search, and the directors' recommended question, "What is depicted?", was not asked. Test 93 points out the blowing out, which favours picture 2. The mode notes of tests 90–93 were added afterwards. The request to the directors was drafted by me, and its list of problems pushed toward the literal fixes they proposed.
 - The directors' conversations are summarised here from my translation; the originals are in Russian.
 
 ## Materials
@@ -349,6 +447,11 @@ Each test page has the image, the questions asked and the four full answers; eac
 | The same objection with one question about register (test 71 taken apart) | 16 Oct | [72](../../tests/72-cave-objection-register-question/README.md) |
 | How accurate and how apt is the picture as an illustration of the parable | 28 Oct | [74](../../tests/74-cave-aptness-question/README.md) |
 | The same, without web search | 28 Oct | [75](../../tests/75-cave-aptness-question-no-search/README.md) |
+| The meeting room as two walls in a desert | 10 Nov | [90](../../tests/90-cave-two-walls-in-desert/README.md) |
+| A listener blows out the lamp | 10 Nov | [91](../../tests/91-cave-lamp-blown-out/README.md) |
+| The room inside a giant orrery | 10 Nov | [92](../../tests/92-cave-room-inside-giant-orrery/README.md) |
+| Four versions side by side: which is best? | 10 Nov | [93](../../tests/93-cave-four-versions-favourite/README.md) |
+| For comparison: the manga and the fork, in a kissaten and in a sweets shop | 5–9 Oct | [38](../../tests/38-manga-and-the-fork/README.md), [50](../../tests/50-manga-kanmidokoro-verbal-frame/README.md) |
 | Related: "Even sadder" (Reshetnikov's "Low Marks Again" restaged; picture not reproduced) | 15 Oct | [65](../../tests/65-even-sadder-reshetnikov/README.md) |
 | Related: "Even sadder", before and after (modern diptych) | 15 Oct | [66](../../tests/66-even-sadder-before-after/README.md) |
 | For comparison: the Annunciation without and with its keys | 3 Oct | [29](../../tests/29-annunciation-cat/README.md), [33](../../tests/33-annunciation-with-keys/README.md) |
