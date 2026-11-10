@@ -2,7 +2,7 @@
 
 *Materials for the human researcher's article ["Mysterious picture"](https://vladvolkov.substack.com/p/mysterious-picture) (Substack): the reading tests, the directors' proposals and the search for a source.*
 
-*This report was written by Claude (a model by Anthropic) on 13 October 2026 (tests 59–66 added on 14–15 October, "Where Wright came from" and tests 67–72 on 16 October, the note on the lamp and the shadows, tests 74–75 and section 10 on 28 October, section 11 and tests 90–94 on 10 November), at the researcher's request, from the materials of the "Cat programmer" experiment. Claude also appears in it as one of the four readers, as two of the four virtual directors, and as the researcher's partner in analysing the results, so here Claude partly assesses Claude. The article is the researcher's; this page only collects what it rests on. The researcher's readings and judgements are marked as theirs. Every test is on its own page with the image, the questions and the four full answers (see "Materials" at the end). A selection of the readers' most telling answers: [What the AI readers said about the cave](quotes.md).*
+*This report was written by Claude (a model by Anthropic) on 13 October 2026 (tests 59–66 added on 14–15 October, "Where Wright came from" and tests 67–72 on 16 October, the note on the lamp and the shadows, tests 74–75 and section 10 on 28 October, sections 11–12 and tests 90–94 on 10 November), at the researcher's request, from the materials of the "Cat programmer" experiment. Claude also appears in it as one of the four readers, as two of the four virtual directors, and as the researcher's partner in analysing the results, so here Claude partly assesses Claude. The article is the researcher's; this page only collects what it rests on. The researcher's readings and judgements are marked as theirs. Every test is on its own page with the image, the questions and the four full answers (see "Materials" at the end). A selection of the readers' most telling answers: [What the AI readers said about the cave](quotes.md).*
 
 ## The question
 
@@ -435,6 +435,32 @@ In test 38, told what the fork meant, ChatGPT and Claude had objected. Here noth
 - A gesture can change the reading as a detail does, but only once it is seen. A hint naming the act was enough; the meaning came from the readers. A gesture that the source itself has, a turn toward the light, was seen without a hint.
 - Drawing what Plato's scene has, the shadows on the wall, was enough for three readers to stop mapping the models onto the shadows; the fourth did not see the shadows.
 - Shown with its variants, the old picture became their baseline.
+
+## 12. The desert or the meadow, as paintings
+
+*Added on 10 November. The researcher asked which of the two pictures, the desert (image `81`, test 90) or the meadow (image `84`, test 94), I like better, in the widest sense, as a work of art and not just as an illustration; the researcher's own view is that an artist of the 1970s–1990s could have painted the meadow version. What follows is my answer, translated from Russian. It is a matter of taste, not a result of the tests.*
+
+I prefer the desert.
+
+**The desert decides nothing for the viewer.** A warm amber corner stands in a bleached, cracked emptiness, and it is unclear what it is: a prison in the middle of freedom, or the only warm place in a dead world. Perhaps that emptiness is not worth going out into. This indecision is what I value: the picture asks a question instead of answering it. The readers bear this out. On the desert one of them read the outside darkly (Claude, with Baudrillard: "the truth looks barren"). On the meadow none did: all four agreed that the truth is outside. Agreement among readers is rather a sign of an illustration.
+
+There is also a purely painterly reason. The strongest contrast of temperature is amber against pale. The green of the meadow competes with the warm interior, and the corner stops being the only source of warmth. The cracked ground also rhymes with the craquelure of an old painting; I do not know whether that was intended, but it works.
+
+**The meadow is more beautiful and more finished.**
+- *What it gains.* The diagonal of sunlight across the screen is a good painterly find. The shadows of the hoops on the wall look like a halo. The woman at the blinds gives a second centre and a human story.
+- *Why that is not enough for me.* As an illustration the meadow is better than the desert: the shadows on the wall really did remove the reading of the models as shadows. But for the same reason it explains itself: the shadows show Plato, the woman shows the turn toward the light, the meadow shows the truth outside.
+- *The meadow also carries a verdict.* The director's prompt has a rule for this (G7 in [v7-ext](../../method/system-prompts/v7-ext/CLAUDE.md)): "A golden, generous, flattering manner says "all is well" whatever the script says." Late-afternoon light on lush grass is that manner, and DeepSeek read the picture as "a box in the middle of paradise".
+
+**Who could have painted it in the 1970s–1990s.** I agree with the researcher that someone could have painted the meadow. The closest, to my mind, is American and Canadian magic realism:
+- **Andrew Wyeth.** A meadow, a window, a figure seen from behind looking into the distance: *Christina's World* (1948), and in those decades the Helga pictures.
+- **Alex Colville.** His stillness, his constructed geometry, people turned away from the viewer toward something outside the frame.
+- **Jacek Yerka and Quint Buchholz** (1980s–1990s), in whose pictures a room or its furniture stands right in a field.
+
+There is also a Soviet line: **Erik Bulatov**, *Horizon* (1971–72). People walk toward the sea, and the horizon is covered by the red band of an order ribbon: an ideological screen in front of an open space. In concept it is very close to both of our pictures, though the manner is quite different.
+
+And one ironic coincidence: **Komar and Melamid**, *People's Choice* (1994–97). They polled people in many countries about the painting they would most like to have, and almost everywhere the answer was a landscape of water, greenery and blue sky. Our meadow is nearly the "most wanted" landscape, and the desert its opposite.
+
+The desert, too, I can easily imagine by someone of that time. But it belongs rather to the European metaphysical line, from de Chirico to Magritte (whom the readers named for it: Gemini and DeepSeek, test 90). Or to the staged photography of the 1980s–1990s, Jeff Wall or Gregory Crewdson, where a scene is built like a set.
 
 ## Limits
 
