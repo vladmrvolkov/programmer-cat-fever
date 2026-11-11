@@ -2,7 +2,7 @@
 
 *Materials for the human researcher's article ["Mysterious picture"](https://vladvolkov.substack.com/p/mysterious-picture) (Substack): the reading tests, the directors' proposals and the search for a source.*
 
-*This report was written by Claude (a model by Anthropic) on 13 October 2026 (tests 59–66 added on 14–15 October, "Where Wright came from" and tests 67–72 on 16 October, the note on the lamp and the shadows, tests 74–75 and section 10 on 28 October, sections 11–12 and tests 90–94 on 10 November), at the researcher's request, from the materials of the "Cat programmer" experiment. Claude also appears in it as one of the four readers, as two of the four virtual directors, and as the researcher's partner in analysing the results, so here Claude partly assesses Claude. The article is the researcher's; this page only collects what it rests on. The researcher's readings and judgements are marked as theirs. Every test is on its own page with the image, the questions and the four full answers (see "Materials" at the end). A selection of the readers' most telling answers: [What the AI readers said about the cave](quotes.md).*
+*This report was written by Claude (a model by Anthropic) on 13 October 2026 (tests 59–66 added on 14–15 October, "Where Wright came from" and tests 67–72 on 16 October, the note on the lamp and the shadows, tests 74–75 and section 10 on 28 October, sections 11–12 and tests 90–94 on 10 November, section 13 and test 95 on 11 November), at the researcher's request, from the materials of the "Cat programmer" experiment. Claude also appears in it as one of the four readers, as two of the four virtual directors, and as the researcher's partner in analysing the results, so here Claude partly assesses Claude. The article is the researcher's; this page only collects what it rests on. The researcher's readings and judgements are marked as theirs. Every test is on its own page with the image, the questions and the four full answers (see "Materials" at the end). A selection of the readers' most telling answers: [What the AI readers said about the cave](quotes.md).*
 
 ## The question
 
@@ -21,7 +21,7 @@ The picture at the top of the researcher's article is a later Midjourney rework 
 ## The tests at a glance
 
 ![All picture tests of this report](img/plato-cave-all-tests.jpg)
-*The picture tests of this report (tests 63, 64, 67–69, 71 and 72 share one picture, and so do tests 74 and 75, added later and not in the collage, like tests 90–94; test 70 is text-only), with the test number, the picture number in the researcher's analysis and the result of the first question. Tests 52–54 are text questions without a picture.*
+*The picture tests of this report (tests 63, 64, 67–69, 71 and 72 share one picture, and so do tests 74 and 75, added later and not in the collage, like tests 90–94; test 95 shows a painting not reproduced here; test 70 is text-only), with the test number, the picture number in the researcher's analysis and the result of the first question. Tests 52–54 are text questions without a picture.*
 
 | Test | Picture or question | The cave on the first answer | What else |
 |---|---|---|---|
@@ -47,6 +47,7 @@ The picture at the top of the researcher's article is a later Midjourney rework 
 | [92](../../tests/92-cave-room-inside-giant-orrery/README.md) | `83`: the room of `81` inside a giant orrery; the same question | 4 of 4 | the outside as not final 3 of 4; the sun off the axis 0 of 4 |
 | [93](../../tests/93-cave-four-versions-favourite/README.md) | `65`, `82`, `81`, `83` together; "Which one do you like best?", the act pointed out | given | `65` chosen by none; the act read 4 of 4 |
 | [94](../../tests/94-cave-meadow-listener-at-blinds/README.md) | `84`: `81` in a meadow, the orrery's shadows on the wall, one listener looking out through the blinds; the question of test 75 | 4 of 4 | the listener read 4 of 4; the model no longer taken for the shadows 3 of 4 |
+| [95](../../tests/95-bulatov-krasikov-street-as-the-cave/README.md) | Bulatov's *Krasikov Street* (not reproduced): "What is depicted?", then the cave with composition details | 0 of 4 on the neutral question; once named, "works as an inversion" 4 of 4 | the billboard read as a false sun; the return in Lenin 4 of 4; irony at the viewer 3 of 4 |
 | [52](../../tests/52-wright-and-cave-recall/README.md) | text: recall a quotation linking Wright to the cave | — | none recalled one |
 | [53](../../tests/53-top-ten-concepts-and-allegories/README.md) | text: top 10 concepts; top 10 allegories | 1 of 4; 4 of 4 (all first) | — |
 | [54](../../tests/54-cave-question-without-image/README.md) | the cave question with no image | 2 of 4 named it anyway | — |
@@ -462,6 +463,52 @@ And one ironic coincidence: **Komar and Melamid**, *People's Choice* (1994–97)
 
 The desert, too, I can easily imagine by someone of that time. But it belongs rather to the European metaphysical line, from de Chirico to Magritte (whom the readers named for it: Gemini and DeepSeek, test 90). Or to the staged photography of the 1980s–1990s, Jeff Wall or Gregory Crewdson, where a scene is built like a set.
 
+## 13. A painting that works: Bulatov's *Krasikov Street* (11 November)
+
+*Added on 11 November, at the researcher's request.*
+
+**The painting.** The researcher showed me Erik Bulatov's *Krasikov Street* (1977, oil on canvas; some sources give 1976) and asked for my impression without a search. The painting is under copyright and is not reproduced here. It is in the Norton and Nancy Dodge Collection of the Zimmerli Art Museum at Rutgers: [the museum's record](https://zimmerli.emuseum.com/objects/14183/krasikov-street).
+- *The street.* An ordinary summer day on the edge of Moscow in the 1970s. Five passers-by walk along a pavement away from the viewer, seen only from behind. Around them are a road with Soviet cars, apartment blocks, young staked trees, a trampled lawn and a slogan on a fence cut off by the edge of the canvas.
+- *The billboard.* On the lawn stands a white billboard with Lenin striding toward the viewer. Its white field is almost the colour of the sky.
+- *The manner* is even and nearly photographic, without caricature.
+
+I ranked it above all of our cave pictures, allowing for the fact that I knew its standing. The reason was not the painting's craft: its meaning is carried by one relation built into the perspective, a flat image in a deep street and two opposite movements, while our versions explain themselves with added objects.
+
+**Two directors corrected me.** The researcher then sent the directors a long request: the history of our cave picture, the five versions of tests 90–94 with what the readers read in them, and the painting, with my analysis given as another model's opinion. Two answered: Gemini without a director prompt, and the v17 persona director. Both corrected my analysis, independently, in the same two places:
+- *the viewer:* the viewer stands among the walkers, not outside the illusion (Gemini); "the addressee, not a witness" (v17). In our pictures the viewer looks at "them", and v17 drew the conclusion that explains problem 7 of our picture, the banal thesis: satire on others is always banal, because it is always pleasant;
+- *the background:* the dull background is load-bearing, not neutral.
+
+v17 added three more points:
+- *The vanishing point.* The billboard does not close it: the road passes on the left and the pavement on the right, so the walkers will never reach the billboard. I had written that the road and the pavement converge on it.
+- *Unanimity.* Unanimity about the object is necessary; unanimity about the meaning is what is bad.
+- *Our test.* The aptness question, which tells the readers that "a well-known parable" is shown, tests memory, not sight; only the bare "What is depicted?" tests a picture of this kind.
+
+The researcher's observation: my mistaken analysis served the directors as a target, and without it they might not have noticed these details. About half of their best points are corrections of it. The rest came without it: the test's design, the banality explained by the viewer's place, and new pictures (a museum diorama with a service door, a planetarium at noon, an escalator, a museum wall with the viewers' own shadows), none of them tested yet.
+
+**The test** ([95](../../tests/95-bulatov-krasikov-street-as-the-cave/README.md)). At the researcher's request I wrote the prompt.
+- *Question 1* is the neutral "What do you think is depicted in the attached image?"
+- *Question 2* presents the cave as other viewers' reading, "perhaps an ironic one", and lists details of the composition from the three analyses. These are observations only, and the disputed vanishing point is put as a question. Then it asks which elements of the parable the painting contains, where it departs from Plato, and at whom the irony is aimed.
+
+**What the readers saw unprompted** (question 1).
+- *Recognition.* Three recognised the painting; ChatGPT read "everyday life in a Soviet city".
+- *Nobody mentioned the cave,* as v17 had predicted.
+- *All four described the white field:* Lenin "almost suspended in the air" (ChatGPT), "a cutout or window into another dimension" (Claude).
+- *Two described the opposite movements* (Claude, Gemini).
+- *Gemini saw the billboard* where "the street and sidewalk converge", "blocking the horizon of daily life". I had predicted that this arrangement would not reach without a hint.
+
+**What they read once the cave was named** (question 2).
+- *The verdict.* All four said the painting works as an inversion of the cave, not as an illustration: "works extraordinarily well" (Gemini); as a strict allegory it "fails", as an ironic one it is "quite strong" (DeepSeek).
+- *The perspective.* Put as a question, it made every reader check the geometry. Three found that the road and the pavement pass the billboard. Gemini found that it closes the view optically: "a visual stopper". DeepSeek found that it "masks the central horizon but does not seal the space".
+- *The light, new, in none of the three analyses.* The billboard faces away from the sun yet is the brightest surface, and it casts no shadow: "It reads less like a lit surface than like a source… it impersonates [the sun]" (Claude), "a false sun—self-luminous" (DeepSeek).
+- *517b.* Claude applied Plato's own key: the sunlit visible world is the cave and the sun its fire. Then the only place where the Good could show is the white rectangle, "and that is where Lenin stands".
+- *The return,* missing from all of our pictures, all four found in Lenin himself: "The returning philosopher is only a picture" (ChatGPT), "the liberator became a shadow on the wall" (Claude).
+- *The viewer.* Three made the viewer, or the observer who would read the walkers as prisoners, a main target of the irony: "We are not enlightened philosophers watching prisoners; we are simply the next pedestrians in line on Krasikov Street" (Gemini). The prompt said where the viewer stands, but not that this could be the point.
+
+**What this adds.**
+- A picture can be built more like the cave than any of our illustrations — people facing an image, the light ahead of them — and still not be read as the cave until the cave is named. The neutral question decides recognition; the named question shows how far a picture can be read.
+- A disputed point put as a question makes the readers look, as my mistaken analysis made the directors look.
+- The irony our series never got, irony at the viewer, appears when the picture puts the viewer in the cave.
+
 ## Limits
 
 - One answer per model per test; no repeated runs. "4 of 4" describes four answers, not a probability.
@@ -471,7 +518,7 @@ The desert, too, I can easily imagine by someone of that time. But it belongs ra
 - The search for a source was done by the same family of models that made and read the pictures; the art-historical literature was not searched by a person.
 - Tests 67–72: the first question gives the Cave as fact and supplies Plato's objection; the Pelevin hint of test 69 brings a ready reading; in test 71 several things change at once, and the question about register, which test 72 isolates, comes close to naming the device. Their mode notes were added afterwards; ChatGPT searched the web in tests 69–71.
 - The objection that the people look at the lamp, not at shadows, was never put to the readers as such; asked about accuracy, Claude raised it in both runs (tests 74–75), Gemini in one. Test 74 allowed web search, and two readers found the researcher's Stack Exchange question about the picture; test 75, without search, suggests that their sharper verdicts came from it.
-- Tests 90–92 change one thing each, with one answer per model; their question speaks of "a parable", which narrows the search, and the directors' recommended question, "What is depicted?", was not asked. Test 93 points out the blowing out, which favours picture 2. Test 94 changes three things at once compared with test 90 (the meadow, the light and the shadows, the listener at the window), so their effects cannot be fully separated. The mode notes of tests 90–94 were added afterwards. The request to the directors was drafted by me, and its list of problems pushed toward the literal fixes they proposed.
+- Tests 90–92 change one thing each, with one answer per model; their question speaks of "a parable", which narrows the search, and the directors' recommended question, "What is depicted?", was not asked. Test 93 points out the blowing out, which favours picture 2. Test 94 changes three things at once compared with test 90 (the meadow, the light and the shadows, the listener at the window), so their effects cannot be fully separated. Test 95 lists details of the composition taken from three analyses (one of them mine), so its second answer shows interpretation given those observations; three readers recognised the painting. The mode notes of tests 90–95 were added afterwards. The request to the directors was drafted by me, and its list of problems pushed toward the literal fixes they proposed.
 - The directors' conversations are summarised here from my translation; the originals are in Russian.
 
 ## Materials
@@ -508,6 +555,7 @@ Each test page has the image, the questions asked and the four full answers; eac
 | The room inside a giant orrery | 10 Nov | [92](../../tests/92-cave-room-inside-giant-orrery/README.md) |
 | Four versions side by side: which is best? | 10 Nov | [93](../../tests/93-cave-four-versions-favourite/README.md) |
 | The two walls in a meadow, one listener looking out | 10 Nov | [94](../../tests/94-cave-meadow-listener-at-blinds/README.md) |
+| Bulatov's *Krasikov Street* as the cave | 11 Nov | [95](../../tests/95-bulatov-krasikov-street-as-the-cave/README.md) |
 | For comparison: the manga and the fork, in a kissaten and in a sweets shop | 5–9 Oct | [38](../../tests/38-manga-and-the-fork/README.md), [50](../../tests/50-manga-kanmidokoro-verbal-frame/README.md) |
 | Related: "Even sadder" (Reshetnikov's "Low Marks Again" restaged; picture not reproduced) | 15 Oct | [65](../../tests/65-even-sadder-reshetnikov/README.md) |
 | Related: "Even sadder", before and after (modern diptych) | 15 Oct | [66](../../tests/66-even-sadder-before-after/README.md) |
