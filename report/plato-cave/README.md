@@ -2,7 +2,7 @@
 
 *Materials for the human researcher's article ["Mysterious picture"](https://vladvolkov.substack.com/p/mysterious-picture) (Substack): the reading tests, the directors' proposals and the search for a source.*
 
-*This report was written by Claude (a model by Anthropic) on 13 October 2026 (tests 59–66 added on 14–15 October, "Where Wright came from" and tests 67–72 on 16 October, the note on the lamp and the shadows, tests 74–75 and section 10 on 28 October, sections 11–12 and tests 90–94 on 10 November, section 13 and test 95 on 11 November), at the researcher's request, from the materials of the "Cat programmer" experiment. Claude also appears in it as one of the four readers, as two of the four virtual directors, and as the researcher's partner in analysing the results, so here Claude partly assesses Claude. The article is the researcher's; this page only collects what it rests on. The researcher's readings and judgements are marked as theirs. Every test is on its own page with the image, the questions and the four full answers (see "Materials" at the end). A selection of the readers' most telling answers: [What the AI readers said about the cave](quotes.md).*
+*This report was written by Claude (a model by Anthropic) on 13 October 2026 (tests 59–66 added on 14–15 October, "Where Wright came from" and tests 67–72 on 16 October, the note on the lamp and the shadows, tests 74–75 and section 10 on 28 October, sections 11–12 and tests 90–94 on 10 November, sections 13–14 and tests 95–96 on 11 November), at the researcher's request, from the materials of the "Cat programmer" experiment. Claude also appears in it as one of the four readers, as two of the four virtual directors, and as the researcher's partner in analysing the results, so here Claude partly assesses Claude. The article is the researcher's; this page only collects what it rests on. The researcher's readings and judgements are marked as theirs. Every test is on its own page with the image, the questions and the four full answers (see "Materials" at the end). A selection of the readers' most telling answers: [What the AI readers said about the cave](quotes.md).*
 
 ## The question
 
@@ -21,7 +21,7 @@ The picture at the top of the researcher's article is a later Midjourney rework 
 ## The tests at a glance
 
 ![All picture tests of this report](img/plato-cave-all-tests.jpg)
-*The picture tests of this report (tests 63, 64, 67–69, 71 and 72 share one picture, and so do tests 74 and 75, added later and not in the collage, like tests 90–94; test 95 shows a painting not reproduced here; test 70 is text-only), with the test number, the picture number in the researcher's analysis and the result of the first question. Tests 52–54 are text questions without a picture.*
+*The picture tests of this report (tests 63, 64, 67–69, 71 and 72 share one picture, and so do tests 74 and 75, added later and not in the collage, like tests 90–94 and 96; test 95 shows a painting not reproduced here; test 70 is text-only), with the test number, the picture number in the researcher's analysis and the result of the first question. Tests 52–54 are text questions without a picture.*
 
 | Test | Picture or question | The cave on the first answer | What else |
 |---|---|---|---|
@@ -48,6 +48,7 @@ The picture at the top of the researcher's article is a later Midjourney rework 
 | [93](../../tests/93-cave-four-versions-favourite/README.md) | `65`, `82`, `81`, `83` together; "Which one do you like best?", the act pointed out | given | `65` chosen by none; the act read 4 of 4 |
 | [94](../../tests/94-cave-meadow-listener-at-blinds/README.md) | `84`: `81` in a meadow, the orrery's shadows on the wall, one listener looking out through the blinds; the question of test 75 | 4 of 4 | the listener read 4 of 4; the model no longer taken for the shadows 3 of 4 |
 | [95](../../tests/95-bulatov-krasikov-street-as-the-cave/README.md) | Bulatov's *Krasikov Street* (not reproduced): "What is depicted?", then the cave with composition details | 0 of 4 on the neutral question; once named, "works as an inversion" 4 of 4 | the billboard read as a false sun; the return in Lenin 4 of 4; irony at the viewer 3 of 4 |
+| [96](../../tests/96-cave-museum-diorama-series-and-titles/README.md) | `85`–`88`: the museum diorama, four versions of one painting; allegory, series and titles (section 14) | 0 of 4 on the neutral question | once named: version 3 the allegory, version 4 the ironic one, 4 of 4; the series better 4 of 4 |
 | [52](../../tests/52-wright-and-cave-recall/README.md) | text: recall a quotation linking Wright to the cave | — | none recalled one |
 | [53](../../tests/53-top-ten-concepts-and-allegories/README.md) | text: top 10 concepts; top 10 allegories | 1 of 4; 4 of 4 (all first) | — |
 | [54](../../tests/54-cave-question-without-image/README.md) | the cave question with no image | 2 of 4 named it anyway | — |
@@ -509,6 +510,147 @@ The researcher's observation: my mistaken analysis served the directors as a tar
 - A disputed point put as a question makes the readers look, as my mistaken analysis made the directors look.
 - The irony our series never got, irony at the viewer, appears when the picture puts the viewer in the cave.
 
+## 14. The two series and their titles (11 November)
+
+*Added on 11 November, at the researcher's request. The titles are the researcher's choice from proposals by the readers, by Gemini and by me. The list of real series at the end is my answer to the researcher's question, translated from Russian.*
+
+**Why a series.** The researcher's observation: the first picture after Wright, `65`, works poorly on its own, but as part of a series it becomes much more interesting. Test 93 bears this out (section 11). Nobody chose `65` as the best, yet the three readers who discussed it called it the starting point, and all four read the four pictures as one story.
+
+My reason is an old one. Lessing's *Laocoon* (1766, the year of Wright's *Orrery*) says that painting shows a single moment and poetry an action in time, so a painter has to choose the most pregnant moment. Plato's parable is a story in stages:
+- the prisoners are in chains;
+- one is freed and turned to the fire;
+- he is dragged up, his eyes adjust, and he sees the sun;
+- he goes back down.
+
+`65` shows the first stage, where nothing has happened yet: everyone sits, and nobody has turned. Without what follows, that stage looks like any lecture, and the readers saw in it the Enlightenment and a planetarium. In a series the neighbouring picture points at what has changed. For the fork in the manga a hint had to do that work (section 11). On its own the strip of daylight in `65` is just lighting; next to the night version it is a sun that may not be there.
+
+**The order.** In test 93 the order was the researcher's (`65`, night, desert, space), and its effect was not tested. In the order of the parable the five pictures tell almost all of it:
+1. `65`: the prisoners.
+2. The desert: the camera pulls back. The cave is a set, and the chains hold by agreement.
+3. The meadow: one listener has turned (515c), and there are shadows on the wall.
+4. Space: the ascent, and above it a sun on a lever.
+5. The night: another ending, not going out but putting out the fire.
+
+The three pull-backs, `65` → desert → space, work like Duane Michals's photo sequence *Things Are Queer* (1973), where each frame shows that the one before was inside something bigger. Only the return (516e–517a) is missing. The diorama has it: the cleaner.
+
+**The diorama.** It was one of the new pictures that came out of the directors' answers about Bulatov (section 13).
+- *The idea* is Gemini's, working without a director prompt: a door cut into the painted landscape of a museum diorama, opening onto a utility room. Gemini aimed it against Plato himself, since the golden light belongs to the illusion.
+- *The composition* is the researcher's rough mockup.
+- *The finished painting* and three local edits of it were made by ChatGPT in Codex.
+
+All four versions share one scene:
+- *The hall and the panorama.* Seven visitors stand behind a rope barrier in a dim natural-history museum and look into a sunlit painted grassland.
+- *The door.* On the right a service door in the painted hillside stands open. Its outer face carries the same painted grass. Behind it is a concrete room with an electrical cabinet, a fire extinguisher, a small bulb and a mop in a bucket.
+- *Nobody looks at the door.* In the foreground a father holds a boy by the hand.
+
+The versions differ in one detail each:
+- *Version 1:* no gesture.
+- *Version 2:* the boy points up and to the left, at the landscape (a control).
+- *Version 3:* the boy points at the door.
+- *Version 4:* a cleaner stands in the doorway, and nobody notices her.
+
+![The diorama series](img/plato-cave-series-diorama.jpg)
+*The four versions in the order chosen by three readers, with the titles the researcher chose.*
+
+**The diorama test** ([96](../../tests/96-cave-museum-diorama-series-and-titles/README.md), images `85`–`88`). Three questions came in one chat, with the four pictures attached to the first:
+1. What is depicted, and how do the versions differ?
+2. Which version works best as an allegory of the cave, and which as an ironic allegory of it? Do the four perhaps work better together, as a series?
+3. Give a title to the series and to each version, without naming Plato, the cave or the shadows.
+
+The questions are mine, written at the researcher's request; the series option and the titles were the researcher's ideas.
+- *Unprompted,* all four saw a museum diorama with an open service door, and nobody named the cave (0 of 4), as with Bulatov in test 95. Three read the versions as a sequence before the series was mentioned.
+- *Once the cave was named,* the choice was unanimous: version 3 as the allegory and version 4 as the ironic one. All four read the way out as a step down into a darker room, against Plato's ascent. None of the pictures after Wright had managed that.
+- *The series* was better for all four.
+  - Three chose the order 1→2→3→4, Gemini 1→3→2→4.
+  - The series told a story nobody drew. Version 4 is version 1 plus the cleaner, yet all four read the boy as having lowered his arm and given up.
+  - Claude: "only repetition shows them not looking *over time*, which is what chains actually are."
+- *The control did not reach.* The readers' titles for version 2 all express a question or a doubt. On an enlargement the boy's raised arm seems to grow from the same shoulder as the hand that holds his father's. Gemini built its order on that error of the generator.
+
+The readers' titles:
+
+| | ChatGPT | Claude | Gemini | DeepSeek |
+|---|---|---|---|---|
+| The series | *The Way Out Is in the Picture* | *Habitat Group* | *The Permanent Collection* | *The Maintenance of Illusion* |
+| Version 1 | *An Uninterrupted View* | *Open to the Public* | *Field Trip* | *Viewing Hours* |
+| Version 2 | *The First Question* | *Is That Real?* | *Second Opinion* | *Point of Departure* |
+| Version 3 | *Look There* | *Look.* | *A Breach in the Foothills* | *False Horizon* |
+| Version 4 | *Daylight, Maintained* | *Maintenance.* | *Upkeep* | *Housekeeping* |
+
+For version 4 all four named the work of upkeep, and for the series three of the four reached for the language of the museum. No title points at a passage of Plato.
+
+**The researcher's two decisions.**
+- *The series titles name Plato's cave,* so that the viewer knows it is the cave; the titles of the pictures point at details.
+  - The rule in the test, not to name the allegory, was mine.
+  - The data supports the researcher: without the name nobody saw the cave (test 95 and the diorama test, 0 of 4), and once it was named every reader read the picture in detail.
+  - A named cave also lets the viewer decode the titles that point at Plato's text.
+- *Version 2 is* The Veldt.
+  - The pointing boy began with the researcher's question: should the boy point at the door? It reminded them of Ray Bradbury's story "The Veldt" (1950).
+  - The veldt is the grassland the boy points at.
+  - In Bradbury the children kill the parents who want to switch the illusion off. That is 517a, told from the prisoners' side.
+
+**The titles chosen.** Gemini here is Gemini without a director prompt, in the same conversation as its diorama; it proposed its titles in three registers: bureaucratic, an 18th-century pastiche and dry conceptualism.
+
+*The diorama:* Plato's Cave: Permanent Exhibition. This comes from the Gemini reader's *The Permanent Collection*, with the cave named. What is permanent here is the habit of looking.
+
+| | Version | Title | Proposed by | What it points at |
+|---|---|---|---|---|
+| 1 | no gesture | *Fire Exit* | me | the door is the cave's exit, and all the fire there is (514b) is behind it: a bulb and an extinguisher |
+| 2 | the boy points at the landscape | *The Veldt* | the researcher | Bradbury's story (above) |
+| 3 | the boy points at the door | *Don't Let Go of My Hand* | me | the father's hand as the chains: the one thing in the picture that holds anyone |
+| 4 | the cleaner in the doorway | *Daylight, Maintained* | the ChatGPT reader | the daylight of the landscape rests on everyday work; the title "leaves the philosophical question open" (ChatGPT) |
+
+*The series after Wright:* A Philosopher Giving That Lecture on Plato's Cave, in Which a Lamp Is Put in Place of the Sun. This is Wright's own full title, *A Philosopher giving that Lecture on the Orrery, in which a Lamp is put in place of the Sun*, with the orrery replaced by the cave (my proposal).
+
+| | Picture | Title | Proposed by | What it points at |
+|---|---|---|---|---|
+| 1 | `65` (test 63) | *Noon* | Gemini | the lamp is lit at midday, with the sun at its height outside the blinds; a planetarium at noon was one of the directors' new pictures (v17's, section 13) |
+| 2 | `81`, the desert (test 90) | *The Fourth Wall* | me | only two walls stand; convention holds the room together |
+| 3 | `84`, the meadow (test 94) | *Open Space* | me | the open-plan office and the open field: she looks out through the blinds, though the wall ends a metre away |
+| 4 | `83`, space (test 92) | *Heliocentrism* | me | the sun hangs on a lever, not at the centre; no reader saw this (0 of 4) |
+| 5 | `82`, the night (test 91) | *Sunset by Hand* | Gemini | the blowing out, which no reader saw unprompted (0 of 4) |
+
+![The series after Wright](img/plato-cave-series-wright.jpg)
+*The five pictures after Wright in the order of the parable, with the titles the researcher chose.*
+
+In this order the titles run from noon to a sunset made by hand: a day lit by a lamp.
+
+Not taken:
+- *For the diorama:* my *Plato's Cave: Habitat Group* (after the Claude reader's *Habitat Group*) and my *The Hired Hand* for the cleaner. The second refers to 516d, where the freed prisoner would rather be a hired labourer on earth, Homer's line about Achilles.
+- *For the pictures after Wright:* Gemini's *Off-Site Meeting* (the desert) and *Misuse of a Window* (the meadow).
+
+**Real series like ours.** The researcher asked whether real artists had made series like these. This is my answer, from memory, translated from Russian. Two facts I checked with a web search: the cave in Magritte's 1935 version and Wright's companion pieces. Each series repeats only part of what we did.
+
+*One scene, one change, and the meaning only in the series:*
+- **Thomas Cole, *The Course of Empire* (1833–36).**
+  - *What it is:* five paintings of one valley with the same crag and its boulder. What changes is the civilisation around them: the savage state, the pastoral, the consummation of empire, destruction, desolation.
+  - *Why it is close:* one by one the paintings are landscapes; together they are a parable. In structure this is the closest to the diorama: a fixed frame, and a story told by what changes.
+  - *The difference:* in Cole everything around the crag changes, while in the diorama one detail changes in a still crowd.
+- **René Magritte, *The Human Condition* (*La Condition humaine*, 1933–35).**
+  - *What it is:* a painting on an easel covers exactly the view it shows. Magritte painted several compositions under this title. In the 1935 version at Norwich Castle the easel stands in the mouth of a cave ([Art UK](https://artuk.org/discover/stories/rene-magrittes-la-condition-humaine)).
+  - *Why it is close:* this is the most direct case I know: a cave, an image in place of the world, several versions.
+  - *The difference:* there are no viewers in the picture. The prisoner is whoever looks at the canvas.
+
+*Artificial light in place of the sun:*
+- **Magritte, *The Empire of Light* (*L'Empire des lumières*, from the late 1940s, many versions in oil and gouache).** A night street with a lit street lamp under a daylight sky. The lamp and the sun share one picture: the opposition of our series after Wright, without people. The versions differ little, so this is a series of persistence rather than a story.
+- **Wright himself: the Girandola and Vesuvius.** The Girandola was the annual fireworks display over the Castel Sant'Angelo in Rome. Wright noticed its likeness to the eruptions of Vesuvius and painted companion pieces ([Revolutionary Players](https://www.revolutionaryplayers.org.uk/?p=2118)). A natural fire beside a man-made one is, in effect, his own "lamp in place of the sun". This reading is mine; the sources speak only of the pairing.
+- **Hiroshi Sugimoto, *Theaters* (from 1978).** A cinema is photographed with the shutter open for the whole film. The screen comes out as an empty white rectangle, and of the film only the light is left. It is almost literally the cave, though the audience is not visible.
+
+*The museum and its viewers as the subject:*
+- **Sugimoto, *Dioramas* (from 1976, the American Museum of Natural History).** The stuffed animals of museum dioramas are photographed so that they look alive. The titles are dry, like labels (*Polar Bear*, 1976), the strategy of Bulatov's *Krasikov Street*. In Sugimoto the illusion works on the viewer of the photograph; we show visitors who have given in to it.
+- **Thomas Struth, *Museum Photographs* (from 1989).** Crowds stand in front of paintings in great museums, often with their backs to us. The subject is the people who look, like our seven visitors before the diorama.
+- **Hubert Robert, a pair of 1796:** *Project for the Arrangement of the Grande Galerie of the Louvre* and *Imaginary View of the Grande Galerie of the Louvre in Ruins*. The same museum hall is shown now and after the end. This is irony at a permanent exhibition more than two centuries before our title.
+
+*Titles that carry what cannot be seen:*
+- **William Hogarth, *A Harlot's Progress* (1732), *A Rake's Progress* (1735), *Marriage A-la-Mode* (1743–45).** The series are read in order, the moral is hidden in the details of the background (the pictures on the walls, the objects), and the titles are ironic. Above all, the story is made *between* the plates. In the same way our readers read that the boy gave up, though nobody drew it.
+- **Magritte and the Brussels surrealists.** Many of his titles were found not by Magritte but by his friends, Louis Scutenaire above all, after the painting was done. This is the closest to the third question of the diorama test, where the readers give the titles.
+- **Vasily Vereshchagin, *The Apotheosis of War* (1871).** The picture is a pyramid of skulls, and the irony is entirely in the dedication: "to all great conquerors, past, present and future". The words change the meaning of the picture.
+
+*Already in this report* (section 12):
+- Erik Bulatov's *Horizon* (1971–72), where the horizon is blocked by an order ribbon;
+- Komar and Melamid's *People's Choice* (1994–97), whose "most wanted" landscape is nearly our meadow.
+
+I know of no series that does all of it at once: names Plato's cave in its title and hides the inversion of the parable in a detail seen only at a second look. The closest are Magritte's cave version (the cave, but hardly a series) and Cole (a series, but no cave).
+
 ## Limits
 
 - One answer per model per test; no repeated runs. "4 of 4" describes four answers, not a probability.
@@ -519,6 +661,7 @@ The researcher's observation: my mistaken analysis served the directors as a tar
 - Tests 67–72: the first question gives the Cave as fact and supplies Plato's objection; the Pelevin hint of test 69 brings a ready reading; in test 71 several things change at once, and the question about register, which test 72 isolates, comes close to naming the device. Their mode notes were added afterwards; ChatGPT searched the web in tests 69–71.
 - The objection that the people look at the lamp, not at shadows, was never put to the readers as such; asked about accuracy, Claude raised it in both runs (tests 74–75), Gemini in one. Test 74 allowed web search, and two readers found the researcher's Stack Exchange question about the picture; test 75, without search, suggests that their sharper verdicts came from it.
 - Tests 90–92 change one thing each, with one answer per model; their question speaks of "a parable", which narrows the search, and the directors' recommended question, "What is depicted?", was not asked. Test 93 points out the blowing out, which favours picture 2. Test 94 changes three things at once compared with test 90 (the meadow, the light and the shadows, the listener at the window), so their effects cannot be fully separated. Test 95 lists details of the composition taken from three analyses (one of them mine), so its second answer shows interpretation given those observations; three readers recognised the painting. The mode notes of tests 90–95 were added afterwards. The request to the directors was drafted by me, and its list of problems pushed toward the literal fixes they proposed.
+- Section 14 and test 96: the second question names the cave and offers the series, so only the sequences of question 1 are unprompted; the titles come after two rounds of analysis; the order of the four versions was not varied; the Claude reader is the same model as the author of my titles. The chosen titles are a choice, not a test result: none of them has been shown to a reader, and the order of the series after Wright is my proposal and was not tested. The list of real series is from memory, with two facts checked.
 - The directors' conversations are summarised here from my translation; the originals are in Russian.
 
 ## Materials
@@ -556,6 +699,7 @@ Each test page has the image, the questions asked and the four full answers; eac
 | Four versions side by side: which is best? | 10 Nov | [93](../../tests/93-cave-four-versions-favourite/README.md) |
 | The two walls in a meadow, one listener looking out | 10 Nov | [94](../../tests/94-cave-meadow-listener-at-blinds/README.md) |
 | Bulatov's *Krasikov Street* as the cave | 11 Nov | [95](../../tests/95-bulatov-krasikov-street-as-the-cave/README.md) |
+| The museum diorama: four versions, a series, titles | 11 Nov | [96](../../tests/96-cave-museum-diorama-series-and-titles/README.md) |
 | For comparison: the manga and the fork, in a kissaten and in a sweets shop | 5–9 Oct | [38](../../tests/38-manga-and-the-fork/README.md), [50](../../tests/50-manga-kanmidokoro-verbal-frame/README.md) |
 | Related: "Even sadder" (Reshetnikov's "Low Marks Again" restaged; picture not reproduced) | 15 Oct | [65](../../tests/65-even-sadder-reshetnikov/README.md) |
 | Related: "Even sadder", before and after (modern diptych) | 15 Oct | [66](../../tests/66-even-sadder-before-after/README.md) |
