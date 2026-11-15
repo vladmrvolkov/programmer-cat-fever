@@ -204,7 +204,7 @@ Two pictures by the Gemini director, generated with Midjourney: a man coming dow
 
 ## Plato's own objection
 
-In tests 67–72 the readers were told that the picture is certainly the cave, and given the objection from Plato's own text: the people know they are looking at a model, and Plato treats work with models as a way up.
+In tests 67–72 the readers were told that the picture is certainly the cave, and given the objection from Plato's own text: the people know they are looking at a model, while in Plato visible diagrams assist reasoning and astronomy should lead beyond the visible heavens. (The report, section 11, "Two corrections", says how exactly this bears on an orrery.)
 
 > The captivity is one of sufficiency, not error, and that is what lets the image use the allegory without misreading Plato's endorsement of diagrams and astronomy.
 
@@ -368,7 +368,7 @@ On 10 November the old picture was changed to rescue it rather than replace it: 
 
 > Plato's prisoners resist the truth because it hurts. These people may stay because the truth looks barren. That's a different claim, and arguably a darker one.
 
-— **Claude**, 10 Nov, [test 90](../../tests/90-cave-two-walls-in-desert/README.md), the only reader to read the desert against Plato, after Baudrillard's "desert of the real".
+— **Claude**, 10 Nov, [test 90](../../tests/90-cave-two-walls-in-desert/README.md), the only reader to read the desert darkly, after Baudrillard's "desert of the real"; the other three took it as the truth, an empiricist moral rather than Plato's.
 
 > Plato would say that this flattering sense of standing outside the cave is exactly what every prisoner feels.
 
@@ -384,7 +384,7 @@ On 10 November the old picture was changed to rescue it rather than replace it: 
 
 > The outside is rendered in the same brass as the inside, which suggests a difference of scale, not of kind. For Plato, inside and outside differ in their degree of reality, not in size.
 
-— **Claude**, 10 Nov, [test 92](../../tests/92-cave-room-inside-giant-orrery/README.md), the anti-Platonic reading, which Claude preferred to the Platonic one.
+— **Claude**, 10 Nov, [test 92](../../tests/92-cave-room-inside-giant-orrery/README.md), the reading against Plato, which Claude preferred to the Platonic one: a bigger model with nothing of another kind beyond it. By 517b a bigger model outside is by itself Plato's own point (the report, section 11, "Two corrections").
 
 > That is the Romantic genius making a breakthrough, not Platonic education. … Its weakest point is philosophical rather than visual: it confuses the ladder with the cave.
 
