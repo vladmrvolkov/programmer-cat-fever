@@ -62,7 +62,7 @@ The materials are published here as articles and reports are prepared.
 | **Mysterious picture** | October 2026 | why four AI readers recognised Plato's cave in a restaged Wright of Derby, where the virtual director found the idea, and what four virtual directors proposed for the cave, Hobbes's Leviathan and Laplace's demon; from 10 November, three changes made to rescue the picture; on 11 November, Bulatov's *Krasikov Street*, a museum diorama in four versions, and titles for two series of cave pictures | [article](https://vladvolkov.substack.com/p/mysterious-picture) · [detailed report](report/plato-cave/README.md) · [reader quotes](report/plato-cave/quotes.md) · [directors' proposals (translation)](proposals/plato-cave-hobbes-laplace.md) · [source check](report/plato-cave/source-check.md) · [Gemini on where Wright came from and the irony (translation)](report/plato-cave/gemini-review.md) · [directors on rescuing the picture and on Bulatov (translation)](proposals/plato-cave-rescue-and-bulatov.md) · [a director on "Even sadder" (translation)](proposals/even-sadder.md) |
 | **The liar paradox** | November 2026 | "All Cretans are liars" and the liar paradox from September to November: the default and three *Krokodil*-style cartoons, a Midjourney version, a director's search by relations, three directors on one task; the polygraph and the paradox bell with the AI readers, and their criticism | no article · [detailed report](report/liar-paradox/README.md) · [directors' proposals (translation)](proposals/liar-paradox.md) |
 | **Message geometry** | November 2026 | letters, cue cards, screens and a prompter's box that the image generator turns to the viewer instead of the character they are meant for: ten cases checked against their prompts, six kinds of case, the viewer placed in the auditorium, names from theatre, art history and machine learning, Van Eyck as a counterexample, and what a prompt can do | no article · [detailed report](report/message-geometry/README.md) |
-| **Bifurcation of options** | November 2026 | the researcher's list of readings and details for the cat joke, with their sources (translation), and tests on whether a model can draw up such a list itself: exhaustive lists with and without a style list and axes, axes built by the models, the screenwriter's and the director-artist's axes, and three concepts per run from a map of axes | no article · [detailed report](report/bifurcation-options/README.md) |
+| **Bifurcation of options** | November 2026 | the researcher's list of readings and details for the cat joke, with their sources (translation), and tests on whether a model can draw up such a list itself: exhaustive lists with and without a style list and axes, axes built by the models, the screenwriter's and the director-artist's axes, and three concepts per run from a map of axes | no article · [detailed report](report/bifurcation-options/README.md) · [the tests' prompts and answers (translation)](bifurcation-options/programmer-cat/README.md) |
 
 ## Virtual directors
 
@@ -85,6 +85,7 @@ What differed in practice, as far as single runs show it: the v7 directors devel
 - **[Reading tests](tests/README.md)** — the tests published so far (76), most of them used by the reports and the others on the cat joke or on other sources — Chomsky's sentence "Colorless green ideas sleep furiously" (77–79), a Japanese tale about a shaved escort (80–82), Žižek's reading of the red ink joke (83–86) and a cartoon made from Warhol's and Yakovlev's canned food (87) — each with its images, questions and saved reader conversations.
 - **[System prompts](method/system-prompts/README.md)** — the virtual directors' prompts without a persona, in English: v7 with its image requirements and pipeline, v10 without a persona, the fork's idea search and v7-ext.
 - **[Directors' proposals](proposals/README.md)** — what the virtual directors proposed for the pictures published here, one file per subject: the cat joke, noir, the dragon's tooth, the liar paradox, Plato's cave (with Hobbes and Laplace's demon, the rescue of the picture and Bulatov), "Even sadder", the shaved escort, red ink, Chomsky's sentence, manna; a plain English translation of conversations held in Russian.
+- **[List tests](bifurcation-options/programmer-cat/README.md)** — the prompts and the models' answers behind *Bifurcation of options* (arms A–E and the second step of arm E), translated from Russian. These are not reading tests: the models were asked to list visualisations and axes, not to read a picture.
 - **[Protocols](method/protocols.md)** — how the images were prepared, which questions were asked, and what the numbers can and cannot mean.
 - **[Starting conditions](method/conditions.md)** — the rules the experiment started with: what the human was allowed to do and what counted as a successful image.
 
@@ -102,6 +103,8 @@ tests/
     README.md              image, questions, summary
     chatgpt.md  claude.md  gemini.md  deepseek.md
 proposals/                 directors' proposals, translated from Russian
+bifurcation-options/
+  programmer-cat/          the list tests: prompts and answers, translated
 images/
   tests/                   every test image, stored once
 method/
@@ -130,6 +133,8 @@ Every answer file starts with an HTML comment naming the mode, e.g. `<!--Mode: S
 | Claude | Opus 5.5 Extra | early September: Opus 5 Extra, Sonnet 5 Extra (as labelled) |
 | Gemini | Flash 3.8 Extended; Argon 4 High from test 59 | early September: Flash 3.7 Extended (as labelled) |
 | DeepSeek | web, DeepThink on | exact model version not independently verified |
+
+GPT-6 in the labels, on the test pages and in the reports is the web model GPT-6 Sol. The labels are kept as they were.
 
 ## About the images
 
