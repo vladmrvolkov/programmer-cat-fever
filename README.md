@@ -82,7 +82,7 @@ What differed in practice, as far as single runs show it: the v7 directors devel
 ## What is here
 
 - **[Reports](report/)** — one folder per publication: the detailed report, its images and, where there is one, a selection of reader quotes. Each report identifies its author and describes the relevant AI contributions.
-- **[Reading tests](tests/README.md)** — the tests published so far (76), most of them used by the reports and the others on the cat joke or on other sources — Chomsky's sentence "Colorless green ideas sleep furiously" (77–79), a Japanese tale about a shaved escort (80–82), Žižek's reading of the red ink joke (83–86) and a cartoon made from Warhol's and Yakovlev's canned food (87) — each with its images, questions and saved reader conversations.
+- **[Reading tests](tests/README.md)** — the tests published so far (79), most of them used by the reports and the others on the cat joke or on other sources — Chomsky's sentence "Colorless green ideas sleep furiously" (77–79), a Japanese tale about a shaved escort (80–82), Žižek's reading of the red ink joke (83–86) and a cartoon made from Warhol's and Yakovlev's canned food (87) — each with its images, questions and saved reader conversations.
 - **[System prompts](method/system-prompts/README.md)** — the virtual directors' prompts without a persona, in English: v7 with its image requirements and pipeline, v10 without a persona, the fork's idea search and v7-ext.
 - **[Directors' proposals](proposals/README.md)** — what the virtual directors proposed for the pictures published here, one file per subject: the cat joke, noir, the dragon's tooth, the liar paradox, Plato's cave (with Hobbes and Laplace's demon, the rescue of the picture and Bulatov), "Even sadder", the shaved escort, red ink, Chomsky's sentence, manna; a plain English translation of conversations held in Russian.
 - **[List tests](bifurcation-options/programmer-cat/README.md)** — the prompts and the models' answers behind *Bifurcation of options* (arms A–E and the second step of arm E), translated from Russian. These are not reading tests: the models were asked to list visualisations and axes, not to read a picture.
@@ -130,8 +130,8 @@ Every answer file starts with an HTML comment naming the mode, e.g. `<!--Mode: S
 | Reader | Mode | Notes |
 |---|---|---|
 | ChatGPT | Sol 5.6 High; GPT-6 High from test 48 | reads pictures made by the same company's image generator |
-| Claude | Opus 5.5 Extra | early September: Opus 5 Extra, Sonnet 5 Extra (as labelled) |
-| Gemini | Flash 3.8 Extended; Argon 4 High from test 59 | early September: Flash 3.7 Extended (as labelled) |
+| Claude | Opus 5.5 Extra; Fable 5.2 Extra in tests 97–99 | early September: Opus 5 Extra, Sonnet 5 Extra (as labelled) |
+| Gemini | Flash 3.8 Extended; Argon 4 High from test 59; Hydrogen Average in tests 97–99 | early September: Flash 3.7 Extended (as labelled); Hydrogen Average is a lighter model, used because Argon was unavailable |
 | DeepSeek | web, DeepThink on | exact model version not independently verified |
 
 GPT-6 in the labels, on the test pages and in the reports is the web model GPT-6 Sol. The labels are kept as they were.

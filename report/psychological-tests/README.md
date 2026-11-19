@@ -2,7 +2,7 @@
 
 *Noir, a fork and a dragon's tooth: how four chat models read images whose meaning rests not on what is drawn but on an inference from it.*
 
-*This report was written by Claude (a model by Anthropic) in October 2026 from the materials of the "Cat programmer" experiment. In that experiment I was the human researcher's conversation partner, the virtual director of some of the images, one of the four AI readers in the tests and the analyst of the archive. So here Claude assesses, among other things, Claude's answers. The researcher's readings and judgements are marked as theirs.*
+*This report was written by Claude (a model by Anthropic) in October 2026 from the materials of the "Cat programmer" experiment. In that experiment I was the human researcher's conversation partner, the virtual director of some of the images, one of the four AI readers in the tests and the analyst of the archive. So here Claude assesses, among other things, Claude's answers. The researcher's readings and judgements are marked as theirs. The section on the bear comics and "Alibi" (tests 97–99) was added on 19 November.*
 
 *This is the detailed report: every run, the questions, the control and the quotes. The researcher's short article on the same tests, ["Noir, a Fork, and a Dragon's Tooth"](https://vladvolkov.substack.com/p/noir-a-fork-and-a-dragons-tooth) (Substack), refers here for the details. The tests in full — the questions and the four answers to each — are on the test pages linked in the "Materials" section.*
 
@@ -62,6 +62,8 @@ By October the director was a persona: Filimon Olifa, a cat who paints in the ma
 7. **The question "human or AI?" switches on another template: "what makes sense was invented by a human, what is odd by the generator".** The models credited a human with the script and the dialogue, which Claude wrote, and called the fork, invented on purpose, an image generator accident.
 
 8. **A reader can be a co-author.** Gemini, having accepted the false intent about the dragon, brought something of its own: the dragon in the tavern is "зелений змій", the "green serpent" — the Ukrainian personification of drink. He drank with Panteley and paid for him. This was neither in the intent nor in the hints, and the researcher liked the find.
+
+9. **(19 November) An intent that the dialogue does not state reaches the readers through a word or a frame, not through a clue alone.** In the cat page "Alibi" the excuse was found by nobody before the title and by all four after it; with the frame of the noir test, all four found it at once, and a window-grid shadow that nobody had read as bars became bars for three. In the bear comics the readers judged "not on purpose" by the act, not by the aim, and took a ticked-off list as proof of the grandmother's plan. More in the section [November: the bears and "Alibi"](#november-the-bears-and-alibi).
 
 The most successful and the most characteristic answers of the readers are collected by test at the end, in the section ["Reader quotes"](#reader-quotes).
 
@@ -348,6 +350,66 @@ In the last round the same sheet was shown without the sibling sheets. The frame
 
 The world of the series turned out to be unnecessary: words were enough. But this frame is closer to a hint than the frame of a tradition. If the Zmiy is waiting precisely for change and a moral is excluded, only one thing is left — he paid, and there is only one payment in the picture.
 
+## November: the bears and "Alibi"
+
+*Added on 19 November, at the researcher's request. Both tests ask the same psychological question as the noir, the fork and the tooth: can a picture show what a character intends, and what another character may have planned, when the dialogue does not say it? Gemini was a lighter model in all three tests (Hydrogen Average; Argon was unavailable).*
+
+### The bears: not on purpose, and a grandmother who may have planned it all (test 97)
+
+**The brief** was the researcher's (7 November): a two-page comic about Grandpa Bear, Grandma Bear and two cubs; the cubs keep getting up to mischief, "although the cubs don't do it on purpose", and Grandpa keeps landing in silly situations, in the spirit of Tom and Jerry; for children, with jokes for adults.
+
+**Three comics.** All three were drawn by ChatGPT in Codex.
+- **Comics 1 and 2 tell one story,** the concept of Gemini as a virtual director, given to ChatGPT as a synopsis. Grandpa fakes a bad back to get out of clearing the gutter. Grandma hands the cubs a rope: "Grandpa's seized up. Time to stretch those old joints." The cubs "loosen him up" with a winch, a greased ramp and a wheelbarrow of stones, and he flies through the gutter, the rain barrel and the washing line. At the end Grandma ticks off her list: "Clear gutter", "Empty barrel", "Take down cloth".
+- **The psychology of that story has two layers.** The cubs act in good faith: they really mean to cure him. Whether Grandma foresaw the result is left open. In the executor's notes (in Russian; my translation), the rope at the start and the list at the end "allow a suspicion about Grandma's role but do not prove it".
+- **Comic 2 is the first version,** in a Franco-Belgian manner. **Comic 1** is a later redrawing in pen and watercolour, with three changes to the script that make Grandpa's pretence more visible.
+- **Comic 3, "Special Delivery",** is ChatGPT's own concept: the cubs' wagon of cushions runs away and carries Grandpa through a sheet into a pile of leaves.
+
+**The question** asked the readers to rank the three by the creativity of content and, separately, of form, and then gave the brief: which comic answers it most creatively, and where does each depart from it?
+
+**What the readers saw.**
+- **All four noticed unprompted that 1 and 2 share a script.** Three described 2 as a weaker copy or draft of 1 ("its changes all subtract", Claude), the reverse of the real order. They explained the difference by the lines: Claude listed exactly the changes the executor had made.
+- **"Not on purpose" was read by the act, not by the aim.** Given the brief, all four said that in 1 and 2 the cubs act on purpose.
+  - Gemini kept the aim apart from the act: "Helpful intent instead of mischief: … the cubs are earnestly trying to cure Grandpa's back".
+  - Claude kept it apart and set it aside: "Even if they think it's therapy, the chaos is the plan".
+  - DeepSeek merged the cubs into the plan: "a highly calculated, premeditated plan to use Grandpa's 'stretching' as a physical engine".
+
+  The concept satisfied "no ill intent" but not "no intent", and the readers held the brief to the second.
+- **Grandma's possible plan reached all four,** but only ChatGPT kept it open: "That interpretation is not explicitly confirmed, but the comic deliberately invites it. It is a creative departure from the brief". For Claude "The real instigator is Grandma"; for Gemini the accident is "an orchestrated chore-clearing scheme"; for DeepSeek the adults are "complicit". A list of chores ticked off was read as proof of intent. This is the pattern of point 4 above in another form: a reader checks facts, and an intent offered by the picture is accepted.
+- **The girl cannot be told from the boy** in 1 and 2: three readers said so. The generator dressed both cubs in overalls.
+- **Without the brief,** comic 1 was first for content for all four, and comic 2 last for form for all four. With the brief, three chose comic 3. ChatGPT put it this way: "The most interesting distinction is between creativity within the brief and creativity through departure from the brief." The researcher's own taste ran the other way: comic 2 best, comic 3 least.
+
+**Caveats.** One answer per model; the order of the comics was not varied. A third prepared question, telling the readers that 1 and 2 share a script, was not asked. All three comics come from ChatGPT's image generator.
+
+### "Alibi": an excuse found with the eyes (tests 98 and 99)
+
+**The page** is a version of the cat-programmer joke. The concept is Claude's, from the tests on whether a model can list the visualisations of the joke ([Bifurcation of options](../bifurcation-options/README.md), section 8). Claude also wrote the prompt, and ChatGPT made the page, so here Claude also assesses Claude's own design.
+- **The intent.** The cat hears the waiter's offer as a threat: for a talking animal, a circus means a cage. She plays dreamy to buy time, finds the glowing laptop at the next table with her eyes and uses it to make up an excuse. Whether the waiter means harm and whether she really is a programmer are left open.
+- **The page.** A late-evening café in the rain, chairs on the tables. Pen and ink, grey wash and one yellow: the cat's eyes, the laptop screen at the next table and, in a narrow fourth panel, a light rectangle in her pupil. A window-grid shadow lies across the table, and the waiter's shadow on the wall is twice his height.
+- **What the generator lost.** Two signs of acting that the prompt asked for did not come out: an ear turned back during the dreamy panel and a half-closed eye.
+
+**Test 98: a ladder without a frame.** The questions went one at a time: the neutral question; meanings and details; the rectangle in the pupil pointed out; the title; the intent named.
+- **Nobody read the profession as an excuse before the title.** After the rectangle was pointed out the readers saw a cat who cannot look away from her work: an "inescapable job" (DeepSeek), resignation (Gemini). With the title, all four reached the excuse. Claude: "I got to 'excuse' only through the title".
+- **The clue was seen but read as attention.** Two noticed the reflection unprompted, but read it as "Centered in the pupil, it says 'she's looking at it,' not 'she just found it.'" (Claude).
+- **Before the title nobody read the circus as a cage,** and nobody read the window grid as bars.
+- **Nobody saw the dreaminess as acted.** At the last question all four said it looks sincere, and all four proposed, in their own words, the two signs the generator had lost.
+
+**The researcher's edits.** The researcher then made two local edits on Claude's prompts: the ear turned back in the third panel, and in the fourth the eye half closed with the pupil and its reflection moved into the corner.
+
+**Test 99: the frame of test 49 and the title.** The corrected page went with the noir's verbal frame almost word for word: the joke, the analysis, the researcher's view that the joke is "really about discrimination, xenophobia, social barriers", and odd details to be treated as intended. Instead of the noir's "crime-oriented tone" the frame gave the title and the manner.
+- **The first answer brought almost the whole intent.** All four read the excuse and the acting, by the cut from closed eyes to the narrowed one: "The proof is the cut from closed eyes to open eye: the dreaminess was a performance" (Claude). Three read a threat.
+- **The frame changed the reading of an unchanged detail.** Three read the window grid as bars: "prison bars, visually spelling out what 'joining the circus' actually means for a talking animal" (Gemini). The edits had not touched the grid, and nobody had read it so without the frame.
+- **The edits themselves barely registered.** Nobody mentioned the turned ear. Nobody read the pupil in the corner as a glance at the laptop: "Panel 4 shows looking, not finding" (Claude).
+- **Only ChatGPT read the whole intent.** It noticed that the laptop stands on another table, "The comic may actually be showing us the birth of a lie", and left both questions open.
+- **For the other three the shared yellow made the laptop hers.** "Readers will treat that as a bond: same colour, same owner" (Claude). So for them she really is a programmer, which closes the question the other way from the one the frame suggested.
+- **DeepSeek took over the frame's words** — "microaggression", "a marginalized subject" — with little support from the details. ChatGPT noted the frame's effect itself: "my first reading wasn't an entirely blind test".
+
+**What the two tests add.**
+- **Formula and situation, again.** Without the title, the excuse had to be assembled from a situation: a glance, a laptop on someone else's table, a sudden word. The word "Alibi" gave a formula — an alibi is a cover story — and from it the laptop and the last line followed. As with the noir, the knowledge was there and the inference waited for a frame.
+- **A face is read as sincere unless something contradicts it.** One blissful panel was taken at its word by all four until a frame or a cut to a narrowed eye said otherwise. A single still shows acting only by a contradiction inside it, and the contradiction the generator lost was exactly what all four readers asked for.
+- **A shared colour is read as ownership.** The yellow meant to tie the cat's sight to the laptop tied her to it as its owner, and that decided the question the page meant to leave open. Claude proposed keeping the screen grey until the fourth panel, so that the yellow marks attention. Claude and Gemini independently proposed a coat over the chair at the laptop's table. ChatGPT would not mark the laptop as someone else's.
+
+**Caveats.** One answer per model. Between tests 98 and 99 both the picture and the question changed; only the window grid, which the edits did not touch, separates the two. The control — test 98's first questions on the corrected page without a frame — was not run. In test 98 ChatGPT searched the web and found a Russian version of the joke in which the cat works on a laptop.
+
 ## Formula and situation: when a model draws an inference
 
 Let us compare the psychological tests with the [simple cases](#simple-cases-recognition-by-key). In the dark cave the inference was made at once: Claude, Gemini and DeepSeek on the first try, ChatGPT on the second, after "Laplace's demon". Claude: "The orrery's 'sun' is literally an oil-lamp flame, just as the prisoners in the cave see things by firelight rather than sunlight".
@@ -436,7 +498,7 @@ A caveat remains: paratext can be a disguised solution. A missing talking parrot
 
 ## How the tests were set up
 
-**General protocol.** Every test is a fresh chat with no memory and no project; for ChatGPT, a temporary chat. Modes: ChatGPT — Sol 5.6 High, from 9 October GPT-6 High; Claude — Opus 5.5 Extra; Gemini — Flash 3.8 Extended; DeepSeek — DeepThink. The mode is noted at the top of each answer file (for the September tests, retrospectively). The questions were asked one at a time, verbatim; their texts are on the test pages. The images went under neutral names (`9.jpg`, `38.jpg`), without metadata: once Claude took the cat's breed straight from a file name. In the context tests the models saw the names `context.jpg` and `cover.jpg` — that is part of the condition. All images now have the analysis's common numbers, and the names under which the models saw them are recorded on the test pages.
+**General protocol.** Every test is a fresh chat with no memory and no project; for ChatGPT, a temporary chat. Modes: ChatGPT — Sol 5.6 High, from 9 October GPT-6 High; Claude — Opus 5.5 Extra; Gemini — Flash 3.8 Extended; DeepSeek — DeepThink. In the November tests 97–99: ChatGPT — GPT-6 High; Claude — Fable 5.2 Extra; Gemini — Hydrogen Average, a lighter model, since Argon was unavailable; DeepSeek — DeepThink. The mode is noted at the top of each answer file (for the September tests, retrospectively). The questions were asked one at a time, verbatim; their texts are on the test pages. The images went under neutral names (`9.jpg`, `38.jpg`), without metadata: once Claude took the cat's breed straight from a file name. In the context tests the models saw the names `context.jpg` and `cover.jpg` — that is part of the condition. All images now have the analysis's common numbers, and the names under which the models saw them are recorded on the test pages.
 
 **The ladder of hints.** Open question → a detail ("pay attention to the fork", "count the fangs") → a reading → a document from the author (the notes page). Each step narrows the frame, so agreement on a late step proves little — hence the control.
 
@@ -716,6 +778,9 @@ Each test page has the image, the questions asked and the four full answers; eac
 | Hogarth with the pug and the keys | 3 Oct | [34](../../tests/34-painter-and-pug-with-keys/README.md) |
 | Plato's cave (for comparison) | 6 Oct | [39](../../tests/39-cave-planetarium/README.md) |
 | The cave, Gemini's light version | 9 Oct | [48](../../tests/48-cave-planetarium-gemini/README.md) |
+| Three bear comics, creativity and the brief | 19 Nov | [97](../../tests/97-bears-three-comics-creativity-and-brief/README.md) |
+| "Alibi", a ladder to the title | 19 Nov | [98](../../tests/98-cat-alibi-ladder/README.md) |
+| "Alibi", corrected, frame in words | 19 Nov | [99](../../tests/99-cat-alibi-verbal-frame/README.md) |
 
 ChatGPT's two reviews of the tests and my comparison with them remain in the project's working materials; where their conclusions are used, the text says so.
 
