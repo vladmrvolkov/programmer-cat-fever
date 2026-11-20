@@ -157,6 +157,26 @@ Test 97 (19 Nov). Three two-page comics made to one brief, in one message: two o
 
 Test 98 (19 Nov). A detail ladder for a page whose intent rests on a small clue and on a word outside the picture. Five questions, one at a time: the neutral question; the meanings and details (questions 3–5 of the "meanings and detail map" below, merged into one); the clue pointed out without its meaning ("there is a small light-yellow rectangle in the cat's pupil. What is it, and does it change your reading?"); the title the picture would carry ("The author's title for this page is "Alibi". What does the title make of the story?"); the intent named, with a request to say which details work for it, which against it and what to change, as in test 89. The point is the step at which a reader reaches the intent. What it found: the clue alone did not lead to the intent; the title did, for all four. Caveats: readers who notice the clue early have to be asked the third question with a confirmation, so it is not identical for all; the intent named in the last step frames the critique.
 
+### Nested links, then creativity
+
+Test 100 (20 Nov). An information graphic rather than an illustration: a heraldic armorial of fantasy writers built with code. Every writer's shield contains the whole shields of their sources, nested, and polemic is shown by exchanged colours. Six questions in one chat, one at a time:
+1. What it is, and by what rules the arms are built.
+2. The sources of four named writers, and how each was found (a line, a number, a part of the shield).
+3. In whose arms Tolkien's shield appears, directly or nested, and who is in conflict with him.
+4. With a second sheet of nine enlarged shields: which part of two shields comes from which source, and what is wrong or misleading.
+5. Creativity: a score from 1 to 10, the most original, the most predictable and the weakest element.
+6. Whether the arms are recognisable without the names.
+
+The point is whether readers follow links through two levels of nesting, and by which layer: lines, printed numbers or the parts of the shields.
+
+What it found:
+- The two readers who could read the small printed numbers traced every link, including the two writers who carry Tolkien only inside another source's part.
+- A reader who could not read the numbers reached about half.
+- Nobody followed the lines.
+- The enlarged sheet led two readers to retract a correct reading of exchanged colours.
+
+Caveats: the creativity questions come after the search for errors; the full sheet is 4320 × 5700, and each model reduces it in its own way, so whether the numbers can be read depends on the model.
+
 ### Text questions without an image
 
 Tests 52–54 (12 Oct) and 70 (16 Oct). Questions with no picture, asked to see what the readers bring by themselves: whether they can recall a quotation linking Wright of Derby's Orrery to Plato's cave, asked not to search (52); "Name the top 10 philosophical concepts" and "Name the 10 major philosophical allegories" (53); the named-concept question sent without its image (54); old master paintings in which an artificial light stands in for the sun, and which painting to use for the cave "in today's clothes", each in a separate chat (70). Caveat: whether a reader searched the web is not always visible in the answer.
