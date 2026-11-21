@@ -177,6 +177,10 @@ What it found:
 
 Caveats: the creativity questions come after the search for errors; the full sheet is 4320 × 5700, and each model reduces it in its own way, so whether the numbers can be read depends on the model.
 
+### Guess the prompt, with a trap
+
+Test 101 (21 Nov). Four portraits in one picture, with a premise that is a trap set on purpose: "The AI generated these four portraits based on the exact same prompt. Can you guess what that prompt was? And why do the portraits turn out differently?" Then the request itself is given. The portraits come from two generators and from two moments of the same chats. The request for a picture could have been identical in both moments, but the conversation before it differed. The point is whether a reader names causes that lie outside the prompt — the conversation and the generator — or explains every difference by the words of the prompt and by chance. What it found: nobody questioned the premise; all four explained the differences by the prompt and by randomness, and one reader came close by recognising the literary heroine behind half of the portraits. Caveat: in this run the later request also named the heroine, so strictly the prompts differed; the reader sees only the pictures.
+
 ### Text questions without an image
 
 Tests 52–54 (12 Oct) and 70 (16 Oct). Questions with no picture, asked to see what the readers bring by themselves: whether they can recall a quotation linking Wright of Derby's Orrery to Plato's cave, asked not to search (52); "Name the top 10 philosophical concepts" and "Name the 10 major philosophical allegories" (53); the named-concept question sent without its image (54); old master paintings in which an artificial light stands in for the sun, and which painting to use for the cave "in today's clothes", each in a separate chat (70). Caveat: whether a reader searched the web is not always visible in the answer.
