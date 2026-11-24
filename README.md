@@ -40,6 +40,8 @@ The cat-joke tests published here so far:
 - September: the first comics, the editorial version, the first manga, the rewritten comics and the v7 cat (01–08);
 - noir: 16, 19, 20, 45, 49;
 - the harsh version and the dog diptych: 21;
+- the Alcofribas director's anatomical atlas: 102;
+- the menippean director's vet at a station buffet: 104;
 - the anachronism personas: 29, 33, 35;
 - the manga with the fork: 38, 43, 47, 50;
 - the angel: 73, 76.
@@ -78,13 +80,14 @@ A virtual director is a chat model that turns a source into the idea of a pictur
 | The fork's idea search | Oct | ChatGPT (director D), Gemini (C), Claude (B) | written as an addition to v17; given alone in the saved runs | ChatGPT's rework of v17: readings as relations, two rounds of branching search, paintings chosen only after the search, a journal | 56, 58, 65–66, 73, 76–79, 83–86 | [published](method/system-prompts/v17-fork-idea-search/AGENTS.md) (translation) |
 | v7-ext | 7 Nov | Claude, Gemini, ChatGPT | none (optional) | v7 in one file, with the fork's search as a stage and lessons from the persona runs and the tests | 87–94 | [published](method/system-prompts/v7-ext/CLAUDE.md) |
 | Alcofribas | 22–23 Nov | Gemini, ChatGPT | yes | a persona after Alcofribas Nasier, Rabelais's pen name, written in Russian in three versions — by Claude, ChatGPT and Gemini, each in a chat about raising the entropy of a model's output: a learned case, bringing things down to the bodily, a list of old masters, three variants per task | 102–103 | not published |
+| Menippea as moves | 23 Nov | Gemini, ChatGPT, Claude | none | Menippean satire as twelve moves on the source's skeleton, chosen by dice before any reading, with a council of six outsiders and a list of voices; written in Russian by Claude | 104 | not published |
 
 What differed in practice, as far as single runs show it: the v7 directors developed a recognisable hand — deadpan humour, ink with one or two colours, a document inside the picture. The personas gave the series an author figure and drew the researcher into the game, but their biographies leaked into the pictures; without the persona, in the researcher's words, the pictures read "not as authored, but as randomly generated". The fork's search moved sources into other stories, such as the cat joke into Degas's *Waiting* (test 73). v7-ext has so far been used on three tasks: a text for Warhol's and Yakovlev's paintings (Claude, test 87), the liar paradox (Claude, Gemini and ChatGPT given the same request, tests 88–89) and rescuing the cave picture (Gemini and ChatGPT, tests 90–94).
 
 ## What is here
 
 - **[Reports](report/)** — one folder per publication: the detailed report, its images and, where there is one, a selection of reader quotes. Each report identifies its author and describes the relevant AI contributions.
-- **[Reading tests](tests/README.md)** — the tests published so far (83), most of them used by the reports and the others on the cat joke or on other sources — Chomsky's sentence "Colorless green ideas sleep furiously" (77–79), a Japanese tale about a shaved escort (80–82), Žižek's reading of the red ink joke (83–86), a cartoon made from Warhol's and Yakovlev's canned food (87), a heraldic armorial of fantasy writers (100), four portraits of an "ugly princess" with a trap in the question (101) and two pictures by Alcofribas, a director with a Rabelaisian persona (102–103) — each with its images, questions and saved reader conversations.
+- **[Reading tests](tests/README.md)** — the tests published so far (84), most of them used by the reports and the others on the cat joke or on other sources — Chomsky's sentence "Colorless green ideas sleep furiously" (77–79), a Japanese tale about a shaved escort (80–82), Žižek's reading of the red ink joke (83–86), a cartoon made from Warhol's and Yakovlev's canned food (87), a heraldic armorial of fantasy writers (100), four portraits of an "ugly princess" with a trap in the question (101) two pictures by Alcofribas, a director with a Rabelaisian persona (102–103) and a vet at a station buffet by a director without a persona, shown before and after its source joke (104) — each with its images, questions and saved reader conversations.
 - **[System prompts](method/system-prompts/README.md)** — the virtual directors' prompts without a persona, in English: v7 with its image requirements and pipeline, v10 without a persona, the fork's idea search and v7-ext.
 - **[Directors' proposals](proposals/README.md)** — what the virtual directors proposed for the pictures published here, one file per subject: the cat joke, noir, the dragon's tooth, the liar paradox, Plato's cave (with Hobbes and Laplace's demon, the rescue of the picture and Bulatov), "Even sadder", the shaved escort, red ink, Chomsky's sentence, manna; a plain English translation of conversations held in Russian.
 - **[List tests](bifurcation-options/programmer-cat/README.md)** — the prompts and the models' answers behind *Bifurcation of options* (arms A–E and the second step of arm E), translated from Russian. These are not reading tests: the models were asked to list visualisations and axes, not to read a picture.
@@ -131,9 +134,9 @@ Every answer file starts with an HTML comment naming the mode, e.g. `<!--Mode: S
 
 | Reader | Mode | Notes |
 |---|---|---|
-| ChatGPT | Sol 5.6 High; GPT-6 High from test 48 | reads pictures made by the same company's image generator |
+| ChatGPT | Sol 5.6 High; GPT-6 High from test 48; GPT 6.2 High in test 104 | reads pictures made by the same company's image generator |
 | Claude | Opus 5.5 Extra; Fable 5.2 Extra in tests 97–101; Sonnet 5.5 in tests 102–103 (labelled “Sonet”) | early September: Opus 5 Extra, Sonnet 5 Extra (as labelled) |
-| Gemini | Flash 3.8 Extended; Argon 4 High from test 59; Hydrogen Average in tests 97–99; Neon High in tests 100–103 | early September: Flash 3.7 Extended (as labelled); Hydrogen Average is a lighter model, used because Argon was unavailable; Neon High is a newer model |
+| Gemini | Flash 3.8 Extended; Argon 4 High from test 59; Hydrogen Average in tests 97–99; Neon High in tests 100–104 | early September: Flash 3.7 Extended (as labelled); Hydrogen Average is a lighter model, used because Argon was unavailable; Neon High is a newer model |
 | DeepSeek | web, DeepThink on | exact model version not independently verified |
 
 GPT-6 in the labels, on the test pages and in the reports is the web model GPT-6 Sol. The labels are kept as they were.
