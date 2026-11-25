@@ -14,6 +14,9 @@ The researcher gave it to each director in Russian with this English translation
 | 2 | v16 persona | Claude | persona prompt v16 | 3 October | the Annunciation (tests [29](../tests/29-annunciation-cat/README.md), [33](../tests/33-annunciation-with-keys/README.md)) |
 | 3 | the first director (A), v17 persona | Claude | persona prompt v17 | 3 October | the Calling of Matthew (test [35](../tests/35-calling-of-matthew-cat/README.md)) |
 | 4 | director D | ChatGPT | the v17 persona prompt with the [idea search](../method/system-prompts/v17-fork-idea-search/AGENTS.md) | 22 October | "The flight is delayed" (tests [73](../tests/73-angel-after-degas-waiting/README.md), [76](../tests/76-angel-after-degas-director-original/README.md)) |
+| 5 | the menippean director | Gemini | [Menippea as moves](../method/system-prompts/menippea-moves/README.md) | 23 November | the vet at the station buffet (test [104](../tests/104-buffet-vet-idea-source-objection/README.md), after redrawing and an edit) |
+
+Section 5 was added on 25 November 2026, translated the same way. The concepts of the Alcofribas director on the same joke (test 102) are in [alcofribas.md](alcofribas.md).
 
 The personas of v16 and v17 are cats who used to be image-generating neural networks and now paint. They call the image generator "the apprentice". The persona prompts are not published.
 
@@ -253,3 +256,98 @@ I made **"The flight is delayed"**, following Degas's pastel [*Waiting*](https:/
 The hero looks at the board and holds his wing so as not to bother the woman next to him. His own miracle has become part of everyday life.
 
 *This is the picture of test 76; the researcher's Midjourney restyle of it "in the style of Degas" is the picture of test 73. The researcher then asked for an interpretation through the diner scene at the end of* Pulp Fiction*; the director proposed "The sign" and "The business offer" and drew both. They are not on GitHub and are left out.*
+
+---
+
+## 5. The menippean director — Gemini
+
+*The prompt is [Menippea as moves](../method/system-prompts/menippea-moves/director.md): a council of six outsiders and a list of voices drawn up for the source, two fixed lists of moves, four dice per candidate counted from the letters of the source's words, the lines re-voiced beat by beat, three candidates and a stop. The researcher's message was not saved with the answer. The director wrote its lists and reasoning in Russian and the lines in English; the skeleton, which repeats the joke, is left out. Lists B and C (the moves) are in the prompt; the dice below refer to them by number.*
+
+### What this thing is, and margin notes
+
+An urban joke about a miracle swapped out: the waiter sees a curiosity for the circus, while the cat assesses the offer as a specialist. The first thing that came to mind: a badge on a lanyard over the fur, and a greasy wine list.
+
+- **The cat:** a torn ear, an office pass on a frayed lanyard, a battered backpack and a USB-C cable; would never put on a bow or sit on a stool without a back.
+- **The waiter:** an apron with an espresso stain, a blunt pencil and a cloth over his shoulder, a crumpled flyer for his uncle's circus and a handful of change in his pocket; would never admit that his uncle himself holds back his wages.
+- **The uncle (off stage):** a checked jacket, a stack of forms and a sticky unwrapped lollipop in his pocket; never names the salary before you go out into the ring.
+
+### Two lists
+
+**A. The council**
+1. **A tech recruiter on commission** — measures everything by the fee for a closed vacancy; wants to intercept the cat before the circus and sell her to a bank for legacy code.
+2. **A veterinary dietitian** — measures everything by lactose, sugar and excess weight; wants to take away the cream and the pastry and put everyone on dry food.
+3. **The old coffee machine** — measures everyone by steam pressure and scale; wants to be descaled rather than have people chatting at the counter.
+4. **A pedant-jester** — measures words by their direct material meaning; wants to see turns of phrase come true literally.
+5. **A sixteenth-century inquisitor** — measures everything by signs of a pact with the unclean; wants to register a familiar and close down "the den with acrobats".
+6. **The dishwasher behind the kitchen door** — measures the shift by the pile of dirty saucers; wants the bill closed and everyone gone.
+
+**D. The voice**
+1. ***Simplicissimus* (1896–1914, the everyday sheets of T. T. Heine)** — black ink, one or two dirty flat colours, a hard contour; hits complacent philistines and officials.
+2. **The Soviet magazine *Krokodil*, late 1950s – 1960s (the small feuilleton on services and staff)** — gouache and pen, yellow-brown paper, angular figures and dense notices on the walls; hits hacks and confusion over who does what.
+3. **William Hogarth (the city engravings on trades and hiring)** — black-and-white line engraving, a cramped frame, small signs and papers; hits the greed of every class.
+4. **The American Sunday newspaper comic of the 1910s–1920s (the second page, a street squabble)** — the coarse screen of a colour newspaper, three or four faded inks, crooked balloons with hand lettering; believes in the stubbornness of small creatures against the stupidity of big ones.
+5. **Utagawa Kuniyoshi's *giga* (cats in the roles of townspeople)** — woodblock, flat patches of indigo, ochre and vermilion, cartouches; hits human fuss with feline businesslikeness.
+6. **Franco-Flemish marginalia of the thirteenth–fourteenth centuries** — parchment, tempera, gold, flat drawing without perspective; turns rank and order upside down.
+
+### The dice
+
+Zakhodit (7→1) koshka (5→5) v (1→1) kafe (4→4) → **1-5-1-4** | zakazyvaet (10→4) sebe (4→4) kofe (4→4) so (2→2) → **4-4-4-2** | slivkami (8→2) i (1→1) pirozhnoe (8→2) Ofitsiant (8→2) → **2-1-2-2**.
+
+*(The words of the Russian joke, transliterated here, with the number of letters each has in Russian. The rule against repeated numbers within a list was added after this run, so candidates 2 and 3 share voice 2.)*
+
+### Candidate 1 — 1-5-1-4
+
+*(A1 the tech recruiter · B5 inserted document · C1 scandal · D4 the American Sunday newspaper comic of the 1910s–1920s)*
+
+**The world.** A coarsely printed newspaper page in four faded inks: a coffee house with a marble display case, crooked speech balloons. The cat, an office pass round her neck, climbs right onto the glass of the pastry case. The talking beast surprises nobody — the scandal flares up over poaching staff without a commission: out of the next booth jumps a tech recruiter in a narrow suit and slaps an exclusive contract form right onto an éclair, smearing cream over clause four. A third of the page is taken up by the form itself in close-up, smeared with cream and a cat's paw.
+
+**Re-voicing and inscriptions.**
+1. The cat (sitting right on the glass case): *"Black coffee, heavy cream, and the éclair. No doily."*
+2. The waiter (waving a cloth): *"Hey! Off the glass! Wait—you talk?! My uncle runs a circus, get down and he'll hire you today!"*
+3. The cat (nudging the sugar bowl towards the edge with her paw): *"Are you pouring the coffee or pitching me a gig?"*
+4. The recruiter (flying into the frame and slapping the contract right onto the éclair): *"Hold it, busboy! I spotted her first! Your uncle's circus has zero benefits—she signs with me! Twenty percent placement fee, full dental!"*
+5. The waiter (shoving a crumpled circus flyer in his face): *"My uncle doesn't even pay ME, pal! Back off, she's a talking cat, not a clerk!"*
+6. The cat (licking the cream off clause four of the contract and squinting at the small print): *"Wait. 'Full dental'? Is this remote from a windowsill, or another COBOL trap?"*
+7. The inserted document, large, in the lower part of the page: `CANDIDATE INTAKE FORM #409 — SPECIES: FELINE (VERBAL) — STACK: C++ / LEGACY — FEE: 20% GROSS ANNUAL — NOTE: PASTRY DAMAGE DEDUCTED FROM WAITER'S TIPS.`
+
+**The laugh.** The cat and the viewer laugh at how the miracle of a talking beast sinks in a second in a fight between two middlemen over commission, while the cat herself rescues the cream from a legal form.
+
+### Candidate 2 — 4-4-4-2
+
+*(A4 the pedant-jester · B4 outside viewpoint · C4 splitting · D2 the Soviet* Krokodil *of the 1950s–1960s)*
+
+**The world.** A feuilleton picture in gouache and pen on yellow-brown paper, shown strictly from above — from under the ceiling ventilation grille, so that the café hall is seen like a plan with small angular figures. Every word is carried out literally, and both characters are busy with two things at once. The cat, eyes tightly shut, blindly punches holes in a punched tape with her claws and at the same time drinks cream from a jar into which coffee has been poured. The waiter's jaw is literally swung open on a hinge, a wasp flies into his mouth; he talks through his nose, pours boiling water past the cup straight onto his own shoe, and with the other hand unloads onto the table a stack of wooden signs with literal "terms".
+
+**Re-voicing and inscriptions.**
+1. The cat (without looking up from the punched tape onto which coffee is pouring): *"Coffee with cream and a pastry. Put the cream inside the coffee, not beside it."*
+2. The waiter (jaw swung open on its hinge, pouring from the coffee pot onto his shoe): *"A... talking... cat... My jaw is stuck... My uncle's circus will take you under ANY conditions!"*
+3. The cat (punching a new line with a claw): *"Bring the pastry first. And shut your hatch, a wasp just flew in."*
+4. The waiter (tipping onto the table a stack of signs reading `RAIN`, `FROST`, `NIGHT SHIFT`, `NO LUNCH`): *"Look—any conditions! Acrobats, lollipops, cotton candy!"*
+5. The cat (eyes tightly shut, working by touch): *"Cotton candy? That's spun sugar. It gums up the keys. Also, you're boiling your own boot."*
+6. The waiter (squinting down at his wet boot, jaw still swung open): *"Oh. Do you fix coffee machines too?"*
+7. Notices on the walls of the hall: `NO TALKING TO STAFF DURING SHIFT` · `SUGAR BY WEIGHT ONLY` · `COMPLAINT BOOK ON TOP SHELF`.
+
+**The laugh.** What is funny is how the literal "terms" and the literally dropped jaw break the hiring scene, while the cat blindly finishes her work and worries only about sticky keys.
+
+### Candidate 3 — 2-1-2-2
+
+*(A2 the veterinary dietitian · B1 down · C2 mésalliance · D2 the Soviet* Krokodil *of the 1950s–1960s)*
+
+**The world.** A horizontal cartoon in gouache and pen on brown paper: a run-down railway-station eatery at 23:55, chairs turned upside down, a bucket with a mop, a cloudy dome over one stale pastry. The cat combines the incompatible: in one body sit a self-important chief systems architect (pince-nez, a stiff starched collar, a heavy leather briefcase of diagrams) and a mangy seven-kilo yard cat with a torn ear. The exhausted night waiter, moonlighting from the vet clinic next door, in a dirty apron over a medical coat, holds a scoop for dry food and rusty scales: a talking cat at midnight does not surprise him — what horrifies him is the order of cream and sugar at her weight.
+
+**Re-voicing and inscriptions.**
+1. The cat (climbing with her leather briefcase onto the sticky counter among the upturned chairs): *"Espresso, double cream, and that stale napoleon. Put it on my corporate tab."*
+2. The waiter (clutching his head and looking at her flanks): *"A cat?! A seven-kilo senior cat ordering heavy cream and sugar at midnight?! Incredible!"*
+3. The cat (adjusting her pince-nez with a dirty paw): *"Yes, I am a cat. Are you serving my pastry or lecturing me?"*
+4. The waiter (slamming down a bowl of dry food in front of her and pulling out a crumpled flyer): *"Hold on—you don't need sugar, you need cardio! My uncle runs a circus. One month of jumping through hoops will drop your cholesterol—he'll take you on any terms!"*
+5. The cat (pushing the bowl away with her briefcase and squinting): *"A circus? Lollipops and cotton candy? That's pure glucose, my good man. Besides, who's going to maintain their ticketing database while I jump through hoops?"*
+6. The waiter (weighing the stale pastry on the rusty scales and putting it away under the counter): *"No lollipops. Strict kibble. Forty grams a day. Take it or leave it."*
+7. Notices behind the counter: `CLOSED AT 00:00` · `NO LACTOSE FOR FELINES` · `NO CREDIT`.
+
+**The laugh.** What is funny is that a talking chief architect in a night eatery is being matched to a circus purely for cardio and to work off cholesterol, and on top of that the promised cotton candy is taken away.
+
+---
+
+Which one do we make?
+
+*Candidate 3 was drawn by ChatGPT as six panels (23 November) and redrawn in pen (24 November). After four AI reviews of the pen page and a three-panel version from a prompt by Claude, ChatGPT edited it at the researcher's request: a "buffet | vet" sign, a cat-skeleton chart, a stethoscope, a laptop in the briefcase, a digital scale showing "7.0 kg", one napoleon handed to the cat, and a new last line, "no lollypops - strict kibble". That edit is the picture of test 104. Gemini drew candidates 1 and 3 in its own three-panel versions; they were not tested.*

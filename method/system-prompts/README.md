@@ -1,6 +1,6 @@
 # System prompts of the virtual directors
 
-A virtual director is a chat model that turns a source — a joke, a phrase, a historical episode, a concept — into the idea of a picture and a ready-to-paste prompt for an image generator, and then reviews what the generator brings back. The director does not draw; the human researcher (the "author" in the prompts) chooses between its proposals and notices what matters. Over the project the directors worked under several system prompts. This folder holds those without a persona, the ones the published tests rest on.
+A virtual director is a chat model that turns a source — a joke, a phrase, a historical episode, a concept — into the idea of a picture and a ready-to-paste prompt for an image generator, and then reviews what the generator brings back. The director does not draw; the human researcher (the "author" in the prompts) chooses between its proposals and notices what matters. Over the project the directors worked under several system prompts. This folder holds those without a persona, the ones the published tests rest on, and, since 25 November, the persona Alcofribas, whose versions are short enough to publish together.
 
 *Selected and prepared by Claude (a model by Anthropic) on 10 November 2026 at the researcher's request. v7 and v7-ext were written in English and are reproduced as used. v10 without a persona and the fork's idea search were written in Russian; the files here are plain technical translations into English by Claude, and the Russian originals are not published. Run labels such as R-19 and case numbers in the v7 journal refer to the project's internal archive.*
 
@@ -10,6 +10,8 @@ A virtual director is a chat model that turns a source — a joke, a phrase, a h
 | [v10 without a persona](v10-without-persona/CLAUDE.md) | 4 Oct 2026 | Claude, from the persona prompt v10 | Russian (translated) | 940 words | Claude; ChatGPT | 40 |
 | [Idea search of the v17 fork](v17-fork-idea-search/AGENTS.md) | Oct 2026 | ChatGPT, at the researcher's request | Russian (translated) | 500 words | ChatGPT (director D), Gemini (C), Claude (B) | 56, 58, 65–66, 73, 76–79, 83–86 |
 | [v7-ext](v7-ext/CLAUDE.md) | 7 Nov 2026 | Claude | English | 4,600 words | Claude, Gemini, ChatGPT | 87–89 |
+| [Alcofribas](alcofribas/README.md), a persona in six versions | 22–23 Nov 2026 | Claude, ChatGPT, Gemini (each its own) | Russian (translated) | 900–1,400 words each | ChatGPT, Gemini | 102–103 |
+| [Menippea as moves](menippea-moves/README.md), with a [version for the armorial](menippea-moves/heraldry/director.md) | 23 Nov 2026 | Claude | Russian (translated) | 1,700 + 900 words | Claude, ChatGPT, Gemini | 104 |
 
 ## v7 — the long method
 
@@ -28,6 +30,14 @@ ChatGPT's rework of the persona prompt v17, made at the researcher's request to 
 ## v7-ext
 
 v7 folded into one file and extended: the image requirements and the parts of the pipeline the director does itself are inside it; the fork's idea search becomes stage 2; the 23 mechanisms and later journal findings are regrouped into 19 kinds of generator failure (G1–G19); stages 0–8 with the stop at stage 3, tightened after the first run, where a director took "choose the style yourself" as permission to choose the idea too; and an optional section for an attached persona ("the biography gives a voice, not material"). A revision of it made in Codex (about 3,800 words) was used in one unpublished run and is not published. The runs folder held a copy one sentence older than this file (the tightened stop rule).
+
+## Alcofribas
+
+A persona after Rabelais's pen name, written in Russian by three models at the researcher's request, each at the end of its own conversation about raising the entropy of a model's output, and then rewritten by ChatGPT and Gemini after the first round; a sixth version, by Claude, was not run. The versions differ more than the shared name suggests: Claude's first is an interlocutor with no section on the generator, ChatGPT's are guidance without a procedure, Gemini's first is a doctor-engraver with a rigid learned case and a list of dead masters. The folder's [README](alcofribas/README.md) says who wrote what, which version directed which concepts, and why the second round mostly measures how a director follows an example.
+
+## Menippea as moves
+
+Claude's Alcofribas prompt without the persona: Menippean satire as twelve moves on the skeleton of the source, chosen by dice before any reading, a council of six outsiders, a list of voices, lines re-voiced forward. A shorter version for the fantasy armorial is in the same folder. See its [README](menippea-moves/README.md).
 
 ## Not published
 

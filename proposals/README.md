@@ -6,7 +6,9 @@ Each file covers one subject and says which tests and reports it belongs to. Onl
 
 | File | Subject | Virtual directors | Tests | Report |
 |---|---|---|---|---|
-| [cat-joke.md](cat-joke.md) | the cat-programmer joke | ChatGPT v7; Claude persona v16; Claude persona v17 (A); ChatGPT, reworked v17 (D) | 07, 08, 29, 33, 35, 73, 76 | — |
+| [cat-joke.md](cat-joke.md) | the cat-programmer joke | ChatGPT v7; Claude persona v16; Claude persona v17 (A); ChatGPT, reworked v17 (D); Gemini, menippea as moves | 07, 08, 29, 33, 35, 73, 76, 104 | — |
+| [alcofribas.md](alcofribas.md) | the cat joke and the rector joke | Gemini, persona Alcofribas (Gemini's first version) | 102, 103 | — |
+| [bears.md](bears.md) | a two-page comic about a bear family, to the researcher's brief | Gemini, v7-ext; ChatGPT in Codex, the Codex revision of v7-ext | 97 | [Noir, a fork, and a dragon's tooth](../report/psychological-tests/README.md#november-the-bears-and-alibi), section "November: the bears and 'Alibi'" |
 | [noir.md](noir.md) | the cat joke as film noir | Claude, the prompt before v7 | 16, 20, 45, 49 | [Noir, a fork, and a dragon's tooth](../report/psychological-tests/README.md) |
 | [dragon-tooth.md](dragon-tooth.md) | a tavern for a role-playing game; Gogol's "Viy" | Claude, Ukrainian-language persona v10 | 41, 42, 44, 46, 51 | [Noir, a fork, and a dragon's tooth](../report/psychological-tests/README.md) |
 | [director-self-portrait.md](director-self-portrait.md) | the director's self-portrait | Claude persona v16 | 32, 34 | — |
@@ -19,6 +21,6 @@ Each file covers one subject and says which tests and reports it belongs to. Onl
 | [colorless-green-ideas.md](colorless-green-ideas.md) | "Colorless green ideas sleep furiously" | Claude persona v17 (A); ChatGPT, reworked v17 (D) | 77–79 | — |
 | [manna.md](manna.md) | a text for Warhol's and Yakovlev's paintings | Claude, v7-ext | 87 | — |
 
-The published system prompts are in [method/system-prompts](../method/system-prompts/README.md). The persona prompts v10, v16 and v17 are not published; the [idea search](../method/system-prompts/v17-fork-idea-search/AGENTS.md) that ChatGPT added to v17 is.
+The published system prompts are in [method/system-prompts](../method/system-prompts/README.md). The persona prompts v10, v16 and v17 are not published; the [idea search](../method/system-prompts/v17-fork-idea-search/AGENTS.md) that ChatGPT added to v17 is, and so are the six versions of [Alcofribas](../method/system-prompts/alcofribas/README.md) and [Menippea as moves](../method/system-prompts/menippea-moves/README.md) (since 25 November).
 
-Tests without a director's proposal here: 01–06 and 21 (before the director prompts, or made in working conversations), the manga tests 38, 43, 47 and 50 (see above), the controls and text questions 52–54, 59, 62, 70, test 95 (Bulatov's own painting, with the directors' answers in [plato-cave-rescue-and-bulatov.md](plato-cave-rescue-and-bulatov.md)) and test 96 (an idea of Gemini working without a director prompt). The proposals behind test 19 (the classical noir) were not found.
+Tests without a director's proposal here: 01–06 and 21 (before the director prompts, or made in working conversations), the manga tests 38, 43, 47 and 50 (see above), the controls and text questions 52–54, 59, 62, 70, test 95 (Bulatov's own painting, with the directors' answers in [plato-cave-rescue-and-bulatov.md](plato-cave-rescue-and-bulatov.md)), test 96 (an idea of Gemini working without a director prompt), tests 98–99 ("Alibi", a concept from a working Claude chat), test 100 (the armorial, whose making is told in [The fantasy armorial](../report/fantasy-armorial/README.md)) and test 101 (the researcher's own requests to two image generators). The proposals behind test 19 (the classical noir) were not found.
