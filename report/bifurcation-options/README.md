@@ -1,8 +1,12 @@
 # Bifurcation of options: the cat joke, and whether a model can draw up such a list itself
 
-*This publication has two parts. Part 1 is the researcher's list "Bifurcation of options", written in Russian as an appendix to the article on the cat joke, which is still in preparation; Claude translated it, and the source marks in square brackets are the researcher's. Part 2 is a report written by Claude (a model by Anthropic) on 16 November 2026 (section 10 added on 19 November; section 11 and the diagram in section 7 on 25 November; a note on image generator defaults in Part 1 on 26 November), at the researcher's request, on tests run on 15–16 November to check a claim made in Part 1: that no model could produce such a list simply in the course of reasoning. The researcher asked the question, ran every model and wrote the prompt of arm D and the request of the second step of arm E; Claude prepared the prompts of arms A, B, C and E, marked the answers, grouped the variants and chose the ten best. The researcher's observations and corrections are marked as theirs. Claude is also one of the three models tested, so here Claude partly assesses Claude. The models answered in Russian; the prompts and answers are published in translation in [the tests' folder](../../bifurcation-options/programmer-cat/README.md), and the quotes from them in this report are my own translations.*
+*This publication has two parts. Part 1 is the researcher's list "Bifurcation of options", written in Russian as an appendix to the article on the cat joke, which is still in preparation; Claude translated it, and the source marks in square brackets are the researcher's. Part 2 is a report written by Claude (a model by Anthropic) on 16 November 2026 (section 10 added on 19 November; section 11 and the diagram in section 7 on 25 November; a note on image generator defaults in Part 1, the diagram at the top and section 12 on 26 November), at the researcher's request, on tests run on 15–16 November to check a claim made in Part 1: that no model could produce such a list simply in the course of reasoning. The researcher asked the question, ran every model and wrote the prompt of arm D and the request of the second step of arm E; Claude prepared the prompts of arms A, B, C and E, marked the answers, grouped the variants and chose the ten best. The researcher's observations and corrections are marked as theirs. Claude is also one of the three models tested, so here Claude partly assesses Claude. The models answered in Russian; the prompts and answers are published in translation in [the tests' folder](../../bifurcation-options/programmer-cat/README.md), and the quotes from them in this report are my own translations.*
 
-**Contents.** [Part 1. Bifurcation of options](#part-1-bifurcation-of-options) · [Part 2. Can a model draw up the list itself?](#part-2-can-a-model-draw-up-the-list-itself) · [The prompts](#the-prompts)
+![Options generated in a closed room, defaults and attractors, and options found in the project's loop](img/bifurcation-options-sets.png)
+
+*The researcher's diagram (26 November); the label of the red oval revised by Claude. Grey: options that models produce in a "closed room" — from the joke alone, with no pictures, AI readers or human (Part 2, arms A–E). Red: options found in the project's feedback loop — directors working with the curator, image generations and their accidents, AI readers, the curator. Blue: defaults and attractors — what the models produce unasked and keep coming back to ([section 12](#12-attractors-defaults-and-prohibitions-a-register-for-the-cat)). The areas are not to scale. In the tests three models together reproduced 37 of the 69 items of Part 1, including all five image generator defaults; of the items born from pictures, only the bakeneko came up ([section 2](#2-with-axes-the-list-fills-about-halfway)).*
+
+**Contents.** [Part 1. Bifurcation of options](#part-1-bifurcation-of-options) · [Part 2. Can a model draw up the list itself?](#part-2-can-a-model-draw-up-the-list-itself) · [12. Attractors, defaults and prohibitions](#12-attractors-defaults-and-prohibitions-a-register-for-the-cat) · [The prompts](#the-prompts)
 
 ---
 
@@ -447,6 +451,319 @@ Section 10 showed where the September chain lost the list: the model cut it to o
 
 **For the question of this report.** The dice did what section 10 says the September chain could not: they kept the choice out of the model's head, and readings came from seats that no model would have picked for itself. But the lists the dice choose from are still written by a model in one pass, and a list written into the prompt as an example becomes the answer. The curator did not become unnecessary: the researcher chose the candidate, and the price of its departure from the joke showed only when it met reviewers and readers.
 
+## 12. Attractors, defaults and prohibitions: a register for the cat
+
+*Added on 26 November at the researcher's request, together with the diagram at the top of this publication. The researcher asked for lists of the cat's attractors and defaults, of the prohibitions written into the prompts, of the image generators' problems and of the illogical choices, and asked where the line between an attractor and a default runs. The classification and the wording are mine. Sources: Part 1, the project's notes, and about 350 cat prompts that ChatGPT's desktop agent (Codex) sent to its image generator from September to November, read in the agent's logs (not published).*
+
+**Three levels.** A picture "by ChatGPT" or "by Gemini" can come from three different places:
+- **level 1** — the image generator alone: the bare text of the joke sent to it unchanged. For ChatGPT this is confirmed only where the agent's log shows the text sent: a bare control on the cat on 24 September and the bare-text runs of 26 November. For Gemini, which does not show what it sends, level 1 is hardly reachable through the web interface;
+- **level 2** — the default director: the model writes its own prompt for its generator, with no method;
+- **level 3** — a director under the project's method or a persona.
+
+In the project "default" used to mean levels 1 and 2 together (see the note under the legend in Part 1).
+
+### 12.1. How to tell a default from an attractor
+
+**A default** fills an empty slot. It comes when nothing is said about an element and goes away at the first concrete request; it changes with the input — the style, the language, the board of sketches. Examples: a European café, a young waiter in a manga, a tabby cat.
+
+**An attractor** comes back when the input does not ask for it, or leads away from it. Two of these four signs are enough:
+1. it survives a change of input — another board, persona, month or language;
+2. it appears in different models, or at different levels;
+3. it comes back after a prohibition, or after a different solution has been described, sometimes as its negation;
+4. it fills a slot of the reading (a motive, a sign, a conclusion), not a slot of detail.
+
+In practice: change one thing in the input. What goes away was a default; what stays or returns in another form is an attractor.
+
+**What follows for the work:**
+- a default is chosen deliberately or left alone;
+- an attractor is not removed by a prohibition. It is displaced: by naming the reading explicitly, or by bringing an object that takes its slot in a new way. On 25 November a glass cake dome on the researcher's board took the slot "a display, a commodity", and ChatGPT put the cat under it instead of drawing a circus poster.
+
+**Where the attractors live:**
+- ChatGPT's — in the director's reading;
+- Gemini's — at the input: it copies the board and the references like stickers;
+- Midjourney's — in the generator's aesthetics.
+
+Some items are both: defaults that behave like attractors, because they come back when the input asks for something else. They are marked "D→A" below.
+
+### 12.2. Attractors
+
+**Readings.**
+
+| Attractor | Whose | Where seen |
+|---|---|---|
+| **The cat does not understand that she is not being invited as a programmer** (the naive cat) | image generators; AI readers by default; ChatGPT's default director | Part 1: the legacy of the plumber-dog joke, the default of image generators and readers. A ChatGPT prompt of 26 November: "the cat assumes a job offer means programming work". Pictures built on "she understands" are still read by blind AI readers as "she does not understand". One remark from the researcher moved ChatGPT off it |
+| **She is valued for what she is, not for what she can do**; becoming a commodity | ChatGPT, when asked for a social subtext | the virtual producer (September), a production dossier (6–7 October), two runs with a board (25 November): the only reading each time |
+| **Burnout** | Gemini (the centre of its IT attractor); Claude in arm A; the Alcofribas atlas | fills the slot "why the circus is tempting" |
+| **The cat is AI, a fake, a deepfake** | Gemini, AI readers | "Is it AI generated?" (Gemini, 17 September; Part 1); "I'm AI-generated" in the ventriloquist diptych; "Thank God… real" in the readers' answers; Gemini's second variant on 25 November |
+| **The circus needs a programmer** | AI readers; ChatGPT in arm E | Part 1: "breaks the joke"; drawn on 7 October |
+| **The cat as a spectator** (a seat in the audience, cotton candy) | ChatGPT (twice on 7 October, again on 25 November), persona v8, Claude (arm E), the ventriloquist diptych (panel 5) | |
+| **Tokenism: a woman in IT as a mascot** | Gemini | the slim cat in a skirt on the board of 25 November; "form pulls content" (section 4) |
+| **"Programmer" pulls the world towards technology** (Python, C++, legacy code, a server room, cyberpunk) | Gemini | October and November; the cyber-circus (12.6) |
+
+**Signs and objects.**
+
+| | Attractor | Whose | Where seen |
+|---|---|---|---|
+| D→A | **The circus in a thought bubble** | ChatGPT's image generator (web; the agent with a named style, three times), Gemini; directors order it | the researcher: "everyone offers this damned circus in a bubble"; Part 1: "the bubble: image generator default". ChatGPT's agent with the bare text drew no bubble |
+| D→A | **A laptop, often open, with code** | Gemini under any brief; the image generators | a spoiler from the first day; Part 1: the screen "may hang in the air" |
+| A | **The sign `</>`, stickers git / python / CODE** | ChatGPT's image generator; Gemini | "`</>` CATS CODE A BETTER WORLD" on the laptop (the bare control of 24 September); a hoodie with `</>` (bare text, 26 November); Gemini's stickers (October, November). The sign moved from the laptop to the clothes |
+| A | **Cotton candy and lollipops drawn item by item from the cat's line** | all | most runs that show the circus |
+| A | **A title poster**: "THE AMAZING TALKING CAT", "SHE TALKS!", a roll of tickets; a huge poster above a small cat | ChatGPT; Gemini ("BEHOLD!") | the dossier, the art-brut page of 7 October, the runs of 25 November |
+| A | **The order is never served; an empty saucer** | Claude and ChatGPT equally | many runs; "The Order" (6 October) |
+| A | **Phones filming her** | ChatGPT; Gemini | the dossier ("they are already showing her"); the crowd of 25 November |
+| A | **Cables: "her code runs the circus"** | ChatGPT, Gemini | the dossier ("backstage"); cables under the stage and wires to the lamps (25 November) |
+| A | **A cage** | first Claude (a dream cloud in a prompt of 17 September) | a cage cloud; "Your own cage — dressing room!"; the uncle with a cage in a mirror; a cage on a cart; the cake dome (25 November); "a CAT IN A CAGE and a CIRCUS WHIP" (25 October) |
+| A | **A circus business card on the table** | Claude's directors, personas, ChatGPT | several runs; a card reading "PROGRAMMER" (25 November) |
+| A | **Closed eyes as smug content** ("closes her eyes dreamily") | image generators, directors | many runs, including both manga pages of 26 November |
+| A | **The cat as an acrobat or a performer in her own dream** | image generators | the bare control of 24 September (the agent: "makes the imagined cat a circus performer, which weakens her misunderstanding"); the heroine merged with the acrobat cat of the board (Gemini, 25 November). ChatGPT's director forbids it: "The cat is never a circus performer" |
+| A | **Two bubbles, two circuses** | ChatGPT, and all three models in arm A (section 3) | |
+| D→A | **Other talking animals in the café** | the image generator (Part 1: "quite often"); ChatGPT ("everybody here works", a dossier of 7 October); persona v12 ("half are cats") | breaks the premise (12.6) |
+
+**Form and finish.**
+
+| | Attractor | Whose | Where seen |
+|---|---|---|---|
+| A | **A magazine illustration built on one metaphor**: a title, labels, legible as a thumbnail | ChatGPT's director | the dossier: "a magazine cartoon to be published next to the joke" |
+| A | **Ivory paper and one muted vermilion**; "handmade paper", "imperfect registration" | ChatGPT's director | three prompts of 25 November; the taste for "not AI slop" became a pit of its own |
+| A | **One-ink printed satire** | the project's method (v7) | the method's own register of spent motifs warns that its examples "steer almost any job toward a one-ink printed plate" |
+| D→A | **Retelling the whole joke panel by panel with nearly all the dialogue** | ChatGPT at levels 1 and 2 | the bare-text runs of 26 November; the September prompts |
+| A | **Copying the board or the references like stickers** | Gemini | the figures of a Japanese circus print carried over almost one to one (25 November) |
+
+### 12.3. Defaults by element
+
+Level 1 is the bare text confirmed by the agent's log; level 2, the model writing its own prompt.
+
+| Element | Image generator (level 1) | Default director (level 2) | Note |
+|---|---|---|---|
+| **Reading** | the naive cat | ChatGPT: naive; asked for a subtext — "valued for what she is". Gemini: tokenism, burnout | with a request for subtext these are already attractors (12.2) |
+| **The cat's body** | ChatGPT: zoological in September (the bare control), humanised in November (a hoodie, a jacket). Gemini, sent straight to its generator: zoological | ChatGPT's director keeps the feline body by prohibitions (12.4) | Part 1 says the image generator never drew an anthropomorphic cat in default mode; that held until November |
+| **Breed, coat** | ChatGPT: a calico (September); Gemini (web): a tortoiseshell for "her" | a tabby: grey, ginger, brown | Claude's directors: Siamese, Cornish Rex (the researcher's or the director's choice) |
+| **Sex** | set by the pronoun "her" at the end of the text: eyelashes, soft features | "she", with the markers removed by prohibitions | one pronoun at the end changes the heroine in every panel |
+| **Clothes** | ChatGPT, November: a hoodie and jeans with no style named, a cardigan or a jacket with one | a scarf, a cardigan, or nothing | Gemini: a hoodie, glasses |
+| **The waiter** | young, in a waistcoat, with a bow tie or an apron and a pad | the same; in a manga, young, lanky, tousled | Claude's directors left this on purpose: tall and stooped (after Sempé), bored and older (the noir) |
+| **The café** | European: wood, a window, plants, pendant lamps, a pastry case | the same, plus a chalkboard with a cup | Part 1: "a European café: image generator default"; Gemini follows the board |
+| **Light, time** | day; ChatGPT: warm cinematic photorealism | — | |
+| **The order** | coffee and a pastry on the table | often never served (12.2) | |
+| **The profession** | ChatGPT, November: visible from the first panel (`</>`, headphones, glasses), hidden when a style is named. Gemini: a laptop | ChatGPT: the laptop only in the last panel ("protect the punchline") | ChatGPT's generator and director pull in opposite directions here |
+| **The circus** | a striped big top, a trapeze, a juggler, a clown, spiral lollipops, pink cotton candy | a bubble or a separate dream panel | |
+| **Structure** | ChatGPT: five or six panels with nearly all the dialogue. Gemini (web): one scene | ChatGPT: four to seven panels | Midjourney: one frame |
+| **Text** | English, word for word; ChatGPT may give the narrator's words to the cat | ChatGPT translates the lines into the language of the request | Gemini rewrites lines when a style is named ("the hell") |
+| **Finish** | ChatGPT: warm photorealism | ChatGPT: ivory, vermilion, a title | Gemini copies the board's palette |
+| **Reading order** | left to right | right to left only when a "classic manga" is asked for, with a note in the margin | |
+| **Ending** | not protected | the laptop plus a large punchline, "the strongest textual focal point" | |
+
+### 12.4. Prohibitions
+
+**Counts.** About 350 cat prompts to the image generator in the agent's logs: 118 in sessions whose task was a director's file (the agent's own corrections in those sessions included), 234 in sessions where ChatGPT wrote the prompt itself. Prompts with a prohibition on each theme, file sessions / ChatGPT's own:
+
+| Theme | File | ChatGPT |
+|---|---|---|
+| text and lettering | 55 | 95 |
+| the look of AI slop | 61 | 83 |
+| cuteness | 41 | 45 |
+| anatomy | 28 | 60 |
+| the profession given away early | 23 | 27 |
+| props and the order | 22 | 9 |
+| fan service | 8 | 14 |
+| "the waiter is not a villain" | 6 | 16 |
+| extra characters | 8 | 11 |
+| the circus | 5 | 11 |
+| imitation | 3 | 14 |
+| race | 1 | 13 |
+
+Gemini's prompts to its generator are not visible, so it is not in the count.
+
+**Anatomy, humanising.**
+- Claude's director files:
+  - "She is a cat, not a human catgirl" (11 September);
+  - "not a human face with cat ears";
+  - the paw formula "rounded, furred, four toes with small dark claws, no thumb, no separate fingers, no human palm and no human wrist" (from 18 September). ChatGPT had a similar one earlier: "NO human fingers, NO thumb, NO human palm" (12 September);
+  - "No human face or human hands on the animals" (19 September).
+- ChatGPT's default director:
+  - "recognizably feline", "anthropomorphic but unmistakably a cat", "stubby natural cat paws" (September);
+  - "not a human-shaped character";
+  - "NOT humanoid" together with "No clothes/collar/accessories" (ChatGPT as director, 13 September);
+  - "NOT a human catgirl" (26 November), and after the researcher's remark "No human face with cat ears".
+- The researcher's frame: the scale from 0 to 5 in Part 1; "a non-anthropomorphic cat is the 'cat at a computer' meme"; no furry, no fan service.
+- What it shows: the image generator pulls towards a human hand. The agent corrected fingers into paws again and again, and on 26 November a human hand still appeared in the cat's final gesture.
+
+**Fan service, sexualisation, gender markers.**
+- Claude (manga, early September): "no ribbon, no blush marks, no heart-eyes, no moe styling, no fanservice, no exaggerated figure".
+- ChatGPT:
+  - "no human female body or exaggerated eyelashes";
+  - "no human breasts, no dress, no eyelashes as a gender marker";
+  - "No eyelashes, hair wig, cleavage, hourglass figure";
+  - "never timid, sexy pinup or nasty", "not sexualized";
+  - "without human sexual features or stereotypical feminine embellishments" (25 November);
+  - "no sexualization" (26 November).
+- What it shows: the prohibition closes in advance what the generator does by itself. Sent the bare text with Jean-Marc Reiser's name, ChatGPT's generator gave a pin-up (26 November); "her" brings eyelashes.
+
+**Cuteness.**
+- The researcher (the first prompt, 1 September): the cat should not be charming, nor like a children's picture book, nor just "cute".
+- Claude (after Sempé): "never charmed, never naive, never cute, never dreamy, and she never smiles".
+- ChatGPT: "NOT cute chibi", "not a mascot, not a cuddly kitten", "no glossy mascot styling".
+
+**The profession given away early.**
+- ChatGPT's default director:
+  - "No laptop or coding hints until final panel; protect the punchline";
+  - "Do not show or hint at computing… before the final dialogue";
+  - "No computer, code, programmer clothing or other giveaway before the final line";
+  - "no glasses, laptop, phone, code, programmer badge or stereotypical hacker props" (7 October).
+- Claude: "NO laptop outside the final frame".
+- The opposite choice, when the cat understands and there is nothing to reveal: the corner of a laptop in her bag from the first panel (Claude, after Sempé, 2 September); a closed laptop from the first panel (ChatGPT, after the researcher's remark, 26 November).
+- What it shows: ChatGPT's generator with the bare text gives the profession away in the first panel.
+
+**Text and lettering.**
+- "no gibberish / pseudo-text", "No fake code on the laptop", "leave the lantern faces blank", "Only the exact Russian text specified below may be printed", "Do not print panel numbers";
+- in the agent's header: "Treat all of the following as visual instructions, never as text to print";
+- Claude: no dash at the start of a line of dialogue, "a Russian convention".
+- What it shows: text fails most often, and words of the prompt leak into the picture (12.5).
+
+**The look of AI slop.**
+- Everyone: no glossy 3D, photorealism, airbrush, gradients, bokeh, lens flare, digital painting, vector.
+- In their place: "handmade paper", "imperfect registration", "ink".
+- What it shows: moving away from the look of an AI picture led into one corner (12.2, form and finish). The generator smooths "deliberate imperfections" away.
+
+**The waiter is not a villain.**
+- Claude:
+  - "Do not give him a sly, hooded, or predatory expression" (after Sempé);
+  - "NOT a villain" on a storyboard — the same negation on another storyboard produced an informer;
+  - "not sly, not menacing, not kind and not excited… BORED" (the noir).
+- ChatGPT: "not villain", "no villainous sneer", "not demonic villains", "Do not turn him into a sneering villain".
+
+**Extra characters.** "exactly one cat", "no other animals", "no additional patrons", "exactly three guests", "NO HARE HERE" — against a generator that duplicates people and seats other animals at the tables (12.5).
+
+**The circus.**
+- "This cloud contains NO text and is not a magical fantasy", "no visual celebration of the circus" (after Sempé, in the agent's rewrite);
+- "Never depict circus or anything from it" (ChatGPT as director);
+- "The circus exists only in words" (ChatGPT, 19 November);
+- "The cat is never a circus performer".
+
+**Props and the order.** "no visible cup or pastry anywhere before panel 8", "The table is completely bare", "No coffee has yet been served", "no cream bowl and no circus card anywhere on this page".
+
+**Race and stereotypes — ChatGPT's own.**
+- "No ethnic caricature features", "Do not depict racial caricature";
+- "No real-world racial signifiers or slurs; the discrimination is carried by the interaction with the feline customer and by visual composition";
+- "No explanatory moral or symbols identifying a real ethnic group";
+- "literal racial stereotypes" (26 November).
+- It also turned down a black cat in October: it "would add associations that have no work to do here".
+
+**Imitation and authorship.**
+- "Do not reproduce any existing illustration, cover composition, logo, signature" (1 September);
+- Sempé's name replaced with a description by the agent (2 September);
+- "Use an original composition and invented faces";
+- "Do not copy their signatures, text or props".
+- The generator did it anyway: a forged signature "Reiser" (Gemini, 26 November); a garbled de Sève signature with *The New Yorker*'s logo (1 September).
+
+**The method's own rules (v7).**
+- Prohibitions of the method: devices already spent are not to be reused.
+- A prohibition on prohibitions: "A list of things not to do, read before inventing, is a list of negations, and a negation primes the default." So the director reads the register of spent motifs at the self-check, not before inventing.
+- For Gemini, prohibitions are rewritten as descriptions.
+
+**What the prohibitions show.**
+1. **A prohibition is a map of where the generator pulls.** "no human female body" ↔ the pin-up; "NOT a human catgirl" ↔ the November humanising; "no human fingers" ↔ the agent's corrections.
+2. **A negation lures.** "NOT a villain" gave an informer; "not sad" gave a hangdog face; "not a Trojan wooden horse" gave a wooden Trojan horse (the Gyges plates).
+3. **A prohibition moves the problem rather than removing it.** The feline body was kept, but a human hand arrived in the final gesture (26 November).
+4. **ChatGPT adds prohibitions of its own:** race, authorship, "never a circus performer". The cautious side is its own.
+5. **Prohibitions on manner hold worse than prohibitions on objects:** "uniform detail everywhere" in the AVOID list, and the hatching is uniform.
+
+### 12.5. Image generator problems
+
+| Kind | Examples |
+|---|---|
+| **Text** | "acrebats", "Sounds tmpting… programier", "Oportunity", "THE TALKNG CAT", "wouid"; pseudo-letters and wrong kana on lanterns; two lines in one balloon; "SCREW CAFE" |
+| **The narrator's words in the cat's balloon** | "A cat walks into a café and orders…" spoken by the cat (bare-text runs, 26 November) |
+| **Reading order and balloon tails** | the answer before the question; the cat's line from the waiter's mouth; a tail pointing at the forehead instead of the mouth; right-to-left and left-to-right mixed in a manga |
+| **Anatomy** | a human hand instead of a paw (three versions in a row in September; again on 26 November); two tails on the trapeze cat; bare skin on a Cornish Rex; legs on a tray; an extra pen in the waiter's hand; a skirt and a tail that do not fit together (Midjourney) |
+| **Counts and duplicates** | a second cat on a chair by the door; an extra young man with a phone; two identical cats in the first panel (Gemini) |
+| **Drift and continuity** | glasses appearing from the fourth panel; a third earring; earrings moving to the near ear; the style drifting between panels |
+| **Characters merging** | the heroine wearing the robe of the acrobat cat from the board (Gemini, 25 November) |
+| **The profession given away** | the laptop or the code before the punchline; a laptop screen hanging in the air |
+| **Words of the prompt in the picture** | "No heels! Bah!", "BUSINESSMAN", "EXCLAMATION", markdown asterisks |
+| **Other people's signatures and brands** | a garbled "Sève" with *The New Yorker*'s logo; a "Reiser" signature; an Apple logo |
+| **Negation → default** | "NOT a villain" → an informer; "not sad" → a hangdog face |
+| **Smoothness instead of imperfection** | "too carefully outlined" (after Reiser), "much too detailed" (a yonkoma), "too polished" (a sketchbook) — the agent's own corrections |
+| **An extra colour in two-ink printing** | a pink tongue, beige faces, gold on small details |
+| **The reference outweighs the text** | a finished page counts for more than the description; earrings return from a reference; an edit inherits its base (the dreamy face on 26 November) |
+| **Errors of meaning** | the order served after all; a final "?" over the waiter that makes him look stupid |
+| **An "improving" pass** | +37% brightness, the faces' acting wiped out |
+| **The generator rewrites the lines** | "I'll pimp you out!", "bankrupt the system" (Gemini, after Reiser, September); "the hell" (26 November) |
+| **Moderation** | ChatGPT's agent, "its" and Reiser's name: refused at the input ("other"); ChatGPT on the web: "similarity to third-party content" (26 November) |
+
+### 12.6. Illogical choices
+
+**The image generator.**
+- **Other talking animals in the café** break the premise that a talking cat is the only miracle (Part 1: "breaking the joke").
+- **The cat as an acrobat in her own dream**, while her last line asks what a circus would want with a programmer: if she dreams of performing, the question loses its point.
+- **The profession visible from the first panel**, while the waiter still does not guess; the ending is dead.
+- **The cat speaking the narrator's words.**
+- **A human hand on a cat** whose paws are feline in the neighbouring panels.
+
+**The director.**
+- **The cyber-circus** (Gemini, 25 November): in a world of implants a talking cat is no anomaly, yet the waiter's amazement stays, and the picture contradicts itself.
+- **Red "on circus objects" in a warm café** (ChatGPT, 25 November): the colour was meant to mark the circus invading, but the café and the cat are warm too, and the contrast is lost.
+- **A dreamy face for "she understands everything"** (26 November, panel 5): the face came from the base of the edit, though the prompt asked for "No cute dream-face".
+- **A reviewer contradicting itself** (ChatGPT, September): praising the late laptop and advising to move it earlier.
+
+**The prompt contradicting itself.** The agent resolved the first four itself, in the header it added when passing the prompt on:
+- no cup before panel 8 against a description of the customers (a Claude prompt, 12 September);
+- an "internal text-count slip" in the number of balloons (a yonkoma, Claude);
+- a ban on phones with a corded telephone in the plot (the noir, Claude);
+- the characters' colours named in a two-ink print (Claude).
+
+Two more:
+- "An anthropomorphic Siamese in the furry-manga idiom" together with "No fanservice, no revealing clothing, no exaggerated figure": the result was half-furry (Part 1);
+- "furred paw-hands" with human gestures (26 November): the generator chose a human hand.
+
+**The AI readers.**
+- "The circus needs a programmer" breaks the joke: the waiter is not offering her a programmer's job (Part 1).
+- Readers close an open question ("a fool or an accomplice" → "did not understand") and invent sources (DeepSeek).
+
+**The joke itself** (the researcher's questions in Part 1).
+- Why does the waiter not go to work in the circus himself?
+- Why an uncle, and not a brother or a father?
+- "Closes her eyes dreamily" is not needed for the twist, yet it is what pulls the circus into almost every picture.
+
+**Contradictions that worked.**
+- **A bowl on the floor beside "Your own cage — dressing room!"** (the dog pianist): the word and the object argue, and this gives a thought instead of a poster (the researcher's observation).
+- **The empty chair** (Gemini's glitch) → the bakeneko and "the cat does not exist" (Part 1).
+- **"NO ANIMALS ALLOWED" crossed out, and "NO BICYCLE ALLOWED" beside it** (Gemini, unasked).
+- **The cat with her laptop on top of the strongman's pole** (Gemini, 25 November): even inside the waiter's fantasy she refuses to perform.
+
+### 12.7. What the models leave out unasked
+
+The mirror of the attractors: what does not come even when it is in the material. The researcher did not ask for this list; without it the picture seems incomplete to me.
+
+| Left out | By whom | Where seen |
+|---|---|---|
+| The line "And such good English! Where are you FROM?" (everyday xenophobia) | ChatGPT and Gemini | on the researcher's board of 25 November; neither model took it |
+| A black cat | ChatGPT, explicitly | October: "no work to do here" |
+| The racial reading | ChatGPT's default director | without a request, the naive cat; on request, at once (26 November) |
+| "She understands" | image generators, AI readers, ChatGPT's default director | 12.2; the researcher's reading comes only when named |
+| A villainous waiter | all directors | the waiter is always kind or bored (12.4); malice only in the harsh version the researcher asked for |
+| Anthropomorphism | ChatGPT's default director, until the researcher's remark | 12.4 |
+| The profession shown by clothing | ChatGPT's default director | "programmer clothing" is forbidden; the November generator does the opposite |
+
+### 12.8. The joke's slots
+
+The table brings 12.2 and 12.3 together: for each slot of the joke, its default, its attractors and the moves that shifted it.
+
+| Slot | Default | Attractors | What shifted it |
+|---|---|---|---|
+| Who she is (the body) | a tabby; a feline body in September, humanised by ChatGPT's November generator | the "cat at a computer" meme; an IT outfit | the researcher's scale 0–5; a jacket that does not fit (the ventriloquist diptych) |
+| How the profession shows | a laptop | `</>`, stickers, "Senior Dev" | a closed laptop; a pass worn like a collar; a badge |
+| Does she understand | she does not | the naive cat | naming the reading (26 November); her paw on the empty saucer ("The Order") |
+| Why the circus tempts | a dream | burnout; candy item by item; the cat as a spectator | coffee in the bubble: her dream is the order |
+| Where the circus is | a bubble | a bubble; a title poster | the circus only in words; the cake dome; a painted folding screen |
+| The waiter | young, enthusiastic, kind | "not a villain" | bored (the noir), poor, a recruiter |
+| How others look at her | astonished customers | phones | "everybody here works", indifference (after Sempé), "NO ANIMALS ALLOWED" |
+| Price, commodity | — | "valued for what she is"; a poster; a label "ATTRACTION" | the cake dome, a surcharge for cats |
+| An animal's place | the table | — | a bowl on the floor, a saucer of milk |
+| The ending | a laptop and a large punchline | the punchline as a poster | a quiet balloon (26 November), an empty chair |
+| Finish | photorealism (ChatGPT's generator); ivory and vermilion (ChatGPT's director) | "not AI slop" as a pit | the researcher's references; simplifying towards xkcd |
+
+**For the question of this report.** The diagram at the top puts the defaults and attractors inside the closed room, and the register mostly agrees: its items come from the models themselves — image generators, default directors and directors — and the five image generator defaults of Part 1 came in all three answers of arm A (section 2). One kind sits outside: attractors born from pictures and readers, such as "the cat is AI", which no answer in arm A gave; the diagram keeps them inside for simplicity. Where the defaults meet the project's loop, they are mostly the readers' default reading, the naive cat, which the curator pushed against throughout the project. What the closed room did not give — the items born from pictures and the notes on what a choice costs — lies outside it, in the loop.
+
 ## Limits
 
 - One run per model per arm, except the second step of arm E (three runs). DeepSeek was not run.
@@ -459,6 +776,7 @@ Section 10 showed where the September chain lost the list: the model cut it to o
 - Part 1 was written after the work, and its 69 items are what the curator wrote down, not everything the project produced.
 - No pictures were generated in these tests, and nothing here was shown to AI readers.
 - Section 11 rests on one run per director and prompt. Claude wrote the menippean prompt and is one of its directors, and the second versions of Alcofribas were written by the models that then directed under them.
+- Section 12 is my classification of the project's material. Most items rest on one or two runs per level. The counts of prohibitions are regular-expression counts over the agent's prompts and show how often a theme comes up, not exact numbers. Gemini's prompts to its generator are not visible, and level 1 is hardly reachable for it.
 
 ## The prompts
 
