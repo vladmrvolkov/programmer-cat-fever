@@ -1,6 +1,6 @@
 # Bifurcation of options: the cat joke, and whether a model can draw up such a list itself
 
-*This publication has two parts. Part 1 is the researcher's list "Bifurcation of options", written in Russian as an appendix to the article on the cat joke, which is still in preparation; Claude translated it, and the source marks in square brackets are the researcher's. Part 2 is a report written by Claude (a model by Anthropic) on 16 November 2026 (section 10 added on 19 November; section 11 and the diagram in section 7 on 25 November), at the researcher's request, on tests run on 15–16 November to check a claim made in Part 1: that no model could produce such a list simply in the course of reasoning. The researcher asked the question, ran every model and wrote the prompt of arm D and the request of the second step of arm E; Claude prepared the prompts of arms A, B, C and E, marked the answers, grouped the variants and chose the ten best. The researcher's observations and corrections are marked as theirs. Claude is also one of the three models tested, so here Claude partly assesses Claude. The models answered in Russian; the prompts and answers are published in translation in [the tests' folder](../../bifurcation-options/programmer-cat/README.md), and the quotes from them in this report are my own translations.*
+*This publication has two parts. Part 1 is the researcher's list "Bifurcation of options", written in Russian as an appendix to the article on the cat joke, which is still in preparation; Claude translated it, and the source marks in square brackets are the researcher's. Part 2 is a report written by Claude (a model by Anthropic) on 16 November 2026 (section 10 added on 19 November; section 11 and the diagram in section 7 on 25 November; a note on image generator defaults in Part 1 on 26 November), at the researcher's request, on tests run on 15–16 November to check a claim made in Part 1: that no model could produce such a list simply in the course of reasoning. The researcher asked the question, ran every model and wrote the prompt of arm D and the request of the second step of arm E; Claude prepared the prompts of arms A, B, C and E, marked the answers, grouped the variants and chose the ten best. The researcher's observations and corrections are marked as theirs. Claude is also one of the three models tested, so here Claude partly assesses Claude. The models answered in Russian; the prompts and answers are published in translation in [the tests' folder](../../bifurcation-options/programmer-cat/README.md), and the quotes from them in this report are my own translations.*
 
 **Contents.** [Part 1. Bifurcation of options](#part-1-bifurcation-of-options) · [Part 2. Can a model draw up the list itself?](#part-2-can-a-model-draw-up-the-list-itself) · [The prompts](#the-prompts)
 
@@ -23,6 +23,8 @@ Naturally, the options listed do not exhaust the possibilities. Again, I do not 
 Important: I did not think these options through before the work began. This is one of the requirements of the experiment: the human user should not have a ready solution.
 
 Unless stated otherwise, the options below were proposed by a virtual director or by the AI interlocutor model. Square brackets at the end of a line give the source of an option when it was neither a director nor the interlocutor, that is, when it came from an AI reader or an image generator. For the curator's readings, only the most important items are marked.
+
+*Note (Claude, 26 November): in this project ChatGPT and Gemini wrote their own prompt for their image generators even when no director's system prompt was used, so an "image generator default" below is the default of the model and its generator together. Later runs that sent the bare text of the joke to the generator (not published here) confirmed the European café; the thought bubble appeared in some of those runs and not in others; there is no such data for the other talking animals.*
 
 ## The cat: readings
 
@@ -209,7 +211,7 @@ My answer before the tests was: as a list, largely yes; in one pass, no. I gave 
 - some items were born from pictures that did not exist before generation;
 - the value of the list lies in the researcher's notes, and those were obtained from failures.
 
-The tests measured this against the list itself. Part 1 has 69 items with source marks: 50 from directors or the interlocutor, 5 image generator defaults, 5 moves or glitches of an image generator on a particular picture, 4 from readers and 5 from the curator. It also has three items that were "never used", and 18 notes of the kind "this breaks the joke" or "a sure road to AI slop".
+The tests measured this against the list itself. Part 1 has 69 items with source marks: 50 from directors or the interlocutor, 5 image generator defaults (the default of the model and its generator together; see the note under the legend in Part 1), 5 moves or glitches of an image generator on a particular picture, 4 from readers and 5 from the curator. It also has three items that were "never used", and 18 notes of the kind "this breaks the joke" or "a sure road to AI slop".
 
 ## The arms
 
