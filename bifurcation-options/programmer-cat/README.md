@@ -1,6 +1,6 @@
 # Testing the “list of options”: can a model compile such a list itself?
 
-*Translated from Russian. File names in code font that are not in this folder — `checklist*.md`, `variants.csv`, `axes-summary.*`, `synthesis/…`, `../ChatGPT/test-E.md`, `E-roles/_synthesis.md`, `E-roles/ideas/_review.md`, `8.md` — are working files of the analysis, in Russian, and are not published. The labels of axes, groups and predictions are transliterated from the Russian letters.*
+*Translated from Russian. File names in code font that are not in this folder — `variants.csv`, `axes-summary.*`, `synthesis/…`, `../ChatGPT/test-E.md`, `E-roles/_synthesis.md`, `E-roles/ideas/_review.md`, `8.md` — are working files of the analysis, in Russian, and are not published. The labels of axes, groups and predictions are transliterated from the Russian letters. The coding sheets (`checklist*.md`) and arm F (`F-vs/`, `F-seq/` and the two sections on arm F at the end) were translated by Claude (Sonnet 5.5) on 28 November 2026; the rest of the folder is the researcher's earlier translation.*
 
 **The human researcher's question (15 November).** Can a model compile a list of variants like the one in the [bifurcation-of-options appendix](../../report/bifurcation-options/README.md#part-1-bifurcation-of-options), simply while carrying out the task: “here is the source; propose all possible visualisations”? To simplify matters, styles are drawn from a fixed list. In the appendix itself, the researcher says they do not think any model can generate the entire list “simply in the course of reasoning”.
 
@@ -36,7 +36,7 @@ The test measures this against the list itself: 69 items with source marks, thre
 
 ## Coding
 
-The coding sheet is `checklist.md`.
+The coding sheet is [`checklist.md`](checklist.md).
 - An item counts if the answer contains the same idea, in any wording. The codes are explained at the top of the sheet.
 - A turn-1 answer usually consists of complete concepts combining reading, setting, and style. Each concept is broken down into items.
 - A note counts only if the model identifies the same risk or reason, rather than merely the option itself.
@@ -74,7 +74,7 @@ These are weak predictions: my predictions in this line of work have already fai
 - The style list contains 13 traditions, without emakimono.
 - Variant format: “in a few sentences: the visualisation concept, what is depicted and in what style”.
 
-The coding is in `checklist.md`. All variants are in `variants.csv`: semicolon-delimited, UTF-8 with BOM. As of 16 November, it contains 491 rows: arms A and B (337), and arm C (154: ChatGPT 104, Claude 34, Gemini 16; ChatGPT numbers such as “5.3” identify the style and variant). Each variant has a cluster based on the substance of the concept, references to other occurrences of that cluster, my ten best and related variants, and overlaps with the project. The clusters and markings are mine and should be checked. Since 16 November, the file also has an “experience notes” column: what the project already knows about such moves — “breaks the joke”, “image generator default”, “a road to AI slop”, what breeds mean, where the laptop glitches, how AI readers assess danger. The notes come from the researcher's options list, the working thread on the cat's readings and details (not published) and report 07; the source is given in parentheses. They are assigned in three ways: by cluster, by words in the description (breed, sex, waistcoat, laptop, thought bubble, badge, poster), and manually for five variants in which the circus really needs a programmer. There are notes on 239 of the 491 rows. A script assigns the word-based notes, so false positives are possible: for instance, “ginger tomcat” was attached to still life A-Cl-34 through “a ginger hair”. Without such notes, a model choosing from the file evaluates moves by its own criteria (see “Which screenwriter's axes were added compared with A”). The synthesis of the axes themselves across all sources (the researcher's list, prompt A, the models' own axes in A, B and C, and arm D) is in `axes-summary.md` and `axes-summary.csv`. It contains 48 common axes in six layers, from script to visual language, and 19 boundary axes where visual tradition itself settles a question of the script.
+The coding is in [`checklist.md`](checklist.md). All variants are in `variants.csv`: semicolon-delimited, UTF-8 with BOM. As of 16 November, it contains 491 rows: arms A and B (337), and arm C (154: ChatGPT 104, Claude 34, Gemini 16; ChatGPT numbers such as “5.3” identify the style and variant). Each variant has a cluster based on the substance of the concept, references to other occurrences of that cluster, my ten best and related variants, and overlaps with the project. The clusters and markings are mine and should be checked. Since 16 November, the file also has an “experience notes” column: what the project already knows about such moves — “breaks the joke”, “image generator default”, “a road to AI slop”, what breeds mean, where the laptop glitches, how AI readers assess danger. The notes come from the researcher's options list, the working thread on the cat's readings and details (not published) and report 07; the source is given in parentheses. They are assigned in three ways: by cluster, by words in the description (breed, sex, waistcoat, laptop, thought bubble, badge, poster), and manually for five variants in which the circus really needs a programmer. There are notes on 239 of the 491 rows. A script assigns the word-based notes, so false positives are possible: for instance, “ginger tomcat” was attached to still life A-Cl-34 through “a ginger hair”. Without such notes, a model choosing from the file evaluates moves by its own criteria (see “Which screenwriter's axes were added compared with A”). The synthesis of the axes themselves across all sources (the researcher's list, prompt A, the models' own axes in A, B and C, and arm D) is in `axes-summary.md` and `axes-summary.csv`. It contains 48 common axes in six layers, from script to visual language, and 19 boundary axes where visual tradition itself settles a question of the script.
 
 **Main findings.**
 1. **Without axes, a model lists ways of drawing, not readings.** In arm B, Claude has 50 variants and ChatGPT 144, mostly formats, angles and techniques: strips of 2–9 panels, a webtoon, the waiter's point of view, pixel art, a flowchart, a CV, correspondence. There are almost no readings of the cat beyond the default.
@@ -85,7 +85,7 @@ The coding is in `checklist.md`. All variants are in `variants.csv`: semicolon-d
 6. **Breeds have meanings, but not the researcher's meanings.** Siamese, black, tortoiseshell, British and ginger cats appear in almost all the answers. Claude assigns roles to breeds: Siamese — “haughtiness”, Persian — “a lady”, Sphynx — “a burned-out senior developer”, calico — “Japanese good luck”. But none mentions racial caricature, “tortoiseshell means she”, or Garfield. (The heading used to read “Breeds are named, meanings are not”; corrected following ChatGPT's review on 16 November.)
 7. **Sex follows the role.** The joke is supplied in Russian; its protagonist is a female cat. But when she becomes an engineer on a business trip or a traveller at a station (ChatGPT), a noir detective, a sacred Egyptian animal or a scholar among the Dutch (Gemini), she becomes a *kot*, a male cat. Claude does not do this. It is the mechanism from the thread on word determinism: the role brings its grammatical gender. **Correction, 16 November, following arm C.** No model uses *kot* in C; in B it appears once each in ChatGPT and Gemini; in A, five times in ChatGPT and eight in Gemini. The axis in prompt A explicitly asked about “the cat (breed, colour, sex…)”, and ChatGPT's axes table even listed “a male programmer cat, a female programmer cat”. Thus the prompt most likely suggested changing sex, while the role determined who became male: the engineer, traveller, detective or scholar.
 8. **The grid determines the number of variants.** ChatGPT has 78 = 6 × 13 styles and 144 = 12 × 12: list size follows the chosen structure rather than the material. In B, ChatGPT itself says that “it is literally impossible to list all possible variants”.
-9. **There are new items, but not all are new to the project.** I initially called Claude's Manet *A Bar at the Folies-Bergère* the best new item (the trapeze artist's legs: “the circus is already here, only the cat has her back to it”). The researcher corrected me: that variant already exists. Director B — Claude with the v17-fork prompt — proposed it, with the same key, the gymnast's legs as a hint at the circus; Gemini generated it on 20 October (the image is in director B's working folder, not published). This makes it the head of Claude's own distribution for this joke: a month later, without a persona or a search procedure, it reached the same painting through the same detail — like Wright for the cave. Claude's coworking space also already existed in v17's *The Calling of Saint Matthew*. “New” must be checked against the whole project, not just the list. The selection is in `checklist.md`. Models also supply their own notes: all three say the more realistic the animal, the stronger the ending; ChatGPT warns that historical styles require a special solution for a modern profession.
+9. **There are new items, but not all are new to the project.** I initially called Claude's Manet *A Bar at the Folies-Bergère* the best new item (the trapeze artist's legs: “the circus is already here, only the cat has her back to it”). The researcher corrected me: that variant already exists. Director B — Claude with the v17-fork prompt — proposed it, with the same key, the gymnast's legs as a hint at the circus; Gemini generated it on 20 October (the image is in director B's working folder, not published). This makes it the head of Claude's own distribution for this joke: a month later, without a persona or a search procedure, it reached the same painting through the same detail — like Wright for the cave. Claude's coworking space also already existed in v17's *The Calling of Saint Matthew*. “New” must be checked against the whole project, not just the list. The selection is in [`checklist.md`](checklist.md). Models also supply their own notes: all three say the more realistic the animal, the stronger the ending; ChatGPT warns that historical styles require a special solution for a modern profession.
 10. **Form pulls content** (researcher's observation, 15 November). A provided a style list, and almost every style brought its own content (theme, target, sometimes plot), not just manner. This is precisely the “how pulls the what” discussed in the conversation about `--sref`.
     - **Noir** (recoded on 16 November using the scale “mood — role — a hint of threat — a plot of its own”; previously “all nine are criminal”, which is incorrect). Only two Claude variants have a plot of their own: the waiter's debt to his uncle and a shadow with a whip (Claude 5), and escape from the circus (Claude 24). Gemini supplies a “before” biography: a night patching a bank's security, which is work, not crime. ChatGPT's six variants provide atmosphere and roles: seriousness “as if solving a crime” (25), a business card as evidence (26), “the circus is already pursuing the cat” (27), a private detective's appearance (28), interrogation (29), imagined secret contracts (30). For Claude, noir produced escape from the circus (variant 24), essentially an inversion of abduction. In the project, noir, chosen by the researcher, carried “recruitment into slavery”: the same abduction from the other side. Genre brings the theme of captivity; the direction — whether she is being abducted or has escaped — remains free.
     - ***Krokodil*** — all nine variants concern social vices: the uncle's patronage (blat) and protection in all three models, a quota for “amazing performers”, a specialist employed outside her field, a complaints book.
@@ -142,7 +142,7 @@ Claude's answer is in `claude.md`. On Windows, Claude Code working in this folde
 
 ### Results of arm C (16 November)
 
-The researcher ran three models; DeepSeek was not run. The answer files contain no mode line; judging by the previous run, the models were GPT 6 High, Fable 5.2 Extra and Argon 4 High, but this should be confirmed. The prompt matches the beginning of prompt A. Variant counts: ChatGPT 104 (eight per style), Claude 34, Gemini 16. Coding: `checklist-C.md`.
+The researcher ran three models; DeepSeek was not run. The answer files contain no mode line; judging by the previous run, the models were GPT 6 High, Fable 5.2 Extra and Argon 4 High, but this should be confirmed. The prompt matches the beginning of prompt A. Variant counts: ChatGPT 104 (eight per style), Claude 34, Gemini 16. Coding: [`checklist-C.md`](checklist-C.md).
 
 **Main findings.**
 1. **Axes supplied breadth of readings, rather than styles.** Full matches with group D of the researcher's list in C: ChatGPT 7, Claude 8, Gemini 4. This is the level of B (7, 6, 4), rather than A (16, 18, 11). “Before and after” and customers almost disappeared. The reading of the cat is almost everywhere the default.
@@ -166,7 +166,7 @@ The researcher ran three models; DeepSeek was not run. The answer files contain 
 
 ### Arm D: models construct axes themselves (16 November)
 
-**Design.** The researcher devised and ran this arm; the prompt is in `D-axes/_prompt.md`. Models receive the joke and a request to identify as complete a set of axes of variation as possible: for each, a name, a question for the author of the visualisation, and “why this choice matters specifically for this joke”. They were asked not to give concepts or values within the axes. This is not the “axes without styles” cell I proposed. D tests a more important question: can a model independently construct the structure supplied by A's prompt? The same models: GPT 6 High, Fable 5.2 Extra, Argon 4 High. ChatGPT's answer is in `chathpt.md` (a filename typo). Coding: `checklist-D.md`.
+**Design.** The researcher devised and ran this arm; the prompt is in `D-axes/_prompt.md`. Models receive the joke and a request to identify as complete a set of axes of variation as possible: for each, a name, a question for the author of the visualisation, and “why this choice matters specifically for this joke”. They were asked not to give concepts or values within the axes. This is not the “axes without styles” cell I proposed. D tests a more important question: can a model independently construct the structure supplied by A's prompt? The same models: GPT 6 High, Fable 5.2 Extra, Argon 4 High. ChatGPT's answer is in `D-axes/chatgpt.md`. Coding: [`checklist-D.md`](checklist-D.md).
 
 **Main findings.**
 1. **Models construct the structure when asked.** Treating the researcher's list's 14 sections as axes, Claude covered 13 fully — only breed and colour were missing; ChatGPT covered 7 fully and 5 partly; Gemini 6 and 3. All three have anthropomorphism, the waiter's motive, the image of the circus, customers, type of establishment, and signs of the profession. Only Claude has the cat's sex, “a local or an outsider”, and “before and after” beyond the joke. This corrects A's point 3: models did not construct axes in B because nobody asked.
@@ -229,7 +229,7 @@ This reference was assembled from the same three models' answers. E therefore al
 
 ### Results of arm E (16 November)
 
-The researcher ran three models (GPT 6 High, Fable 5.2 Extra, Argon 4 High); DeepSeek was not run. Coding: `checklist-E.md`.
+The researcher ran three models (GPT 6 High, Fable 5.2 Extra, Argon 4 High); DeepSeek was not run. Coding: [`checklist-E.md`](checklist-E.md).
 
 **Main findings.**
 1. **Models readily divide axes into blocks.** ChatGPT supplied 35 screenwriter's axes, 35 director-artist's axes and 36 comics-technique axes, plus 70 visual languages. Claude: 19, 11 and 16 axes (with sub-axes) and about 40 languages. Gemini: 10, 9 and 8 axes and 14 languages. Models place disputed axes differently. Claude, for example, puts anthropomorphism in B, because “the measure of the human arises only on paper”. All three put the profession's reveal in V.
@@ -346,3 +346,93 @@ Of all the additions, my searches found only two that had not arisen in the proj
 
 The same test, using the search procedure from fork v17 as the system prompt. It is published at [method/system-prompts/v17-fork-idea-search/AGENTS.md](../../method/system-prompts/v17-fork-idea-search/AGENTS.md): three readings of the source and two rounds of branching search. This will show whether branching helps. It did not help for the cave: director B using this procedure still named Wright first.
 
+## Arm F: Verbalized Sampling (plan, 28 November)
+
+*Written by Claude on 28 November 2026 at the researcher's request, after a review by Foma (Claude Opus 5.5) of the diagram from the report. The prompts are in [`F-vs/_prompt.md`](F-vs/_prompt.md) and [`F-seq/_prompt.md`](F-seq/_prompt.md).*
+
+**Why.** The reviewer objected that the loop should be compared not with a naive single prompt but with the best prompting in a closed room — and named Verbalized Sampling ([Zhang et al., arXiv 2510.01171](https://arxiv.org/abs/2510.01171), [website](https://www.verbalized-sampling.com/)). The model is asked to give several answers with probabilities and to draw them from the tails of the distribution. Arms A–C already asked for a list. In the paper's tables, VS gives a small gain over a plain list (Sequence), and in places none; “1.6–2.1 times” is against a single answer. So the arm tests two things:
+1. whether VS adds anything to a list in this task — over the same 69 items;
+2. the main one: whether the harsh, social reading (the dashed oval of the diagram: the cat as an outsider, discrimination, xenophobia) arrives if variants are drawn from the tails but the reading itself is not named. In arms A–E only the axis arrived — “the social status of intelligent animals” — but not its value.
+
+**Design.**
+
+| Arm | What the model is given | Messages |
+|---|---|---|
+| `F-vs` | the joke, the 13 styles of arm A and its axes; 5 variants per message, each with a probability, all from the tails (probability below 0.10) | 6: the first, and “5 more” five times, about 30 variants |
+| `F-seq` | the same without probabilities and tails | 6 |
+
+- The two differ from arm A in three things: five variants per message instead of “all possible”; the axes as directions of difference rather than a layout of the answer; and, a small thing, a request at the end of the first message not to use web search (A–C did not have it; search was switched off only in the settings). So the effect of VS is measured by comparing `F-vs` with `F-seq`, not with A. A remains a reference point.
+- About 30 variants per model is the order of Claude and Gemini in arm A (37 and 16); ChatGPT had 78 in A.
+- The VS wording is mine, in Russian, following the template from the website; the tags `<response>`, `<text>`, `<probability>` are left as they are. The prompts are in code blocks so that the tags do not disappear when the file is viewed.
+
+**Procedure.** As in the “Procedure” section above, points 2, 3 and 5:
+- a new chat for each arm, without memory or project;
+- web search off, in the settings as well: now both the project's materials and the VS website can be found, and the model may fail to follow the request in the prompt. If links or traces of search are visible in the answer, note this in the answer file;
+- models — ChatGPT, Claude, Gemini in the same modes as on 15 November, if they are still available; write the mode on the first line; DeepSeek is optional;
+  - **`F-vs` was run on 28 November in the modes ChatGPT GPT-6 High, Claude Opus 5.5 Extra, Gemini Neon High** (in A–C they were Fable 5.2 Extra and Argon 4 High). `F-seq` is to be run in the same modes as `F-vs`. The comparison of F with A–C is confounded by the change of the Claude and Gemini models;
+- messages one after another, each after the complete answer, no replies of my own added;
+- answers verbatim in `F-vs/<model>.md` and `F-seq/<model>.md` under the headings “Turn 1” — “Turn 6”;
+  - when copying, ChatGPT escapes the markup (`\<response>`, `\*\*`, a backslash at the end of lines); in `F-vs/chatgpt.md` this was removed on 28 November, the text was not changed;
+- if a model violates the format (a probability of 0.10 or more, no tags), do not correct it, only note it.
+
+**Coding.**
+- The sheet [`checklist.md`](checklist.md): new columns `F-vs` and `F-seq` for each model, the same codes.
+- A separate block **Zh** — the harsh reading. The sheet does not have it as a single item, only traces.
+  - **Zh1** — the reading itself: the cat as an outsider, a minority; the waiter's admiration as prejudice (“your English is so good”); discrimination by the café or by society (for example, a “NO DOGS” rule against a sign “WE SERVE EVERYONE”). `+` — the reading is there; `±` — only the axis is there (the status of intelligent animals, how far the cat is built into the human order) or only a hint.
+  - Traces that the sheet already has: V5 “tomorrow they'll want to vote”, V13 “tries to stroke”, P2 and P3 (black and Siamese, racial associations).
+  - Block Zh is coded by the researcher, not by me: the hypothesis and the predictions are mine.
+- Also record: the default among the first three variants of turn 1; the share of “stylisation without a new reading” (a cluster from `variants.csv`: 3% in A, 4.5% in C, 18% in B); what probabilities the model assigns and whether they change from turn to turn.
+
+**My predictions (28 November, before the run).** Weak, like the previous ones.
+- **PF1.** In group D, `F-vs` and `F-seq` differ by no more than three items in each model.
+- **PF2.** In `F-seq` the default is among the first three variants in all three models, as in A and B; in `F-vs`, turn 1 does without the default (a naive cat, a circus in a thought bubble) in at least two models of three.
+- **PF3.** The share of “stylisation without a new reading” in `F-vs` is higher than in `F-seq`: a tail by embeddings is more form than reading.
+- **PF4.** The probabilities are nearly identical (0.03–0.09) and do not change from turn to turn, that is, they serve as a lever rather than an estimate. The authors of VS do not claim calibration either.
+- **PF5.** Zh1 with a `+` is in no one in `F-seq` and in no more than one model in `F-vs`.
+- **PF6.** By turns 4–6, `F-vs` begins to repeat itself or goes off into absurdity and form: the tail, as the model sees it, is short.
+
+**What the result would mean.**
+- **Zh1 arrived in `F-vs` but not in `F-seq`.** The dashed zone is a tail of the distribution: it is reachable without a hint if one asks for the tails. Then on the diagram it moves inside the grey, to the border of “reachable by prompt”, as the reviewer proposed, and the caption “avoided unless asked” must be changed.
+- **Zh1 arrived in both.** It is the format (five variants, axes as directions), not VS.
+- **Zh1 arrived nowhere.** The avoidance holds even when sampling from the tails. This is an argument for the avoidance and thereby for the RLHF hypothesis, but not a proof. And an answer to the question “did you try the best prompt?”.
+- **PF1 held.** In this task VS adds almost nothing to a list, as in the paper's tables. The advantage of the loop is then not an artefact of weak prompting — at least relative to VS.
+- **Optional:** a second run of `F-vs` with one model — better Claude, which in step 2 of arm E repeated itself down to the details — will show whether the “tails” themselves repeat, that is, whether the unusual has an attractor of its own.
+
+## Arm F results (28 November)
+
+*The coding is mine — [`checklist-F.md`](checklist-F.md), which also has the variant numbers. Block Zh is my candidates, the decision is the researcher's. Every `±` and the items of groups G and K should be checked.*
+
+**The run.** Both arms — ChatGPT GPT-6 High, Claude Opus 5.5 Extra, Gemini Neon High, 30 variants per model. The format was kept; all 90 probabilities in `F-vs` are below 0.10. No search is visible in the answers. Claude's turn 4 in `F-seq` was at first inserted by mistake from Gemini's answer; the researcher replaced it, and the coding follows the corrected file.
+
+**Against the predictions.**
+- **PF1 failed, and in the direction of the control.** Group D, full matches: `F-vs` — ChatGPT 10, Claude 14, Gemini 8; `F-seq` — 15, 18, 12. The union of the three: 18 and 22; across all 69 items — 28 and 32. A difference of 4–5 items is comparable to the error of my coding, but in all three models it goes one way: VS added nothing to a list of five. For comparison, arm A: 16, 18, 11 with 78, 37 and 16 variants.
+- **PF2 hardly distinguished the arms.** The default among the first three variants: in `F-seq` — in ChatGPT and Gemini, almost in Claude (professional deformation, 1.1); in `F-vs` — in ChatGPT and Gemini, not in Claude.
+- **PF3 held for Claude.**
+  - In `F-seq`, Claude begins almost every variant with a “main idea”, that is, with a reading; in `F-vs` — with a style and an artist “in the spirit of…” (by a rough count 18 variants of 30 against 12).
+  - “The circus needs a programmer” (Ts3, “breaks the joke” in the researcher's list) takes up 17 variants of 30 in Claude's `F-vs`, most often in the “after”, and 4–5 in `F-seq`.
+  - Gemini is templated in both arms: “before” and “after”, a new breed in every variant, “naturalistic, without clothes”, a thought bubble in a new medium (smoke, frost, a mirror, steam).
+  - In ChatGPT the difference is small.
+- **PF4 held.** ChatGPT assigns probabilities from 0.017 to 0.087 and itself writes that they are “conditional: they reflect the presumed rarity… not a statistically measured distribution”. Claude has 7 different values, Gemini 6 (from 0.01 to 0.06).
+- **PF5.** The harsh reading as such is in neither arm: no cat as an outsider, no xenophobia, no racial associations. The closest is class snobbery (ChatGPT, `F-seq` 5.1). The other candidates are a care that proceeds from her being an outsider; disbelief in her competence; a sign “Bringing your own animals is not allowed” — in both arms and almost all in ChatGPT. A separate move is fear: the waiter is afraid of a predator and, under the pretext of the circus, shows it out (Gemini, `F-vs` 5.1; Claude, `F-vs` 5.1 — the waiter is a mouse, `F-seq` 4.2 — a tigress).
+- **PF6.** There is no absurdity. The “tail” is gathered by going through categories: all three models go round the list of styles in a circle, Gemini changes the breed, Claude the era and the artist.
+
+**What this means** (by “What the result would mean” above):
+- the outcome “Zh1 arrived nowhere” occurred: the avoidance holds even when sampling from the tails. This is an argument for the avoidance and for the RLHF hypothesis, but not a proof;
+- PF1 failed, and in the direction of the control. So the advantage of the loop is not an artefact of weak prompting, at least relative to VS;
+- the request to take from “the tails” moved Claude into a shared move (Ts3: all three models had it in arm A, and readers came to it in the project) and kept it there in 17 variants of 30: asked for “the unusual”, the model runs down a narrow channel;
+- the comparison with A–C is confounded by the change of the Claude and Gemini models.
+
+**What is new compared with Part 1** is mostly in Claude's `F-seq`:
+- the uncle exists only in the boy's boasting, and then the circus does come to the village after all (5.4); in 3.3 the uncle “was most likely invented for effect”;
+- both realise that they were speaking about different things (ChatGPT, `F-seq` 4.5: two rows of frames converge, and they look at each other “with equally sincere bewilderment”).
+
+  These are values of two questions that, according to the report (section 7), the project did not have — in arm E they came only as axes.
+
+More new items:
+- the conversation is not believed: the waiter looks for a ventriloquist, then for a computer “controlling the animal” (ChatGPT, `F-vs` 6.3); on behalf of an ordinary cat a programmer-ventriloquist speaks (Claude, `F-seq` 6.5);
+- the cat is a programmer's dream (Claude, `F-seq` 6.2);
+- in childhood a circus kitten who could not do a single trick (Claude, `F-seq` 3.4);
+- weariness of fame: “By Monday I had been offered eleven circuses” (Claude, `F-seq` 6.1);
+- the café is a set, and the cat is secretly being listened to by circus performers (Claude, `F-seq` 6.4);
+- the cat has been going to the circus for years only for the éclairs at the buffet and has never seen a performance (Claude, `F-seq` 4.5);
+- “the circus” as a parliament or the Capitol (ChatGPT, `F-vs` 5.2; Claude, `F-seq` 2.2).

@@ -90,7 +90,7 @@ What differed in practice, as far as single runs show it: the v7 directors devel
 - **[Reading tests](tests/README.md)** — the tests published so far (84), most of them used by the reports and the others on the cat joke or on other sources — Chomsky's sentence "Colorless green ideas sleep furiously" (77–79), a Japanese tale about a shaved escort (80–82), Žižek's reading of the red ink joke (83–86), a cartoon made from Warhol's and Yakovlev's canned food (87), a heraldic armorial of fantasy writers (100), four portraits of an "ugly princess" with a trap in the question (101) two pictures by Alcofribas, a director with a Rabelaisian persona (102–103) and a vet at a station buffet by a director without a persona, shown before and after its source joke (104) — each with its images, questions and saved reader conversations.
 - **[System prompts](method/system-prompts/README.md)** — the virtual directors' prompts without a persona, in English: v7 with its image requirements and pipeline, v10 without a persona, the fork's idea search, v7-ext and Menippea as moves; and the persona Alcofribas in six versions.
 - **[Directors' proposals](proposals/README.md)** — what the virtual directors proposed for the pictures published here, one file per subject: the cat joke, noir, the dragon's tooth, the liar paradox, Plato's cave (with Hobbes and Laplace's demon, the rescue of the picture and Bulatov), "Even sadder", the shaved escort, red ink, Chomsky's sentence, manna, the bear family, the Alcofribas director on the cat joke and the rector joke; a plain English translation of conversations held in Russian.
-- **[List tests](bifurcation-options/programmer-cat/README.md)** — the prompts and the models' answers behind *Bifurcation of options* (arms A–E and the second step of arm E), translated from Russian. These are not reading tests: the models were asked to list visualisations and axes, not to read a picture.
+- **[List tests](bifurcation-options/programmer-cat/README.md)** — the prompts and the models' answers behind *Bifurcation of options* (arms A–E, the second step of arm E, and arm F with Verbalized Sampling and its control), with the coding sheets, translated from Russian. These are not reading tests: the models were asked to list visualisations and axes, not to read a picture.
 - **[Protocols](method/protocols.md)** — how the images were prepared, which questions were asked, and what the numbers can and cannot mean.
 - **[Starting conditions](method/conditions.md)** — the rules the experiment started with: what the human was allowed to do and what counted as a successful image.
 
@@ -109,7 +109,7 @@ tests/
     chatgpt.md  claude.md  gemini.md  deepseek.md
 proposals/                 directors' proposals, translated from Russian
 bifurcation-options/
-  programmer-cat/          the list tests: prompts and answers, translated
+  programmer-cat/          the list tests: prompts, answers, coding sheets, translated
 images/
   tests/                   every test image, stored once
 method/
