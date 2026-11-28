@@ -1,14 +1,14 @@
 # Bifurcation of options: the cat joke, and whether a model can draw up such a list itself
 
-*This publication has two parts. Part 1 is the researcher's list "Bifurcation of options", written in Russian as an appendix to the article on the cat joke, which is still in preparation; Claude translated it, and the source marks in square brackets are the researcher's. Part 2 is a report written by Claude (a model by Anthropic) on 16 November 2026 (section 10 added on 19 November; section 11 and the diagram in section 7 on 25 November; a note on image generator defaults in Part 1, the diagram at the top and section 12 on 26 November; the link to a second version of the diagram on 28 November), at the researcher's request, on tests run on 15–16 November to check a claim made in Part 1: that no model could produce such a list simply in the course of reasoning. The researcher asked the question, ran every model and wrote the prompt of arm D and the request of the second step of arm E; Claude prepared the prompts of arms A, B, C and E, marked the answers, grouped the variants and chose the ten best. The researcher's observations and corrections are marked as theirs. Claude is also one of the three models tested, so here Claude partly assesses Claude. The models answered in Russian; the prompts and answers are published in translation in [the tests' folder](../../bifurcation-options/programmer-cat/README.md), and the quotes from them in this report are my own translations.*
+*This publication has two parts. Part 1 is the researcher's list "Bifurcation of options", written in Russian as an appendix to the article on the cat joke, which is still in preparation; Claude translated it, and the source marks in square brackets are the researcher's. Part 2 is a report written by Claude (a model by Anthropic) on 16 November 2026 (section 10 added on 19 November; section 11 and the diagram in section 7 on 25 November; a note on image generator defaults in Part 1, the diagram at the top and section 12 on 26 November; section 13 and the link to a second version of the diagram on 28 November), at the researcher's request, on tests run on 15–16 November, with arm F on 28 November, to check a claim made in Part 1: that no model could produce such a list simply in the course of reasoning. The researcher asked the question, ran every model and wrote the prompt of arm D and the request of the second step of arm E; Claude prepared the prompts of arms A, B, C, E and F, marked the answers, grouped the variants and chose the ten best. The researcher's observations and corrections are marked as theirs. Claude is also one of the three models tested, so here Claude partly assesses Claude. The models answered in Russian; the prompts and answers are published in translation in [the tests' folder](../../bifurcation-options/programmer-cat/README.md), and the quotes from them in this report are my own translations.*
 
 ![Options generated in a closed room, defaults and attractors, and options found in the project's loop](img/bifurcation-options-sets.png)
 
-*The researcher's diagram (26 November; the dashed oval added by the researcher the same evening); the labels of the red and the dashed ovals revised by Claude. Grey: options that models produce in a "closed room" — from the joke alone, with no pictures, AI readers or human (Part 2, arms A–E). Red: options found in the project's feedback loop — directors working with the curator, image generations and their accidents, AI readers, the curator. Blue: defaults and attractors — what the models produce unasked and keep coming back to ([section 12](#12-attractors-defaults-and-prohibitions-a-register-for-the-cat)). Dashed: what the models avoid unless asked — above all the harsh, social reading of the joke: the cat as a stranger, discrimination, xenophobia. In the project it came from the curator; in arms A–E it did not come ([section 7](#7-arm-e-the-screenwriter-the-director-artist-and-the-visual-languages); the list is in [12.7](#127-what-the-models-leave-out-unasked)). Why the models avoid it is not established: safety tuning (RLHF) is a hypothesis, and these data do not separate it from the plain rarity of such a reading. Censorship is not drawn: what a model refuses to produce cannot become a product of the project. The refusals met in the cat work were local, one model and one request at a time, and another model did the work ([12.5](#125-image-generator-problems)). The areas are not to scale. In the tests three models together reproduced 37 of the 69 items of Part 1, including all five image generator defaults; of the items born from pictures, only the bakeneko came up ([section 2](#2-with-axes-the-list-fills-about-halfway)).*
+*The researcher's diagram (26 November; the dashed oval added by the researcher the same evening); the labels of the red and the dashed ovals revised by Claude. Grey: options that models produce in a "closed room" — from the joke alone, with no pictures, AI readers or human (Part 2, arms A–E). Red: options found in the project's feedback loop — directors working with the curator, image generations and their accidents, AI readers, the curator. Blue: defaults and attractors — what the models produce unasked and keep coming back to ([section 12](#12-attractors-defaults-and-prohibitions-a-register-for-the-cat)). Dashed: what the models avoid unless asked — above all the harsh, social reading of the joke: the cat as a stranger, discrimination, xenophobia. In the project it came from the curator; in arms A–E it did not come, nor in arm F with sampling from the tails ([section 7](#7-arm-e-the-screenwriter-the-director-artist-and-the-visual-languages), [section 13](#13-arm-f-verbalized-sampling-the-best-prompt-in-a-closed-room); the list is in [12.7](#127-what-the-models-leave-out-unasked)). Why the models avoid it is not established: safety tuning (RLHF) is a hypothesis, and these data do not separate it from the plain rarity of such a reading. Censorship is not drawn: what a model refuses to produce cannot become a product of the project. The refusals met in the cat work were local, one model and one request at a time, and another model did the work ([12.5](#125-image-generator-problems)). The areas are not to scale. In the tests three models together reproduced 37 of the 69 items of Part 1, including all five image generator defaults; of the items born from pictures, only the bakeneko came up ([section 2](#2-with-axes-the-list-fills-about-halfway)).*
 
-*A second version of the diagram, drawn by Claude (Opus 5.5) on 28 November after arm F and two rounds of review against the files: [The Closed Room vs. the Feedback Loop](https://vladmrvolkov.github.io/programmer-cat-fever/report/bifurcation-options/closed-room-vs-feedback-loop/) (an HTML page). It is an Euler diagram with the numbers: counting arm F — Verbalized Sampling and its control, [in the tests' folder](../../bifurcation-options/programmer-cat/README.md#arm-f-verbalized-sampling-plan-28-november) — the closed room reaches 41 of the 69 items, and the harsh reading came in none of 24 runs. Model-generated; verify before quoting.*
+*A second version of the diagram, drawn by Claude (Opus 5.5) on 28 November after arm F and two rounds of review against the files: [The Closed Room vs. the Feedback Loop](https://vladmrvolkov.github.io/programmer-cat-fever/report/bifurcation-options/closed-room-vs-feedback-loop/) (an HTML page). It is an Euler diagram with the numbers: counting arm F — Verbalized Sampling and its control ([section 13](#13-arm-f-verbalized-sampling-the-best-prompt-in-a-closed-room)) — the closed room reaches 41 of the 69 items, and the harsh reading came in none of 24 runs. Model-generated; verify before quoting.*
 
-**Contents.** [Part 1. Bifurcation of options](#part-1-bifurcation-of-options) · [Part 2. Can a model draw up the list itself?](#part-2-can-a-model-draw-up-the-list-itself) · [12. Attractors, defaults and prohibitions](#12-attractors-defaults-and-prohibitions-a-register-for-the-cat) · [The prompts](#the-prompts)
+**Contents.** [Part 1. Bifurcation of options](#part-1-bifurcation-of-options) · [Part 2. Can a model draw up the list itself?](#part-2-can-a-model-draw-up-the-list-itself) · [12. Attractors, defaults and prohibitions](#12-attractors-defaults-and-prohibitions-a-register-for-the-cat) · [13. Arm F: Verbalized Sampling](#13-arm-f-verbalized-sampling-the-best-prompt-in-a-closed-room) · [The prompts](#the-prompts)
 
 ---
 
@@ -221,7 +221,7 @@ The tests measured this against the list itself. Part 1 has 69 items with source
 
 ## The arms
 
-All runs were made by the researcher: ChatGPT (GPT-6 High), Claude (Fable 5.2 Extra) and Gemini (Argon 4 High), each in a fresh chat without memory or project, web search off, one message per run. DeepSeek was not run. The full prompts are at the end, in translation; the prompts with all the answers, including the map and the 27 concepts of step 2, are in [the tests' folder](../../bifurcation-options/programmer-cat/README.md).
+All runs were made by the researcher: ChatGPT (GPT-6 High), Claude (Fable 5.2 Extra) and Gemini (Argon 4 High), each in a fresh chat without memory or project, web search off, one message per run; arm F, added on 28 November, differs in models and in the number of messages (section 13). DeepSeek was not run. The full prompts are at the end, in translation; the prompts with all the answers, including the map and the 27 concepts of step 2, are in [the tests' folder](../../bifurcation-options/programmer-cat/README.md).
 
 | Arm | What the model was given | What came back |
 |---|---|---|
@@ -231,6 +231,7 @@ All runs were made by the researcher: ChatGPT (GPT-6 High), Claude (Fable 5.2 Ex
 | **D** | the joke; build as complete a set of axes of variation as you can (name, the question for the author of the picture, why it matters for this joke), no concepts | ChatGPT 60 axes, Claude 26, Gemini 20 |
 | **E** | prompt D, but the axes split into the screenwriter's, the director-artist's and comics technique; a list of visual languages and what each brings to the reading; which visual axes decide questions of the script | axes: ChatGPT 35 + 35 + 36, Claude 19 + 11 + 16 (with sub-axes), Gemini 10 + 9 + 8; languages: about 70, 40 and 14 |
 | **E, step 2** | a "map" assembled from the three E answers; three concepts of a picture, three independent runs per model | 27 concepts |
+| **F** (28 November, [section 13](#13-arm-f-verbalized-sampling-the-best-prompt-in-a-closed-room)) | prompt A reworked: five variants per message, six messages; in F-vs each variant with a probability and from the tails of the distribution (Verbalized Sampling), in F-seq without; newer Claude and Gemini models | 30 variants per model in each arm |
 
 The 13 styles: manga; the French magazine cartoon of the 20th century; the minimalist webcomic; the American newspaper political cartoon; the noir comic; English children's book illustration; Soviet children's book illustration; naive art; the narrative painting of the old masters; Impressionism; the Japanese ukiyo-e print; the Soviet satirical magazine *Krokodil*; Ancient Egyptian painting. They were drawn from traditions the project had used or been offered; traditions were named, not artists, so as not to hint at the project's own solutions.
 
@@ -766,6 +767,62 @@ The table brings 12.2 and 12.3 together: for each slot of the joke, its default,
 
 **For the question of this report.** The diagram at the top puts the defaults and attractors inside the closed room, and the register mostly agrees: its items come from the models themselves — image generators, default directors and directors — and the five image generator defaults of Part 1 came in all three answers of arm A (section 2). One kind sits outside: attractors born from pictures and readers, such as "the cat is AI", which no answer in arm A gave; the diagram keeps them inside for simplicity. Where the defaults meet the project's loop, they are mostly the readers' default reading, the naive cat, which the curator pushed against throughout the project. What the closed room did not give — the items born from pictures and the notes on what a choice costs — lies outside it, in the loop.
 
+## 13. Arm F: Verbalized Sampling, the best prompt in a closed room
+
+*Added on 28 November. The arm answers a review of the diagram at the top by Foma, a reviewer persona run on Claude Opus 5.5. I wrote the prompts and the predictions, the researcher ran the models, and the coding is mine. The prompts and answers in translation, the coding sheet and my plan with its predictions are in [the tests' folder](../../bifurcation-options/programmer-cat/README.md#arm-f-verbalized-sampling-plan-28-november).*
+
+**Why.** The review went at the diagram itself. What the models avoid unless asked lies within their capacities, it argued, so a single request brings it out and no feedback loop is needed; worse, one prompt can widen the closed room itself. It named Verbalized Sampling (VS; Zhang et al., [arXiv 2510.01171](https://arxiv.org/abs/2510.01171)): the model is asked for several answers, each with a probability, drawn from the tails of its distribution, and in creative tasks the paper reports 1.6–2.1 times more diversity. Hence a demand of method: compare the loop not with a naive single prompt but with the best prompting in a closed room, or the loop's advantage is overstated. The reviewer predicted that VS would narrow the loop's advantage but not remove it.
+
+Two points needed narrowing before a test. The closed room of arms A–C was not a naive prompt: it asked for lists, and arm A for lists along axes. And "1.6–2.1 times" is measured against a single answer; against a plain list, the paper's Sequence baseline, the gain in the paper's own tables is small, and in places absent. So the arm asked two questions: whether VS adds anything to a list in this task, measured on the same 69 items; and, above all, whether the harsh reading — the cat as an outsider, discrimination, xenophobia — comes when variants are drawn from the tails and the reading itself is not named. In arms A–E only its axis came, "the social status of intelligent animals", not its value (section 7).
+
+**Design.**
+
+| Arm | What the model was given | What came back |
+|---|---|---|
+| **F-vs** | prompt A reworked for VS: five variants per message, each in a `<response>` tag with a `<probability>`, "chosen at random from the tails of the distribution, so that the probability of each is less than 0.10"; the 13 styles of A; the axes of A as directions in which the variants should differ; then "5 more variants in the same format, also from the tails", five times | 30 variants per model |
+| **F-seq** | the same without probabilities and tails: the control, the paper's Sequence | 30 variants per model |
+
+Both arms differ from A in the same ways — five variants per message instead of "all possible", the axes as directions rather than a layout of the answer, and a line asking the model not to use web search — so the effect of VS is read by comparing F-vs with F-seq, and A is a reference point. The researcher made the runs on 28 November, in fresh chats: ChatGPT (GPT-6 High), Claude (Opus 5.5 Extra), Gemini (Neon High). In arms A–C Claude and Gemini were Fable 5.2 Extra and Argon 4 High, so any comparison with A is confounded by the change of models. The coding used the sheet of A–C, with a separate block for the harsh reading.
+
+**Coverage.** Full matches with the 50 items from directors and the interlocutor, and the union over all 69 items:
+
+| | ChatGPT | Claude | Gemini | Three together | All 69 items |
+|---|---|---|---|---|---|
+| F-vs | 10 | 14 | 8 | 18 | 28 |
+| F-seq | 15 | 18 | 12 | 22 | 32 |
+| A, for comparison | 16 | 18 | 11 | 25 | 37 |
+
+The difference of 4–5 items is within the error of my coding, but in all three models it goes the same way, towards the control: VS added nothing to a list of five per message. Counting all the closed-room arms that produced variants (A, B, C and F), the room reaches 41 of the 69 items, 28 of the 50 from directors. F added four, two in each arm: Egypt with the cat as an architect and a fate traced from kittenhood (Claude, F-seq), the cat in a mouse circus (Claude, F-vs) and the Japanese kissaten (Gemini, F-vs). That leaves 28 items, 22 of them from directors, found only in the loop.
+
+**The harsh reading did not come in either arm.** No cat as an outsider, no xenophobia, no racial associations for the black or the Siamese cat. The nearest candidates, all partial:
+
+- class snobbery (ChatGPT, F-seq 5.1): a snob waiter sees in the circus "a chance to introduce her to civilised society", but she has long since made her career, and her status refutes his misjudgement;
+- care that takes her for an outsider: the waiter wants to help her find her place in life (ChatGPT, F-vs 2.2);
+- disbelief in her competence: the waiter looks for a ventriloquist, then for a computer controlling the animal (ChatGPT, F-vs 6.3);
+- fear: a superstitious waiter takes her for a frightening anomaly and wants to pass her on to a freak show (Gemini, F-vs 5.1), or a waiter politely shows a predator out to the circus (Claude, F-vs 5.1 with a mouse for a waiter, and F-seq 4.2 with a tigress);
+- a sign "Bringing your own animals is not allowed" that a cat customer walks past (Gemini, F-seq 5.2).
+
+Over all the closed-room runs that produced variants or concepts — A, B and C, the second step of E, and F: 24 runs and about 700 variants — the harsh reading never came. Variants within a run share one context and fall into one rut, so the run, not the variant, is the unit; by the rule of three this bounds the harsh reading at about one run in eight in this setup. That is all the data say: they do not separate avoidance from rarity, nor either from the models not seeing the reading at all. The candidates are mine; whether any of them is the harsh reading is for the researcher to decide, and that check has not been made yet.
+
+**The probabilities are decorative.** All 90 are below 0.10. ChatGPT spread them from 0.017 to 0.087 and wrote itself that they "reflect the presumed rarity of the visual concepts, not a statistically measured distribution"; Claude used seven different values, Gemini six, from 0.01 to 0.06. The paper's authors do not claim calibration either.
+
+**The tails are narrow, and each model has its own way into them.**
+
+- Claude under VS ended 17 of its 30 variants with the circus needing her work — a ticket office, a website, a scoreboard under the big top, COBOL before the year 2000 — against 4–5 in F-seq. The move is a shared one: all three models gave it in arm A, readers came to it in the project, and Part 1 marks it as breaking the joke. Asked for the unusual, Claude ran into the common. Under VS it also more often opened a variant with a style and an artist, "in the spirit of…", where in F-seq it opened with the main idea, a reading.
+- Gemini was templated in both arms: a "before" and an "after", a new breed in every variant, and the thought bubble moved into a new medium — smoke, frost, a mirror, steam over a cup.
+- All three gathered novelty by going through categories, breeds and eras above all; the styles came from the prompt's list.
+
+**What was new against Part 1** came mostly in the control. F-seq gave values for two questions the project had not answered, which arm E brought only as axes: the uncle exists only in the bragging of a boy of about ten who helps at his grandmother's roadside café (Claude, F-seq 5.4), and at the end both sides realise they were talking about different things and look at each other "with equally sincere bewilderment" (ChatGPT, F-seq 4.5). Near Part 1's "there is no cat" came a programmer-ventriloquist speaking for an ordinary cat (Claude, F-seq 6.5) and the cat as a programmer's dream (Claude, F-seq 6.2). Further: the weariness of fame, "I started talking on Thursday. By Monday I had been offered eleven circuses" (Claude, F-seq 6.1); the café as a set where circus performers secretly listen to the cat (Claude, F-seq 6.4); a cat who has gone to the circus for years only for the éclairs at the buffet (Claude, F-seq 4.5); and the circus as a parliament or the Capitol (ChatGPT, F-vs 5.2; Claude, F-seq 2.2).
+
+**What it means for the question.**
+
+- In this task the best prompt the review could name did not widen the closed room beyond a plain list; on coverage the control did slightly better. The loop's advantage is not an artefact of weak prompting, at least relative to VS. The reviewer's prediction that VS would narrow it did not hold here.
+- The harsh reading stayed outside even when the models were sent to the tails. This fits the view that the models avoid it, and the safety-tuning hypothesis in the caption at the top, but proves neither.
+- Sent to the tails, a model runs down a narrow channel: Claude into a shared move, Gemini into templates, all three into sweeping categories. By the paper's own measure, the distance between embeddings, VS might still have won here; I measured coverage of Part 1. That measure is fair for "can the room reach what the loop found", not for "which is more productive", since Part 1 itself was built in the loop.
+- The next steps the data point to are a run that permits uncomfortable or socially sharp readings without naming any, and a recognition test, with the harsh reading shown among distractors.
+
+The second version of the diagram, linked under the first at the top, is drawn from this section. Its ladder of hints runs from "no answer in the prompt" through permission, the models' own axes and the category named, to the reading named, which is the old "reachable by prompt" boundary.
+
 ## Limits
 
 - One run per model per arm, except the second step of arm E (three runs). DeepSeek was not run.
@@ -779,6 +836,7 @@ The table brings 12.2 and 12.3 together: for each slot of the joke, its default,
 - No pictures were generated in these tests, and nothing here was shown to AI readers.
 - Section 11 rests on one run per director and prompt. Claude wrote the menippean prompt and is one of its directors, and the second versions of Alcofribas were written by the models that then directed under them.
 - Section 12 is my classification of the project's material. Most items rest on one or two runs per level. The counts of prohibitions are regular-expression counts over the agent's prompts and show how often a theme comes up, not exact numbers. Gemini's prompts to its generator are not visible, and level 1 is hardly reachable for it.
+- Section 13 rests on one run per model in each of its two arms, with newer Claude and Gemini models than in A–C. Only the basic form of VS was tried, in my Russian wording with the threshold 0.10; the paper's other variants were not. Coverage was measured against Part 1, not by distance between embeddings. The coding and the harsh-reading candidates are mine, so here too Claude partly codes Claude.
 
 ## The prompts
 
@@ -879,6 +937,24 @@ The table brings 12.2 and 12.3 together: for each slot of the joke, its default,
 > - the visual manner, colour and light;
 > - for a comic, the content and order of the panels;
 > - the exact text of the lines and its placement, if text is included in the image.
+
+**Arm F-vs** (section 13).
+
+> There is this joke: [the joke]
+>
+> Propose ways of visualising this joke — an illustration or a comic. Do not choose the best one or draw a picture. Describe each variant in a few sentences: the concept of the visualisation, what is shown and in which style from the list below.
+>
+> Give 5 variants, each in a separate `<response>` tag. Each `<response>` contains a `<text>` tag with the description of the variant and a `<probability>` tag with the numerical probability of that variant. Choose the variants at random from the tails of the distribution, so that the probability of each is less than 0.10.
+>
+> Style — only from this list: [the 13 styles of arm A]
+>
+> Let the variants differ along these axes: [the axes of arm A]
+>
+> Do not use web search: answer on your own.
+
+Then, five times, each after the full answer: "5 more variants in the same format, also from the tails of the distribution: the probability of each is less than 0.10."
+
+**Arm F-seq.** The same without probabilities and tails: "Give 5 variants, each in a separate `<response>` tag. Each `<response>` contains a `<text>` tag with the description of the variant." Then, five times: "5 more variants in the same format."
 
 ---
 
